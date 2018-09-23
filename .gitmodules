@@ -10,3 +10,6 @@
 [submodule "Most-Cited-Deep-Learning-Papers"]
 	path = Most-Cited-Deep-Learning-Papers
 	url = https://github.com/terryum/awesome-deep-learning-papers
+[submodule "CheatSheets"]
+	path = CheatSheets
+	url = https://github.com/kailashahirwar/cheatsheets-ai
