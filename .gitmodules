@@ -4,3 +4,6 @@
 [submodule "TensorFlow-Examples"]
 	path = TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples
+[submodule "Books-Papers-Roadmap"]
+	path = Books-Papers-Roadmap
+	url = https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
