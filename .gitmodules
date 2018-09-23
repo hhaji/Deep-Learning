@@ -1,0 +1,3 @@
+[submodule "TFLearn"]
+	path = TFLearn
+	url = https://github.com/tflearn/tflearn
