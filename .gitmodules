@@ -1,3 +1,6 @@
 [submodule "TFLearn"]
 	path = TFLearn
 	url = https://github.com/tflearn/tflearn
+[submodule "TensorFlow-Examples"]
+	path = TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples
