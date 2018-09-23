@@ -7,3 +7,6 @@
 [submodule "Books-Papers-Roadmap"]
 	path = Books-Papers-Roadmap
 	url = https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+[submodule "Most-Cited-Deep-Learning-Papers"]
+	path = Most-Cited-Deep-Learning-Papers
+	url = https://github.com/terryum/awesome-deep-learning-papers
