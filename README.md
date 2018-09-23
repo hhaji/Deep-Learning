@@ -1,2 +1,2 @@
-# TensorFlow-Digits
-Recognize Digit Numbers Using TensorFlow (Deep Learning)
+# Deep Learning
+* [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
