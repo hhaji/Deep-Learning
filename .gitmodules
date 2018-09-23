@@ -13,3 +13,6 @@
 [submodule "CheatSheets"]
 	path = CheatSheets
 	url = https://github.com/kailashahirwar/cheatsheets-ai
+[submodule "PyTorch"]
+	path = PyTorch
+	url = https://github.com/pytorch/pytorch
