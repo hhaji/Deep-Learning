@@ -10,5 +10,8 @@
 ](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * [Recurrent Neural Networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
 
+## Courses
+* [Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
+
 ## Videos
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
