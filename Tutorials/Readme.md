@@ -9,6 +9,7 @@
 * [Understanding Activation Functions in Neural Networks
 ](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * [Recurrent Neural Networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
+* [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
 ## Courses
 * [Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
