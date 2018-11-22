@@ -6,6 +6,7 @@
 
 ## Papers
 * [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://arxiv.org/pdf/1610.02583.pdf)
+* [􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀Eficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ## Videos
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
