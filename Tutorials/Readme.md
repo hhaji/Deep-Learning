@@ -3,7 +3,7 @@
 ## Convolutional Neural Networks (CNN)
 ### Blogs
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) by Christopher Olah
-* [A series of blog posts on convolutional neural networks and their generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
+* [A Series of Blog Posts on Convolutional Neural Networks and Their Generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
 
 ## Recurrent Neural Networks (RNN)
 ### Papers
