@@ -2,6 +2,9 @@
 
 ## Convolutional Neural Networks (CNN)
 ### Blogs
+* [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah
+* [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/) by Christopher Olah
+* [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/) by Christopher Olah
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) by Christopher Olah
 * [A Series of Blog Posts on Convolutional Neural Networks and Their Generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
 
