@@ -1,5 +1,11 @@
 # Tutorials
 
+## Neural Networks (General)
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
+* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) by Christopher Olah
+* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
+
 ## Convolutional Neural Networks (CNN)
 ### Blogs
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah
@@ -28,10 +34,10 @@
 ### Videos
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
 
-## Neural Networks (General)
-* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
-* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
-* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) by Christopher Olah
-* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
+## Visualizing Neural Networks
+* [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) by Christopher Olah
+* [Visualizing Representations: Deep Learning and Human Beings](http://colah.github.io/posts/2015-01-Visualizing-Representations/) by Christopher Olah
+* [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html) 
 * [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) published in Distill 
 * [Feature Visualization: How Neural Networks Build Up Their Understanding of Images](https://distill.pub/2017/feature-visualization/) published in Distill
+* [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
