@@ -4,7 +4,7 @@
 ### Blogs
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah
 * [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/) by Christopher Olah
-* [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/) by Christopher Olah
+* [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/) published in Distill
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) by Christopher Olah
 * [A Series of Blog Posts on Convolutional Neural Networks and Their Generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
 
@@ -15,7 +15,7 @@
 
 ### Blogs
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
-* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) 
+* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) published in Distill 
 * [Recurrent Neural Networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
 * [Understanding Architecture of LSTM Cell from Scratch with Code](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 * [Understanding Activation Functions in Neural Networks
@@ -33,4 +33,5 @@
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) by Christopher Olah
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
-* [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
+* [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) published in Distill 
+* [Feature Visualization: How Neural Networks Build Up Their Understanding of Images](https://distill.pub/2017/feature-visualization/) published in Distill
