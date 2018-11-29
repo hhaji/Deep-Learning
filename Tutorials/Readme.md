@@ -31,4 +31,6 @@
 ## Neural Networks (General)
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) by Christopher Olah
+* [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
 * [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
