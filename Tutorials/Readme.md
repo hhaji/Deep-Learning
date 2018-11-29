@@ -6,6 +6,7 @@
 
 ## Blogs
 * [Recurrent Neural Networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
+* [Understanding architecture of LSTM cell from scratch with code](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Understanding Activation Functions in Neural Networks
 ](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
