@@ -3,6 +3,7 @@
 ## Convolutional Neural Networks (CNN)
 ### Blogs
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) by Christopher Olah
+* [A series of blog posts on convolutional neural networks and their generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
 
 ## Recurrent Neural Networks (RNN)
 ### Papers
@@ -25,4 +26,5 @@
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
 
 ## Neural Networks (General)
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
