@@ -33,6 +33,7 @@
 
 ### Videos
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
+* [Deep Learning](https://uwaterloo.ca/data-analytics/deep-learning) by Ali Ghodsi <br>
 
 ## Visualizing Neural Networks
 * [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) by Christopher Olah
