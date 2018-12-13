@@ -42,3 +42,6 @@
 * [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) published in Distill 
 * [Feature Visualization: How Neural Networks Build Up Their Understanding of Images](https://distill.pub/2017/feature-visualization/) published in Distill
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
+
+## Program
+[TensorFlow Playground:](https://playground.tensorflow.org) An interactive visualization of neural networks, written in typescript using d3.js.
