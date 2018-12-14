@@ -44,5 +44,4 @@
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
 
 ## Program
-[TensorFlow Playground](https://playground.tensorflow.org) by Daniel Smilkov and Shan Carter<br> 
-TensorFlow Playground is an interactive visualization of neural networks, written in typescript using d3.js.<br>
+[TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
