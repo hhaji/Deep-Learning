@@ -7,7 +7,7 @@
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
 ## Courses:
-[Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+[Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
 
 ## Useful Links in Deep Learning:
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
