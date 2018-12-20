@@ -6,6 +6,9 @@
 ## TensorFlow
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
+## Courses:
+[Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+
 ## Useful Links in Deep Learning:
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
