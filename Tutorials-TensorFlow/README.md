@@ -1,7 +1,7 @@
 # Tutorials
 
 ## Useful Blogs to Learn TensorFlow
-* [Graphs and Sessions](https://www.tensorflow.org/guide/graphs)
+* [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow
 * TensorFlow: [The Confusing Part 1](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/) & [The Confusing Part 2](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman <br>
 
 ## Program
