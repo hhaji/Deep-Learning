@@ -8,3 +8,6 @@
 
 ## Program
 [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
+
+## Installation
+* [Installation Using Conda](https://conda.io/docs/user-guide/install/index.html) 
