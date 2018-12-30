@@ -1,6 +1,7 @@
 # Tutorials
 
 ## Useful Blogs to Learn TensorFlow
+* [Python TensorFlow Tutorial – Build a Neural Network](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/) 
 * TensorFlow: [The Confusing Part 1](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/) & [The Confusing Part 2](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman <br>
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial) by Dino Causevic <br>
 * [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow <br>
