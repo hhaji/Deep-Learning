@@ -6,6 +6,7 @@
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial) by Dino Causevic <br>
 * [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow <br>
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
+* [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/)
 
 ## Program
 [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter <br> 
