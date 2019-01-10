@@ -15,6 +15,7 @@
 ## Blogs
 * The blog of [Danijar Hafner](https://danijar.com/blog/): Interesting tutorials about TensorFlow
 * [Easy TensorFlow](https://www.easy-tensorflow.com/tf-tutorials/basics) by Aryan Mobiny, Mohammad Najarian, and Jahandar Jahanipour<br>
+* [DeepLearnPhysics Group](http://deeplearnphysics.org/Blog/archives.html) by Corey Adams, Ji Won Park, Kazuhiro Terao, Laura Domine, and Taritree <br>
 
 ## Papers
 * [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf) by Peter Goldsborough <br>
