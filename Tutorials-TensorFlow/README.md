@@ -10,6 +10,9 @@
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
 * [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/)
 
+## Papers
+* [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf) by Peter Goldsborough <br>
+
 ## Program
 [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter <br> 
 
