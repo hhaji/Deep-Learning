@@ -9,6 +9,7 @@
 * [Interactive Sessions](https://databricks.com/tensorflow/interactive-sessions) by DataBricks <br>
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
 * [A Sweeping Tour of TensorFlow](http://www.goldsborough.me/tensorflow/ml/ai/python/2017/06/28/20-21-45-a_sweeping_tour_of_tensorflow/) by Peter Goldsborough <br>
+* [What is a TensorFlow Session?](https://danijar.com/what-is-a-tensorflow-session/) by Danijar Hafner <br>
 * [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/)
 
 ## Papers
