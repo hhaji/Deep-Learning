@@ -6,6 +6,7 @@
 * TensorFlow: [The Confusing Part 1](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/) & [The Confusing Part 2](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman <br>
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial) by Dino Causevic <br>
 * [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow <br>
+* [Interactive Sessions](https://databricks.com/tensorflow/interactive-sessions) by DataBricks <br>
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
 * [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/)
 
