@@ -11,6 +11,7 @@
 * [A Sweeping Tour of TensorFlow](http://www.goldsborough.me/tensorflow/ml/ai/python/2017/06/28/20-21-45-a_sweeping_tour_of_tensorflow/) by Peter Goldsborough <br>
 * [What is a TensorFlow Session?](https://danijar.com/what-is-a-tensorflow-session/) by Danijar Hafner <br>
 * [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/)
+* [From Scikit-learn to TensorFlow : Part 1](https://towardsdatascience.com/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85) by  Karthik M Swamy <br>
 
 ## Blogs
 * The blog of [Danijar Hafner](https://danijar.com/blog/): Interesting tutorials about TensorFlow
