@@ -21,6 +21,9 @@
 * [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://arxiv.org/pdf/1610.02583.pdf)
 * [􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀Eficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
+## Deep Reinforcement Learning
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
+
 ### Blogs
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) published in Distill 
