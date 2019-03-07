@@ -22,6 +22,7 @@
 * [􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀Eficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ### Blogs
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy <br>
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) published in Distill 
 * [Recurrent Neural Networks and LSTM Tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
