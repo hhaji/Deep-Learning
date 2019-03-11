@@ -1,6 +1,7 @@
 # Tutorials
 
 ## Neural Networks (General)
+* The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Fascinating Tutorials on Deep Learning](https://r2rt.com/)
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
 * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) by Christopher Olah
