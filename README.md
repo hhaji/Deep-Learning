@@ -37,9 +37,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 Saturday and Monday 08:00-09:30 AM (Fall 2019)
 
 ## <a name="Projects"></a>Projects:
-Projects are programming assignments that cover the topic of this course. Any project is written by     
-**[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as  
-additional Python libraries.  
+Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries.  
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
