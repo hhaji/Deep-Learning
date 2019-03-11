@@ -1,6 +1,9 @@
 # Deep Learning
-## Slides & Jupyter NoteBooks:
 
+## <a name="Main-TextBooks"></a>Main TextBooks:
+* [Deep learning](http://www.deeplearningbook.org), An MIT Press book (2015), by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
+
+## Slides & Jupyter NoteBooks:
 * [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
 ## TensorFlow
