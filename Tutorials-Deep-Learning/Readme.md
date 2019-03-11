@@ -1,5 +1,9 @@
 # Tutorials
 
+## Papers & Books
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
+
 ## Neural Networks (General)
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Fascinating Tutorials on Deep Learning](https://r2rt.com/)
