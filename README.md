@@ -6,6 +6,7 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
+- [Slides and Papers](#Slides-and-Papers)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -33,11 +34,19 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Deep learning](http://www.deeplearningbook.org), An MIT Press book (2015), by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
 
+
+## <a name="Slides-and-Papers"></a>Slides and Papers:
+
+Recommended Slides & Papers:
+* [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
+
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Saturday and Monday 08:00-09:30 AM (Fall 2019)
 
 ## <a name="Projects"></a>Projects:
-Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries.  
+Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
+
+* [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
@@ -91,11 +100,7 @@ We will follow the standard of Department of Mathematical Sciences approach:
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
 
-## Slides & Jupyter NoteBooks:
-* [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
-## TensorFlow
-* [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
 ## Courses:
 [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
