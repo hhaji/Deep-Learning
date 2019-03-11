@@ -25,7 +25,9 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
 
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
-In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
+In this course, you will learn the foundations of Deep Learning, understand how to build 
+neural networks, and learn how to lead successful machine learning projects. You will learn 
+about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
