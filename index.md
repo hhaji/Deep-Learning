@@ -33,6 +33,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Deep learning](http://www.deeplearningbook.org), An MIT Press book (2015), by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
+* ]Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen <br>
 
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
