@@ -99,13 +99,3 @@ We will follow the standard of Department of Mathematical Sciences approach:
 
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
-
-
-
-## Courses:
-[Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
-
-## Useful Links in Deep Learning:
-* The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
-* [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
-* [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad)
