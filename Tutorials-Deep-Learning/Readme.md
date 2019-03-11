@@ -8,6 +8,7 @@
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/) by Christopher Olah
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
 * [A Guide to Deep Learning](https://yerevann.com/a-guide-to-deep-learning/) by YerevaNN Research Lab
+* [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
 
 ## Convolutional Neural Networks (CNN)
 ### Blogs
