@@ -5,6 +5,7 @@
 * [TensorFlow & Deep Learning Without Ph.D.](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 * TensorFlow: [The Confusing Part 1](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/) & [The Confusing Part 2](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman <br>
 * [Getting Started with TensorFlow: A Machine Learning Tutorial](https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial) by Dino Causevic <br>
+* [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad)
 * [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow <br>
 * [Interactive Sessions](https://databricks.com/tensorflow/interactive-sessions) by DataBricks <br>
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
