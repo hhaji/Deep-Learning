@@ -63,4 +63,4 @@
 * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
 * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
 * [Deep Learning](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
-
+* [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
