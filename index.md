@@ -33,7 +33,6 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 * [Deep learning](http://www.deeplearningbook.org) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) By Michael Nielsen <br>
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen <br>
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
 * [Deep Learning Step by Step with Python: A Very Gentle Introduction to Deep Neural Networks for Practical Data Science](https://www.amazon.com/Deep-Learning-Step-Python-Introduction/dp/1535410264) by By N. D. Lewis <br>
