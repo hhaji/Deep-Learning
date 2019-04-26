@@ -13,6 +13,7 @@
 * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah
 * [A Guide to Deep Learning](https://yerevann.com/a-guide-to-deep-learning/) by YerevaNN Research Lab
 * [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
+* Blog: [The Vanishing Gradient Problem (The Problem, Its Causes, Its Significance, and Its Solutions)](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484) by Chi-Feng Wang
 
 ## Convolutional Neural Networks (CNN)
 ### Blogs
