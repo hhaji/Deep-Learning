@@ -1,10 +1,10 @@
 # Tutorials
 
-## Papers & Books
+## Papers & Books:
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
 
-## Neural Networks (General)
+## Neural Networks (General):
 * The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks
 * [Fascinating Tutorials on Deep Learning](https://r2rt.com/)
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) by Christopher Olah
@@ -15,20 +15,20 @@
 * [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/)
 * Blog: [The Vanishing Gradient Problem (The Problem, Its Causes, Its Significance, and Its Solutions)](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484) by Chi-Feng Wang
 
-## Convolutional Neural Networks (CNN)
-### Blogs
+## Convolutional Neural Networks (CNN):
+### Blogs:
 * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah
 * [Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/) by Christopher Olah
 * [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/) published in Distill
 * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/) by Christopher Olah
 * [A Series of Blog Posts on Convolutional Neural Networks and Their Generalizations](https://github.com/colah/Conv-Nets-Series) by Christopher Olah
 
-## Recurrent Neural Networks (RNN)
-### Papers
+## Recurrent Neural Networks (RNN):
+### Papers:
 * [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://arxiv.org/pdf/1610.02583.pdf)
-* [􏰚􏰛􏰘􏰙􏰖􏰗􏰔􏰕􏰒􏰓􏰃􏰑􏰏􏰐􏰍􏰎􏰋􏰌􏰉􏰊􏰇􏰈􏰅􏰆􏰃􏰄􏰁􏰂􏰀Eficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+* [Eficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
-### Blogs
+### Blogs:
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy <br>
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) published in Distill 
@@ -38,17 +38,20 @@
 ](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
-### Courses
+### Courses:
 * [Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
 
-### Videos
+### Videos:
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
 * [Deep Learning](https://uwaterloo.ca/data-analytics/deep-learning) by Ali Ghodsi <br>
 
-## Deep Reinforcement Learning
+## Deep Reinforcement Learning:
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
 
-## Visualizing Neural Networks
+## Autoencoders:
+[Deep Learning : Autoencoders Fundamentals and types](https://codeburst.io/deep-learning-types-and-autoencoders-a40ee6754663) by Pramod Chandrayan 
+
+## Visualizing Neural Networks:
 * [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) by Christopher Olah
 * [Visualizing Representations: Deep Learning and Human Beings](http://colah.github.io/posts/2015-01-Visualizing-Representations/) by Christopher Olah
 * [Inceptionism: Going Deeper into Neural Networks](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html) 
@@ -56,10 +59,10 @@
 * [Feature Visualization: How Neural Networks Build Up Their Understanding of Images](https://distill.pub/2017/feature-visualization/) published in Distill
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
 
-## Program
+## Program:
 [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
 
-## Deep Learning Courses
+## Deep Learning Courses:
 
 * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
 * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
