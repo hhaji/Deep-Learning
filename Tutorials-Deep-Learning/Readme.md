@@ -45,6 +45,9 @@
 * [Recurrent Neural Network (RNN) Tutorial](https://www.youtube.com/watch?v=lWkFhVq9-nc) by Simplilearn
 * [Deep Learning](https://uwaterloo.ca/data-analytics/deep-learning) by Ali Ghodsi <br>
 
+## Generative Adversarial Networks (GAN):
+* [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
+
 ## Deep Reinforcement Learning:
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
 
