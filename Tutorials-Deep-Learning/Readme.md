@@ -47,6 +47,7 @@
 
 ## Generative Adversarial Networks (GAN):
 * [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
+* [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora <br>
 
 ## Deep Reinforcement Learning:
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
