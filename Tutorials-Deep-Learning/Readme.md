@@ -53,7 +53,7 @@
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
 
 ## Autoencoders:
-[Deep Learning : Autoencoders Fundamentals and types](https://codeburst.io/deep-learning-types-and-autoencoders-a40ee6754663) by Pramod Chandrayan 
+* [Deep Learning : Autoencoders Fundamentals and types](https://codeburst.io/deep-learning-types-and-autoencoders-a40ee6754663) by Pramod Chandrayan 
 
 ## Visualizing Neural Networks:
 * [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) by Christopher Olah
@@ -64,7 +64,7 @@
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
 
 ## Program:
-[TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
+* [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
 
 ## Deep Learning Courses:
 
