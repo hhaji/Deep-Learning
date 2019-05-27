@@ -64,7 +64,7 @@
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) published in Distill
 
 ## Program:
-* [Ludwig:](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+* [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
   - [Installation](https://github.com/uber/ludwig)
 * [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
 
