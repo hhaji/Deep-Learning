@@ -69,6 +69,9 @@
   - [Installation](https://github.com/uber/ludwig)
 * [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter<br> 
 
+## Activation Function:
+* [Difference Between Softmax Function and Sigmoid Function](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/) by Saimadhu Polamuri  <br>
+
 ## Deep Learning Courses:
 
 * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
