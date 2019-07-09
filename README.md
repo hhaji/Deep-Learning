@@ -37,10 +37,17 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 ![Book 1](/Images/DL.jpg) ![Book 2](/Images/NNDL.jpg) ![Book 3](/Images/DDLP.png) ![Book 4](/Images/ProDeep.jpg) ![Book 5](/Images/Mastering.jpg)
 
-* [Deep learning](http://www.deeplearningbook.org) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville.
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen <br>
+```
+Main TextBooks:
+```
+* [Deep learning](http://www.deeplearningbook.org) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
+
+```
+Extra TextBooks:
+```
 * [Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python](https://www.amazon.com/Pro-Deep-Learning-TensorFlow-Mathematical-ebook/dp/B077Z79LVJ) by Santanu Pattanayak <br>
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen <br>
 * [Mastering TensorFlow 1.x: Advanced machine learning and deep learning concepts using TensorFlow 1.x and Keras]() by by Armando Fandango <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
