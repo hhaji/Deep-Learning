@@ -8,6 +8,8 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
+  1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
+  2. Lecture 2: [Toolkit Lab (Part 2)](#Part-2) 
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -42,10 +44,22 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
+
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
+- [Set up Tensorflow](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup) 
+- Slide: [Overview of Tensorflow](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing) <br>
+     - **Exercises:** <br>
+- NoteBook: [Overview of Tensorflow](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb)  
+
+2. ### <a name="Part-2"></a>Toolkit Lab (Part 2)
+- Slide: [Operations](https://docs.google.com/presentation/d/1iO_bBL_5REuDQ7RJ2F35vH2BxAiGMocLC6t_N-6eXaE/edit#slide=id.g1bd10f151e_0_0) <br>
+     - **Exercises:** <br>
+- NoteBook: [Operations](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec2.ipynb)  
+ 
 * [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Saturday and Monday 08:00-09:30 AM (Fall 2019)
+Sunday and Tuesday 13:00-14:30 AM (Fall 2019)
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
