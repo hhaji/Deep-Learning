@@ -57,20 +57,21 @@ Extra TextBooks:
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
 - [Set up Tensorflow](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 - Slide: [Overview of Tensorflow](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
-     - **Exercises:** <br>
-- NoteBook: [Overview of Tensorflow!](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide ([Overview of Tensorflow](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
+    - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide [Overview of Tensorflow]((https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
+- **Exercises:** <br>
 
 2. ### <a name="Part-2"></a>Toolkit Lab (Part 2)
 - Slide: [Operations](https://docs.google.com/presentation/d/1iO_bBL_5REuDQ7RJ2F35vH2BxAiGMocLC6t_N-6eXaE/edit#slide=id.g1bd10f151e_0_0) by Chip Huyen <br>
-     - **Exercises:** <br>
-- NoteBook: [Operations!](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec2.ipynb) This was adopted from the slide ([Operations](https://docs.google.com/presentation/d/1iO_bBL_5REuDQ7RJ2F35vH2BxAiGMocLC6t_N-6eXaE/edit#slide=id.g1bd10f151e_0_0)) of Chip Huyen <br>
+    - NoteBook: [Operations!](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec2.ipynb) This was adopted from the slide ([Operations](https://docs.google.com/presentation/d/1iO_bBL_5REuDQ7RJ2F35vH2BxAiGMocLC6t_N-6eXaE/edit#slide=id.g1bd10f151e_0_0)) of Chip Huyen <br>
 - NoteBook: [Useful Operations in TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec3.ipynb) <br>
 - Blog: [Variables Sharing in TensorFlow: Variable vs get_variable](http://stefanocappellini.com/tf-variable-vs-get_variable-sharing/) by Stefano Cappellini 
   - [NoteBook](https://github.com/StefanoCappellini/tensorflow_tips/blob/master/TF-variable-sharing.ipynb) <br>
+  - **Exercises:** <br>
 
 3. ### <a name="Part-3"></a>Toolkit Lab (Part 3) 
 * Blog: [Tensorflow: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>
+  - **Exercises:** <br>
   
  
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
