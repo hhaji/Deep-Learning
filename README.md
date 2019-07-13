@@ -66,12 +66,12 @@ Extra TextBooks:
 - NoteBook: [Useful Operations in TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec3.ipynb) <br>
 - Blog: [Variables Sharing in TensorFlow: Variable vs get_variable](http://stefanocappellini.com/tf-variable-vs-get_variable-sharing/) by Stefano Cappellini 
   - [NoteBook](https://github.com/StefanoCappellini/tensorflow_tips/blob/master/TF-variable-sharing.ipynb) <br>
-  - **Exercises:** <br>
+- **Exercises:** <br>
 
 3. ### <a name="Part-3"></a>Toolkit Lab (Part 3) 
 * Blog: [Tensorflow: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
-  - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>
-  - **Exercises:** <br>
+  - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
+- **Exercises:** <br>
   
  
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
