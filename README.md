@@ -69,8 +69,9 @@ Extra TextBooks:
 - **Exercises:** <br>
 
 3. ### <a name="Part-3"></a>Toolkit Lab (Part 3) 
-* Blog: [Tensorflow: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
+- Blog: [Tensorflow: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
+- Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
 - **Exercises:** <br>
   
  
