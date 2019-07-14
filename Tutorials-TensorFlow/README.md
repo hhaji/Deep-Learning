@@ -26,6 +26,9 @@ More Resources:
 * [What is a TensorFlow Session?](https://danijar.com/what-is-a-tensorflow-session/) by Danijar Hafner <br>
 * [A Practical Guide for Debugging TensorFlow Codes]() by Jongwook Choi <br>
 
+### Algorithms  
+* [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/) by Jason Brownlee <br>
+
 ## Papers
 * [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf) by Peter Goldsborough <br>
 
