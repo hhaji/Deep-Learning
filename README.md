@@ -76,7 +76,7 @@ Extra TextBooks:
 - **Exercises:** <br>
 
 4. ### <a name="Part-4"></a>Toolkit Lab (Part 4) 
-- Slide: [Operations](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
+- Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
 - **Exercises:** <br>
  
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
