@@ -14,6 +14,7 @@ More Resources:
 * From Scikit-learn to TensorFlow : [Part 1](https://towardsdatascience.com/from-scikit-learn-to-tensorflow-part-1-9ee0b96d4c85) & [Part 2](https://towardsdatascience.com/from-scikit-learn-to-tensorflow-part-2-66c56985d6c7) by  Karthik M Swamy <br>
 * [Python TensorFlow Tutorial – Build a Neural Network](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/) <br>
 * [DeepLearnPhysics Group](http://deeplearnphysics.org/Blog/archives.html) by Corey Adams, Ji Won Park, Kazuhiro Terao, Laura Domine, and Taritree <br>
+* [Keras vs. TensorFlow – Which one is better and which one should I learn?](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/) by  Adrian Rosebrock <br>
 
 ### Learn Important Concepts and Tools in TensorFlow   
 * [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad) <br>
@@ -28,6 +29,9 @@ More Resources:
 
 ### Algorithms  
 * [How To Improve Deep Learning Performance](https://machinelearningmastery.com/improve-deep-learning-performance/) by Jason Brownlee <br>
+
+### TensorFlow & Deep Learning  
+* [Tensorflow Tutorial 2: Image Classifier Using Convolutional Neural Network](http://lunar.southeastasia.cloudapp.azure.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/) by Ankit Sachan <br>
 
 ## Papers
 * [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf) by Peter Goldsborough <br>
