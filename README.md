@@ -11,6 +11,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
   2. Lecture 2: [Toolkit Lab (Part 2)](#Part-2)
   3. Lecture 3: [Toolkit Lab (Part 3)](#Part-3) 
+  4. Lecture 4: [Toolkit Lab (Part 4)](#Part-4) 
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -73,7 +74,10 @@ Extra TextBooks:
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
 - Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
 - **Exercises:** <br>
-  
+
+4. ### <a name="Part-4"></a>Toolkit Lab (Part 4) 
+- Slide: [Operations](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
+- **Exercises:** <br>
  
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
