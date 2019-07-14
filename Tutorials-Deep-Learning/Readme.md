@@ -72,6 +72,9 @@
 ## Activation Function:
 * [Difference Between Softmax Function and Sigmoid Function](http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/) by Saimadhu Polamuri  <br>
 
+## Important Concepts in Deep Learning:
+* [Generative VS Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) by Prathap Manohar Joshi <br> 
+
 ## Deep Learning Courses:
 
 * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
