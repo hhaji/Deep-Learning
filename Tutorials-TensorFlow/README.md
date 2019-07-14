@@ -17,6 +17,7 @@ More Resources:
 
 ### Learn Important Concepts and Tools in TensorFlow   
 * [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad) <br>
+* [How to get started debugging TensorFlow](https://www.freecodecamp.org/news/debugging-tensorflow-a-starter-e6668ce72617/) by Daniel Deutsch <br>
 * [TensorFlow Eager Tutorial](http://adventuresinmachinelearning.com/tensorflow-eager-tutorial/) <br> 
 * [Variables Sharing in TensorFlow: Variable vs get_variable](http://stefanocappellini.com/tf-variable-vs-get_variable-sharing/) by Stefano Cappellini <br>
 * [Graphs and Sessions](https://www.tensorflow.org/guide/graphs) by TensorFlow <br>
