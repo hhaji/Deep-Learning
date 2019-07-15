@@ -54,6 +54,7 @@
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy <br>
 
 ## Autoencoders:
+* Autoencoders: Deep Learning with TensorFlow's Eager Execution](http://www.datastuff.tech/machine-learning/autoencoder-deep-learning-tensorflow-eager-api-keras/) by  Strikingloo <br>
 * [Deep Learning : Autoencoders Fundamentals and types](https://codeburst.io/deep-learning-types-and-autoencoders-a40ee6754663) by Pramod Chandrayan 
 
 ## Visualizing Neural Networks:
