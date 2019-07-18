@@ -55,7 +55,7 @@ Extra TextBooks:
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
 * Install: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip)
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
-* Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by by the TensorFlow Team <br>
+* Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team <br>
 ```
 Extra Resources:
 ```
