@@ -53,7 +53,8 @@ Extra TextBooks:
   Recommended Slides & Papers:
 
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
-* [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip)
+* [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
+* [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
 * Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team <br>
 ```
@@ -90,6 +91,7 @@ Projects are programming assignments that cover the topic of this course. Any pr
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
+  - [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
   - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
   - [Deep Learning Development with Google Colab, TensorFlow, Keras & PyTorch](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html)
 
