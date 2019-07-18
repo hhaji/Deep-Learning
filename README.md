@@ -53,11 +53,13 @@ Extra TextBooks:
   Recommended Slides & Papers:
 
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
-* Install: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
+* Install: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip)
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
+* Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by by the TensorFlow Team <br>
 ```
 Extra Resources:
 ```
+* [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
 * [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
 * [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged)   <br>
 
