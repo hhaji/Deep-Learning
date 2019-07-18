@@ -53,21 +53,21 @@ Extra TextBooks:
   Recommended Slides & Papers:
 
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
-* [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
-* [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
+* Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
+* Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
 * Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team <br>
 ```
 Extra Resources:
 ```
-* [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
-* [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
-* [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged)   <br>
+* Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
+* Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
+* Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged)   <br>
 
 ```
 TensorFlow 1.
 ```
-- [Set up Tensorflow 1.](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
+- Blog: [Set up Tensorflow 1.](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 - Slide: [Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
     - [NoteBook:](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide ([Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
 - Slide: [Operations (TensorFlow 1.)](https://docs.google.com/presentation/d/1iO_bBL_5REuDQ7RJ2F35vH2BxAiGMocLC6t_N-6eXaE/edit#slide=id.g1bd10f151e_0_0) by Chip Huyen <br>
