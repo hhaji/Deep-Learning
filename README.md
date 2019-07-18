@@ -52,9 +52,9 @@ Extra TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
 
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
-- Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
-
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
+* Install: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
+* NoteBook: [TensorFlow 2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) published by Packt <br>
 ```
 Extra Resources:
 ```
