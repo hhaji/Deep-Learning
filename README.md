@@ -9,6 +9,8 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
+  2. Lecture 2: [Introduction](#Introduction) 
+  3. Lecture 3: [Deep Feedforward Networks](#DFN) 
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -79,7 +81,14 @@ TensorFlow 1.
 - Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
 - Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
- 
+2. ### <a name="Introduction"></a>Introduction  
+* Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+  - [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
+
+3. ### <a name="DFN"></a>Deep Feedforward Networks 
+* Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+  - [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  and a group discussion at a reading group at Google organized by Chintan Kaur.
+
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
