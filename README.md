@@ -14,6 +14,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   4. Lecture 4: [Regularization for Deep Learning](#RFDL) 
   5. Lecture 5: [Optimization for Training Deep Models](#OFTDM) 
   6. Lecture 6: [Convolutional Networks](#CNN) 
+  7. Lecture 7: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
 - [Extra NoteBooks and Slides](#ENAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -87,11 +88,10 @@ TensorFlow 1.
 - Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
 2. ### <a name="Introduction"></a>Introduction  
 * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
-  - [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
-
+* [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
 3. ### <a name="DFN"></a>Deep Feedforward Networks 
 * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
-  - [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  and a group discussion at a reading group at Google organized by Chintan Kaur.
+* [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  and a group discussion at a reading group at Google organized by Chintan Kaur.
 4. ### <a name="RFDL"></a>Regularization for Deep Learning 
 * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow 
 5. ### <a name="OFTDM"></a>Optimization for Training Deep Models 
@@ -102,12 +102,17 @@ Ian's presentation at the 2016 Re-Work Deep Learning Summit. Covers Google Brain
  * Slide: [Batch Normalization](https://www.deeplearningbook.org/slides/batch_norm.pdf) by Ian Goodfellow  
  * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba.
 6. ### <a name="CNN"></a>Convolutional Networks 
-* Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  
-  - [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. 
+* Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
+A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
+* [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. 
 ```
 Extra Resources:
 ```
 * [An intuitive guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
+7. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks 
+* Slide: [Sequence Modeling](https://www.deeplearningbook.org/slides/10_rnn.pdf)  by Ian Goodfellow  <br>
+A presentation summarizing Chapter 10, based directly on the textbook itself.
+* [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova.
  
 ### <a name="ENAS"></a>Extra NoteBooks and Slides 
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
