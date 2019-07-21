@@ -11,6 +11,10 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
   2. Lecture 2: [Introduction](#Introduction) 
   3. Lecture 3: [Deep Feedforward Networks](#DFN) 
+  4. Lecture 4: [Regularization for Deep Learning](#RFDL) 
+  5. Lecture 5: [Optimization for Training Deep Models](#OFTDM) 
+  6. Lecture 6: [Convolutional Networks](#CNN) 
+- [Extra NoteBooks and Slides](#ENAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -82,13 +86,30 @@ TensorFlow 1.
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
 - Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
 2. ### <a name="Introduction"></a>Introduction  
-* Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
   - [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
 
 3. ### <a name="DFN"></a>Deep Feedforward Networks 
-* Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
   - [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  and a group discussion at a reading group at Google organized by Chintan Kaur.
-
+4. ### <a name="RFDL"></a>Regularization for Deep Learning 
+* Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow 
+5. ### <a name="OFTDM"></a>Optimization for Training Deep Models 
+ * Slide: [Gradient Descent and Structure of Neural Network Cost Functions](https://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf) by Ian Goodfellow  
+These slides describe how gradient descent behaves on different kinds of cost function surfaces. Intuition for the structure of the cost function can be built by examining a second-order Taylor series approximation of the cost function. This quadratic function can give rise to issues such as poor conditioning and saddle points. Visualization of neural network cost functions shows how these and some other geometric features of neural network cost functions affect the performance of gradient descent.
+ * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow
+Ian's presentation at the 2016 Re-Work Deep Learning Summit. Covers Google Brain research on optimization, including visualization of neural network cost functions, Net2Net, and batch normalization.
+ * Slide: [Batch Normalization](https://www.deeplearningbook.org/slides/batch_norm.pdf) by Ian Goodfellow  
+ * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba.
+6. ### <a name="CNN"></a>Convolutional Networks 
+* Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  
+  - [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. 
+```
+Extra Resources:
+```
+* [An intuitive guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
+ 
+### <a name="ENAS"></a>Extra NoteBooks and Slides 
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
