@@ -46,7 +46,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 Main TextBooks:
 ```
-* [Deep learning](http://www.deeplearningbook.org) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
+* [Deep learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
 
 ```
