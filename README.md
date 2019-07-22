@@ -130,7 +130,10 @@ Extra Resources:
 A presentation summarizing Chapter 10, based directly on the textbook itself.
 * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova.
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
-
+```
+Extra Resources:
+```
+* Slide: [Sequence Modeling: Recurrent and Recursive Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L12-rnn.pdf) by U Kang <br> 
 ### <a name="ENAS"></a>Extra NoteBooks and Slides 
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
 
