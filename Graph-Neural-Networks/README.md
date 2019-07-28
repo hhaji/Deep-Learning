@@ -10,5 +10,8 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 - [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
 - [Applications of Graph Neural Networks](https://towardsdatascience.com/https-medium-com-aishwaryajadhav-applications-of-graph-neural-networks-1420576be574) by Aishwarya Jadhav
 
+## Graph Convolutionl Networks
+- [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf<br>
+
 ## Graph Nets Library:
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for building graph networks in Tensorflow and Sonnet.
