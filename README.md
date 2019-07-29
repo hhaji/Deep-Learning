@@ -91,6 +91,10 @@ TensorFlow 1.
 Chapter 1 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
+```
+Extra Resources:
+```
+- [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, Kendi Muchungi <br>
 3. ### <a name="DFN"></a>Deep Feedforward Networks  
 Chapter 6 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
