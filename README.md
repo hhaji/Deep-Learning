@@ -94,7 +94,7 @@ Chapter 1 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 ```
 Extra Resources:
 ```
-- [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, Kendi Muchungi <br>
+- [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi <br>
 3. ### <a name="DFN"></a>Deep Feedforward Networks  
 Chapter 6 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
