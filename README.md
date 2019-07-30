@@ -127,7 +127,7 @@ Extra Resources:
 ```
 Required Reading:
 ```  
-* [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) textbook. <br>
+* [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
  * Slide: [Gradient Descent and Structure of Neural Network Cost Functions](https://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf) by Ian Goodfellow   
 These slides describe how gradient descent behaves on different kinds of cost function surfaces. Intuition for the structure of the cost function can be built by examining a second-order Taylor series approximation of the cost function. This quadratic function can give rise to issues such as poor conditioning and saddle points. Visualization of neural network cost functions shows how these and some other geometric features of neural network cost functions affect the performance of gradient descent.
  * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow    
@@ -142,7 +142,7 @@ Extra Resources:
 ```
 Required Reading:
 ```
-* [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) textbook. <br>
+* [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
 A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
 * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br>
@@ -160,7 +160,7 @@ Extra Resources:
 ```
 Required Reading:
 ```
-* [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) textbook. <br>
+* [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Sequence Modeling](https://www.deeplearningbook.org/slides/10_rnn.pdf)  by Ian Goodfellow  <br>
 A presentation summarizing Chapter 10, based directly on the textbook itself.
 * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova.
