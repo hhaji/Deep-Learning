@@ -60,6 +60,9 @@ Extra TextBooks:
   Recommended Slides & Papers:
 
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
+```
+Required Reading:
+```
 * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
 * Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
@@ -87,8 +90,11 @@ TensorFlow 1.
 - Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
 - Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen <br>
-2. ### <a name="Introduction"></a>Introduction   
-Chapter 1 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+2. ### <a name="Introduction"></a>Introduction  
+```
+Required Reading:
+```
+* [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova
 ```
@@ -96,7 +102,10 @@ Extra Resources:
 ```
 - [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi <br>
 3. ### <a name="DFN"></a>Deep Feedforward Networks  
-Chapter 6 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+```
+Required Reading:
+```
+* [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
 * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur.
 * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah <br>
@@ -105,14 +114,20 @@ Extra Resources:
 ```
 * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang <br> 
 4. ### <a name="RFDL"></a>Regularization for Deep Learning  
-Chapter 7 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+```
+Required Reading:
+```
+* [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow 
 ```
 Extra Resources:
 ```
 * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang <br> 
 5. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
-Chapter 8 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+```
+Required Reading:
+```  
+* [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) textbook. <br>
  * Slide: [Gradient Descent and Structure of Neural Network Cost Functions](https://www.deeplearningbook.org/slides/sgd_and_cost_structure.pdf) by Ian Goodfellow   
 These slides describe how gradient descent behaves on different kinds of cost function surfaces. Intuition for the structure of the cost function can be built by examining a second-order Taylor series approximation of the cost function. This quadratic function can give rise to issues such as poor conditioning and saddle points. Visualization of neural network cost functions shows how these and some other geometric features of neural network cost functions affect the performance of gradient descent.
  * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow    
@@ -123,8 +138,11 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
 Extra Resources:
 ```
 * Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang <br> 
-6. ### <a name="CNN"></a>Convolutional Networks  
-Chapter 9 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+6. ### <a name="CNN"></a>Convolutional Networks   
+```
+Required Reading:
+```
+* [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) textbook. <br>
 * Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
 A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
 * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br>
@@ -139,7 +157,10 @@ Extra Resources:
 * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
 * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin <br>
 7. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
-Chapter 10 of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+```
+Required Reading:
+```
+* [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) textbook. <br>
 * Slide: [Sequence Modeling](https://www.deeplearningbook.org/slides/10_rnn.pdf)  by Ian Goodfellow  <br>
 A presentation summarizing Chapter 10, based directly on the textbook itself.
 * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova.
