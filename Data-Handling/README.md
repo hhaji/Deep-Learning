@@ -20,6 +20,8 @@ Here we introduce several blogs related to data and data handling and also some 
 
 ## Datasets:
 The following resources may be helpful for those still undecided about their course projects.
+* [VisualData:](https://www.visualdata.io) Discover computer vision datasets <br>
+* [OpenML:](https://www.openml.org) An open science platform for machine learning <br>
 * [Open Datasets:](https://skymind.ai/wiki/open-datasets) A list of links to publicly available datasets for a variety of domains.
 * [DataHub](https://datahub.io/) has a lot of structured data in formats such as RDF and CSV. 
 * [Datasets for Machine Learning](https://www.datasetlist.com) 
