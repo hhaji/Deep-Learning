@@ -59,26 +59,32 @@ Extra TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
 
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1) 
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
+
 ```
 Required Reading:
 ```
+
 * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
 * Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
 * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
 * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
 * Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team 
+
 ```
 Extra Resources:
 ```
+
 * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
 * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
 * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
 * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged)   
 
+
 ```
 TensorFlow 1.
 ```
+
 - GitHub: [Set up Tensorflow 1.](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 - Slide: [Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
     - [NoteBook:](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide ([Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
@@ -90,10 +96,13 @@ TensorFlow 1.
 - Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
   - [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
 - Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
-2. ### <a name="Introduction"></a>Introduction 
+
+2. ### <a name="Introduction"></a>Introduction
+
 ```
 Required Reading:
 ```
+
 * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 ```
