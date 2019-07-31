@@ -62,9 +62,9 @@ Extra TextBooks:
 
 1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
 
-```
-Required Reading:
-```
+  ```
+  Required Reading:
+  ```
 
 * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br> 
 * Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
@@ -72,9 +72,9 @@ Required Reading:
 * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
 * Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team 
 
-```
-Extra Resources:
-```
+  ```
+  Extra Resources:
+  ```
 
 * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
 * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
@@ -82,9 +82,9 @@ Extra Resources:
 * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged)   
 
 
-```
-TensorFlow 1.
-```
+  ```
+  TensorFlow 1.
+  ```
 
 - GitHub: [Set up Tensorflow 1.](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 - Slide: [Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
@@ -100,16 +100,16 @@ TensorFlow 1.
 
 2. ### <a name="Introduction"></a>Introduction
 
-```
-Required Reading:
+  ```
+    Required Reading:
 ```
 
 * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
 * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 
-```
-Extra Resources:
-```
+  ```
+  Extra Resources:
+  ```
 
 * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
 * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
