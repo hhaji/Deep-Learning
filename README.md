@@ -15,7 +15,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   5. Lecture 5: [Optimization for Training Deep Models](#OFTDM) 
   6. Lecture 6: [Convolutional Networks](#CNN) 
   7. Lecture 7: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
-- [Extra NoteBooks and Slides](#ENAS)
+- [Additional NoteBooks and Slides](#ENAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -50,7 +50,7 @@ Main TextBooks:
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
 
 ```
-Extra TextBooks:
+Additional TextBooks:
 ```
 
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide) by Tony Holdroyd <br> 
@@ -60,7 +60,7 @@ Extra TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
 
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)  
 
     ```
     Required Reading:
@@ -73,7 +73,7 @@ Extra TextBooks:
   * Blog: [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team 
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
@@ -97,7 +97,7 @@ Extra TextBooks:
     * [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
   * Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
 
-2. ### <a name="Introduction"></a>Introduction
+2. ### <a name="Introduction"></a>Introduction  
 
     ```
     Required Reading:
@@ -107,13 +107,13 @@ Extra TextBooks:
   * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
   * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
 
-3. ### <a name="DFN"></a>Deep Feedforward Networks
+3. ### <a name="DFN"></a>Deep Feedforward Networks  
 
     ```
     Required Reading:
@@ -124,13 +124,13 @@ Extra TextBooks:
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
   * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
 
-4. ### <a name="RFDL"></a>Regularization for Deep Learning
+4. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
     ```
     Required Reading:
@@ -140,12 +140,12 @@ Extra TextBooks:
   * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
 
-5. ### <a name="OFTDM"></a>Optimization for Training Deep Models
+5. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
     ```
     Required Reading:
@@ -159,13 +159,13 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
   * Slide: [Batch Normalization](https://www.deeplearningbook.org/slides/batch_norm.pdf) by Ian Goodfellow
  
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>
   * Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang 
 
-6. ### <a name="CNN"></a>Convolutional Networks
+6. ### <a name="CNN"></a>Convolutional Networks  
 
     ```
     Required Reading:
@@ -178,7 +178,7 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
   * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>
@@ -190,7 +190,7 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
   * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
   * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin 
 
-7. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks
+7. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
     ```
     Required Reading:
@@ -202,7 +202,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 
     ```
-    Extra Resources:
+    Additional Resources:
     ```
 
   * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova. <br>
