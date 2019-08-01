@@ -107,7 +107,7 @@ Additional TextBooks:
     * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 
     ```
-    Additional Resources:
+    Additional Reading:
     ```
 
     * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
@@ -124,7 +124,7 @@ Additional TextBooks:
     * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
 
     ```
-    Additional Resources:
+    Additional Reading:
     ```
 
     * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
@@ -140,7 +140,7 @@ Additional TextBooks:
     * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
 
     ```
-    Additional Resources:
+    Additional Reading:
     ```
 
     * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
@@ -159,7 +159,7 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
     * Slide: [Batch Normalization](https://www.deeplearningbook.org/slides/batch_norm.pdf) by Ian Goodfellow
  
     ```
-    Additional Resources:
+    Additional Reading:
     ```
 
     * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>
@@ -202,7 +202,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 
     ```
-    Additional Resources:
+    Additional Reading:
     ```
     
    * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova. <br>
