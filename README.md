@@ -41,7 +41,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg){:.some-css-class style="width: 200px"}![Book 2](/Images/DDLP.png) ![Book 3](/Images/TF2-Packt.png)![Book 4](/Images/ProDeep.jpg)  ![Book 5](/Images/NNDL.jpg)
+![Book 1](/Images/DL.jpg) ![Book 2](/Images/DDLP.png) ![Book 3](/Images/TF2-Packt.png)![Book 4](/Images/ProDeep.jpg)  ![Book 5](/Images/NNDL.jpg)
 
 ```
 Main TextBooks:
