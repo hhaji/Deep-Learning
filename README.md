@@ -124,9 +124,10 @@ Additional TextBooks:
     Required Reading:
     ```
 
-    * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow 
+    * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
     * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
+    * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
+    * Slide: [Backpropagation and Neural Networks](https://hpc.sjtu.edu.cn/lecture_13a.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
 
     ```
     Additional Reading:
