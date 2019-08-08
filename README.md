@@ -168,8 +168,7 @@ These slides describe how gradient descent behaves on different kinds of cost fu
     * Slide: [Tutorial on Optimization for Deep Networks](https://www.deeplearningbook.org/slides/dls_2016.pdf) by Ian Goodfellow    
 Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers Google Brain research on optimization, including visualization of neural network cost functions, Net2Net, and batch normalization.  
     * Blog: [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0) by Matthew Stewart  
-    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
-    * Slide: [Batch Normalization](https://www.deeplearningbook.org/slides/batch_norm.pdf) by Ian Goodfellow
+    * Slide: [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) by Sunita Nayak  
  
     ```
     Additional Reading:
@@ -179,6 +178,8 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
    * Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang 
    * Blog: [Why Momentum Really Works](https://distill.pub/2017/momentum/) by Gabriel Goh  
    * Blog: [Preconditioning the Network](https://cnl.salk.edu/~schraudo/teach/NNcourse/precond.html) by Nic Schraudolph and Fred Cummins  
+   * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
+
 
 6. ### <a name="CNN"></a>Convolutional Networks  
 
