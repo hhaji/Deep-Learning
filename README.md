@@ -62,7 +62,7 @@ Additional TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
 
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1)  
+1. ### <a name="Part-1"></a>Toolkit Lab (Part 1): Google Colab and Anaconda  
 
     ```
     Required Reading:
