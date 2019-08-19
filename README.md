@@ -9,13 +9,14 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
-  2. Lecture 2: [Toolkit Lab (Part 2)](#Part-2) 
-  3. Lecture 3: [Introduction](#Introduction) 
-  4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Regularization for Deep Learning](#RFDL) 
-  6. Lecture 6: [Optimization for Training Deep Models](#OFTDM) 
-  7. Lecture 7: [Convolutional Networks](#CNN) 
-  8. Lecture 8: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  2. Lecture 2: [Toolkit Lab (Part 2)](#TensorFlow) 
+  3. Lecture 3: [Toolkit Lab (Part 3)](#Part-3) 
+  4. Lecture 4: [Introduction](#Introduction) 
+  5. Lecture 5: [Deep Feedforward Networks](#DFN) 
+  6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
+  7. Lecture 7: [Optimization for Training Deep Models](#OFTDM) 
+  8. Lecture 8: [Convolutional Networks](#CNN) 
+  9. Lecture 9: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
 - [Additional NoteBooks and Slides](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -72,9 +73,6 @@ Additional TextBooks:
     * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
     * Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
     * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
-    * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
-    * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
-    * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  
 
     ```
     Additional Reading:
@@ -83,6 +81,18 @@ Additional TextBooks:
     * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>
     * [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
     * [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
+
+2. ### <a name="TensorFlow"></a>Toolkit Lab (Part 2): TensorFlow 
+    ```
+    Required Reading:
+    ```
+    * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
+    * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
+    * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  
+
+    ```
+    Additional Reading:
+    ```
     * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
     * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
     * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
@@ -103,8 +113,18 @@ Additional TextBooks:
     * Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
         * [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
     * Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
+
+
+
+
+
+
+
+
+
+
     
-2. ### <a name="Part-2"></a>Toolkit Lab (Part 2): Image Preprocessing by Keras 
+3. ### <a name="Part-3"></a>Toolkit Lab (Part 3): Image Preprocessing by Keras 
 
     ```
     Required Reading:
@@ -126,7 +146,7 @@ Additional TextBooks:
     * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
 
 
-3. ### <a name="Introduction"></a>Introduction  
+4. ### <a name="Introduction"></a>Introduction  
 
     ```
     Required Reading:
@@ -142,7 +162,7 @@ Additional TextBooks:
     * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
     * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
 
-4. ### <a name="DFN"></a>Deep Feedforward Networks  
+5. ### <a name="DFN"></a>Deep Feedforward Networks  
 
     ```
     Required Reading:
@@ -160,7 +180,7 @@ Additional TextBooks:
     * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
     * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
 
-5. ### <a name="RFDL"></a>Regularization for Deep Learning  
+6. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
     ```
     Required Reading:
@@ -177,7 +197,7 @@ Additional TextBooks:
     * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
 
 
-6. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+7. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
     ```
     Required Reading:
@@ -204,7 +224,7 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
 
 
-7. ### <a name="CNN"></a>Convolutional Networks  
+8. ### <a name="CNN"></a>Convolutional Networks  
 
     ```
     Required Reading:
@@ -229,7 +249,7 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
    * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
    * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin 
 
-8. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+9. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
     ```
     Required Reading:
