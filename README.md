@@ -8,9 +8,9 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Lecture 1: [Toolkit Lab (Part 1)](#Part-1) 
-  2. Lecture 2: [Toolkit Lab (Part 2)](#TensorFlow) 
-  3. Lecture 3: [Introduction](#Introduction) 
+  1. Lecture 1: [Introduction](#Introduction) 
+  2. Lecture 2: [Toolkit Lab (Part 1)](#Part-1) 
+  3. Lecture 3: [Toolkit Lab (Part 2)](#TensorFlow) 
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
   5. Lecture 5: [Toolkit Lab (Part 3)](#Part-3) 
   6. Lecture 6: [Toolkit Lab (Part 4)](#Part-4) 
@@ -63,8 +63,24 @@ Additional TextBooks:
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
+  
+1. ### <a name="Introduction"></a>Introduction  
 
-1. ### <a name="Part-1"></a>Toolkit Lab (Part 1): Google Colab and Anaconda  
+    ```
+    Required Reading:
+    ```
+
+    * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+    * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
+
+    ```
+    Additional Reading:
+    ```
+
+    * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
+    * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
+
+2. ### <a name="Part-1"></a>Toolkit Lab (Part 1): Google Colab and Anaconda  
 
     ```
     Required Reading:
@@ -85,7 +101,7 @@ Additional TextBooks:
     * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
     * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265) by Chitta Ranjan  <br>  
 
-2. ### <a name="TensorFlow"></a>Toolkit Lab (Part 2): TensorFlow 
+3. ### <a name="TensorFlow"></a>Toolkit Lab (Part 2): TensorFlow 
     ```
     Required Reading:
     ```
@@ -117,22 +133,6 @@ Additional TextBooks:
     * Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
         * [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
     * Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
-
-3. ### <a name="Introduction"></a>Introduction  
-
-    ```
-    Required Reading:
-    ```
-
-    * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
-
-    ```
-    Additional Reading:
-    ```
-
-    * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
-    * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
 
 4. ### <a name="DFN"></a>Deep Feedforward Networks  
 
