@@ -9,15 +9,16 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Introduction](#Introduction) 
-  2. Lecture 2: [Toolkit Lab (Part 1)](#Part-1) 
-  3. Lecture 3: [Toolkit Lab (Part 2)](#TensorFlow) 
+  2. Lecture 2: [Toolkit Lab 1 (Google Colab and Anaconda)](#Part-1) 
+  3. Lecture 3: [Toolkit Lab 2 (TensorFlow)](#TensorFlow) 
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Toolkit Lab (Part 3)](#Part-3) 
-  6. Lecture 6: [Toolkit Lab (Part 4)](#Part-4) 
-  7. Lecture 7: [Regularization for Deep Learning](#RFDL) 
-  8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
-  9. Lecture 9: [Convolutional Networks](#CNN) 
-  10. Lecture 10: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  5. Lecture 5: [Toolkit Lab 3 (Keras)](#Part-3) 
+  6. Lecture 6: [Toolkit Lab 4 (TensorBoard)](#Part-4) 
+  7. Lecture 7: [Toolkit Lab 5 (Image Preprocessing by Keras)](#Part-5) 
+  8. Lecture 8: [Regularization for Deep Learning](#RFDL) 
+  9. Lecture 9: [Optimization for Training Deep Models](#OFTDM) 
+  10. Lecture 10: [Convolutional Networks](#CNN) 
+  11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
 - [Additional NoteBooks and Slides](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -80,7 +81,7 @@ Additional TextBooks:
     * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
     * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
 
-2. ### <a name="Part-1"></a>Toolkit Lab (Part 1): Google Colab and Anaconda  
+2. ### <a name="Part-1"></a>Toolkit Lab 1: Google Colab and Anaconda  
 
     ```
     Required Reading:
@@ -101,7 +102,7 @@ Additional TextBooks:
     * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
     * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265) by Chitta Ranjan  <br>  
 
-3. ### <a name="TensorFlow"></a>Toolkit Lab (Part 2): TensorFlow 
+3. ### <a name="TensorFlow"></a>Toolkit Lab 2: TensorFlow 
     ```
     Required Reading:
     ```
@@ -152,22 +153,42 @@ Additional TextBooks:
     * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
     * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
    
-5. ### <a name="Part-3"></a>Toolkit Lab (Part 3): Keras and TensorBoard 
+5. ### <a name="Part-3"></a>Toolkit Lab 3: Keras  
     ```
     Required Reading:
     ```
     
     * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
     * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
-    * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/image_summaries.ipynb) by William Chargin 
     
     ```
     Additional Reading:
     ``` 
     
     * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
+    
+6. ### <a name="Part-4"></a>Toolkit Lab 4: TensorBoard
 
-6. ### <a name="Part-4"></a>Toolkit Lab (Part 4): Image Preprocessing by Keras 
+    ```
+    Required Reading:
+    ```
+    * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
+    * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/get_started.ipynb)
+    * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/graphs.ipynb)
+    * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/image_summaries.ipynb) 
+    * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_in_notebooks.ipynb)
+    
+    ```
+    Additional Reading:
+    ```
+    * Blog: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
+    * Blog: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
+    * Blog: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
+    * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/scalars_and_keras.ipynb)
+    * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/hyperparameter_tuning_with_hparams.ipynb)
+    * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_profiling_keras.ipynb)
+
+7. ### <a name="Part-5"></a>Toolkit Lab 5: Image Preprocessing by Keras 
 
     ```
     Required Reading:
@@ -189,7 +210,7 @@ Additional TextBooks:
     * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
     * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
 
-7. ### <a name="RFDL"></a>Regularization for Deep Learning  
+8. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
     ```
     Required Reading:
@@ -206,7 +227,7 @@ Additional TextBooks:
     * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
 
 
-8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+9. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
     ```
     Required Reading:
@@ -233,7 +254,7 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
    * Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh
 
 
-9. ### <a name="CNN"></a>Convolutional Networks  
+10. ### <a name="CNN"></a>Convolutional Networks  
 
     ```
     Required Reading:
@@ -258,7 +279,7 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
    * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
    * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin 
 
-10. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
     ```
     Required Reading:
