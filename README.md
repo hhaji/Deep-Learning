@@ -118,6 +118,7 @@ Additional TextBooks:
     * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
     * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
     * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged) 
+    * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The Dataset API allows you to build a highly optimized data pipeline to prevent your GPU from data starvation. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
 
     ```
     TensorFlow 1.
