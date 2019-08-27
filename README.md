@@ -134,6 +134,7 @@ Additional TextBooks:
     * Blog: [Tensorflow 1.: The Confusing Parts (2)](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-2/) by Jacob Buckman  
         * [NoteBook](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/The-Confusing-Parts-2.ipynb) <br>  
     * Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
+    * Blog: [Tensorflow Tutorial](http://cs230.stanford.edu/blog/tensorflow/)  
 
 4. ### <a name="DFN"></a>Deep Feedforward Networks  
 
