@@ -19,6 +19,10 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   9. Lecture 9: [Optimization for Training Deep Models](#OFTDM) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
   11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  12. Lecture 12: [Practical Methodology](#Practical-Methodology)  
+  13. Lecture 13: [Applications](#Applications) 
+  14. Lecture 14: [Autoencoders](#Autoencoders)
+  
 - [Additional NoteBooks and Slides](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -303,6 +307,53 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
    * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan  <br>
    * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov  <br>
    * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim <br>
+    
+12. ### <a name="Practical-Methodology"></a>Practical Methodology  
+
+    ```
+    Required Reading:
+    ```
+    
+    * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+    
+    ```
+    Additional Reading:
+    ```
+    
+    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
+
+    
+13. ### <a name="Applications"></a>Applications 
+
+    ```
+    Required Reading:
+    ```
+    * [Chapter 12](http://www.deeplearningbook.org/contents/applications.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+    
+    ```
+    Additional Reading:
+    ```
+    
+    * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang <br> 
+
+    
+14. ### <a name="Autoencoders"></a>Autoencoders
+
+    ```
+    Required Reading:
+    ```
+    * [Chapter 14](http://www.deeplearningbook.org/contents/autoencoders.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+
+    
+    ```
+    Additional Reading:
+    ```
+    
+    * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
+    
     
 ### <a name="ANAS"></a>Additional NoteBooks and Slides  
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
