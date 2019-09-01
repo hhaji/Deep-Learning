@@ -340,6 +340,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     ```
     
     * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang <br> 
+    * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
 
     
 14. ### <a name="Autoencoders"></a>Autoencoders
