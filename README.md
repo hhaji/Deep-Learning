@@ -9,12 +9,12 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Introduction](#Introduction) 
-  2. Lecture 2: [Toolkit Lab 1 (Google Colab and Anaconda)](#Part-1) 
-  3. Lecture 3: [Toolkit Lab 2 (TensorFlow)](#TensorFlow) 
-  4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Toolkit Lab 3 (Keras)](#Part-3) 
-  6. Lecture 6: [Toolkit Lab 4 (TensorBoard)](#Part-4) 
-  7. Lecture 7: [Toolkit Lab 5 (Image Preprocessing by Keras)](#Part-5) 
+  2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
+  3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
+  3. Lecture 4: [Toolkit Lab 3: TensorFlow](#Part-3) 
+  4. Lecture 5: [Deep Feedforward Networks](#DFN) 
+  5. Lecture 6: [Toolkit Lab 4: Deep Learning by Keras](#Part-4) 
+  6. Lecture 7: [Toolkit Lab 5: TensorBoard](#Part-5) 
   8. Lecture 8: [Regularization for Deep Learning](#RFDL) 
   9. Lecture 9: [Optimization for Training Deep Models](#OFTDM) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
@@ -106,7 +106,28 @@ Additional TextBooks:
     * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
     * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265) by Chitta Ranjan  <br>  
 
-3. ### <a name="TensorFlow"></a>Toolkit Lab 2: TensorFlow 
+3. ### <a name="Part-2"></a>Toolkit Lab 2: Image Preprocessing by Keras 
+
+    ```
+    Required Reading:
+    ```
+    
+    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee 
+    * Blog: [Classify butterfly images with deep learning in Keras](https://towardsdatascience.com/classify-butterfly-images-with-deep-learning-in-keras-b3101fe0f98) by Bert Carremans  
+    Read the part of Data augmentation of images  
+    * Blog: [Keras ImageDataGenerator Methods: An Easy Guide](https://medium.com/datadriveninvestor/keras-imagedatagenerator-methods-an-easy-guide-550ecd3c0a92) by Ashish Verma  
+    
+    ```
+    Additional Reading:
+    ```
+    * Blog: [Keras ImageDataGenerator and Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) by  Adrian Rosebrock  
+    * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by Sandeep Gupta, Josh Gordon, and Karmel Allison <br>
+    * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
+    * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
+    * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
+
+
+4. ### <a name="Part-3"></a>Toolkit Lab 3: TensorFlow 
     ```
     Required Reading:
     ```
@@ -145,7 +166,7 @@ Additional TextBooks:
     * Slide: [Eager Execution](https://docs.google.com/presentation/d/1e1gE2JJXipWm1UJgor_y8pHcM8L8oMaCVtvQvZUBlQY/edit?usp=sharing) by Chip Huyen 
     * Blog: [Tensorflow Tutorial](http://cs230.stanford.edu/blog/tensorflow/)  
 
-4. ### <a name="DFN"></a>Deep Feedforward Networks  
+5. ### <a name="DFN"></a>Deep Feedforward Networks  
 
     ```
     Required Reading:
@@ -163,13 +184,14 @@ Additional TextBooks:
     * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
     * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
    
-5. ### <a name="Part-3"></a>Toolkit Lab 3: Keras  
+6. ### <a name="Part-4"></a>Toolkit Lab 4: Deep Learning by Keras  
     ```
     Required Reading:
     ```
     
     * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
     * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
+    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee 
     
     ```
     Additional Reading:
@@ -177,7 +199,7 @@ Additional TextBooks:
     
     * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
     
-6. ### <a name="Part-4"></a>Toolkit Lab 4: TensorBoard
+7. ### <a name="Part-5"></a>Toolkit Lab 5: TensorBoard
 
     ```
     Required Reading:
@@ -198,27 +220,6 @@ Additional TextBooks:
     * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/hyperparameter_tuning_with_hparams.ipynb)
     * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_profiling_keras.ipynb)
 
-7. ### <a name="Part-5"></a>Toolkit Lab 5: Image Preprocessing by Keras 
-
-    ```
-    Required Reading:
-    ```
-    
-    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee 
-    * Blog: [Keras ImageDataGenerator and Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) by  Adrian Rosebrock  
-    * Blog: [Classify butterfly images with deep learning in Keras](https://towardsdatascience.com/classify-butterfly-images-with-deep-learning-in-keras-b3101fe0f98) by Bert Carremans  
-    Read the part of Data augmentation of images  
-    * Blog: [Keras ImageDataGenerator Methods: An Easy Guide](https://medium.com/datadriveninvestor/keras-imagedatagenerator-methods-an-easy-guide-550ecd3c0a92) by Ashish Verma  
-    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee 
-
-    
-    ```
-    Additional Reading:
-    ```
-    * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by Sandeep Gupta, Josh Gordon, and Karmel Allison <br>
-    * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
-    * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
-    * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
 
 8. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
