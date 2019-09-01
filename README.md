@@ -334,14 +334,12 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     Required Reading:
     ```
     * [Chapter 12](http://www.deeplearningbook.org/contents/applications.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+    * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang <br> 
     
     ```
     Additional Reading:
     ```
-    
-    * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang <br> 
-    * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
+     * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
 
     
 14. ### <a name="Autoencoders"></a>Autoencoders
@@ -350,7 +348,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     Required Reading:
     ```
     * [Chapter 14](http://www.deeplearningbook.org/contents/autoencoders.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+    * Slide: [Autoencoders](http://www.deeplearningbook.org/slides/14_autoencoders.pdf)  by Ian Goodfellow  <br>
 
     
     ```
