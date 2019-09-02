@@ -356,6 +356,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     ```
     
     * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
+    * Blog: [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
     
     
 ### <a name="ANAS"></a>Additional NoteBooks and Slides  
