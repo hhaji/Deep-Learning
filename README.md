@@ -200,7 +200,7 @@ Additional TextBooks:
     ```
     Additional Reading:
     ``` 
-    
+    * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
     * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
     
 7. ### <a name="Part-5"></a>Toolkit Lab 5: TensorBoard
