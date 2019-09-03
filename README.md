@@ -347,6 +347,7 @@ A presentation summarizing Chapter 10, based directly on the textbook itself. <b
     Additional Reading:
     ```
      * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
+     * Blog: [Top 15 Deep Learning Applications that will Rule the World in 2018 and Beyond](https://medium.com/breathe-publication/top-15-deep-learning-applications-that-will-rule-the-world-in-2018-and-beyond-7c6130c43b01) by Vartul Mittal <br> 
 
     
 14. ### <a name="Autoencoders"></a>Autoencoders
