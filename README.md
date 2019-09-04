@@ -211,6 +211,8 @@ Additional TextBooks:
     ```
     Required Reading:
     ```
+    
+    * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
     * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
     * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/get_started.ipynb)
     * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/graphs.ipynb)
