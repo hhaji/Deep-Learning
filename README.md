@@ -151,7 +151,7 @@ Additional TextBooks:
     * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged) 
     * Blog: [Building a Data Pipeline (Using Tensorflow 1 tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
     * Blog: [Tensorflow 2.0 tf.data.Dataset.from_generator](https://sknadig.me/TensorFlow2.0-dataset/) by Shreekantha Nadig  
-    * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties - [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
+    * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
 
     ```
     TensorFlow 1.
