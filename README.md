@@ -95,8 +95,8 @@ Additional TextBooks:
     * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br>
     * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
     * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+    * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
     * Blog: [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) by Margaret Maynard-Reid <br>
-    * Blog: [Install TensorFlow 2.0 with pip](https://www.tensorflow.org/install/pip) <br>
     * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
 
     ```
