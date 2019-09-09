@@ -205,7 +205,7 @@ Additional TextBooks:
     * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)
     * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
     * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
-    * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#2) by 
+    * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  
     
 7. ### <a name="Part-5"></a>Toolkit Lab 5: TensorBoard
 
@@ -302,6 +302,8 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
    * Blog: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
    * Blog: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) 
    * Blog: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) 
+   * Blog: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) 
+
 
 11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
