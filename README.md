@@ -141,6 +141,7 @@ Additional TextBooks:
     * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
     * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The [tf.data](https://www.tensorflow.org/beta/guide/data) module contains a collection of classes that allows you to easily load data, manipulate it, and pipe it into your model. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
     * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
+    * Blog: [TPU-Speed Data pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by Google Codelabs
 
     ```
     Additional Reading:
@@ -205,8 +206,10 @@ Additional TextBooks:
     * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)
     * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
     * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
-    * Blog: [Learn Tensorflow 1: The Hello World of Machine Learning](https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/)  
-    * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  
+    * Blog: [Learn Tensorflow 1: The Hello World of Machine Learning](https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+    * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+    * Blog: [Your first Keras Model, with Transfer Learning](https://codelabs.developers.google.com/codelabs/keras-flowers-transfer-learning/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+
 
     
 7. ### <a name="Part-5"></a>Toolkit Lab 5: TensorBoard
@@ -302,10 +305,12 @@ A presentation summarizing Chapter 9, based directly on the textbook itself. <br
    * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
    * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin 
    * Blog: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
-   * Blog: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) 
-   * Blog: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) 
-   * Blog: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) 
-   * Blog: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) 
+   * Blog: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
+   * Blog: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+   * Blog: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
 
 
 11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
