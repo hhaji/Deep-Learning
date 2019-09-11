@@ -154,9 +154,9 @@ Additional TextBooks:
     * Blog: [Tensorflow 2.0 tf.data.Dataset.from_generator](https://sknadig.me/TensorFlow2.0-dataset/) by Shreekantha Nadig  
     * Blog: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
     * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
-    * Blog: [TPU-Speed Data pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-    * Talk: [What's new in Tensorflow 2.0](https://talks.pgaleone.eu/What%27s%20new%20in%20Tensorflow%202.0) by Paolo Galeone 
-    * Blog: [Tensorflow 2.0: Keras is not (yet) a simplified interface to Tensorflow](https://pgaleone.eu/tensorflow/keras/2019/01/19/keras-not-yet-interface-to-tensorflow/) by Paolo Galeone  
+    * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+    * Talk: [What's New in Tensorflow 2.0](https://talks.pgaleone.eu/What%27s%20new%20in%20Tensorflow%202.0) by Paolo Galeone 
+    * Blog: [Tensorflow 2.0: Keras is not (yet) a Simplified Interface to Tensorflow](https://pgaleone.eu/tensorflow/keras/2019/01/19/keras-not-yet-interface-to-tensorflow/) by Paolo Galeone  
 
     ```
     TensorFlow 1.
