@@ -11,10 +11,10 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   1. Lecture 1: [Introduction](#Introduction) 
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
   3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
-  3. Lecture 4: [Toolkit Lab 3: TensorFlow](#Part-3) 
-  4. Lecture 5: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 6: [Toolkit Lab 4: Deep Learning by Keras](#Part-4) 
-  6. Lecture 7: [Toolkit Lab 5: TensorBoard](#Part-5) 
+  4. Lecture 4: [Toolkit Lab 3: TensorFlow](#Part-3) 
+  5. Lecture 5: [Deep Feedforward Networks](#DFN) 
+  6. Lecture 6: [Toolkit Lab 4: Deep Learning by Keras](#Part-4) 
+  7. Lecture 7: [Toolkit Lab 5: TensorBoard](#Part-5) 
   8. Lecture 8: [Regularization for Deep Learning](#RFDL) 
   9. Lecture 9: [Optimization for Training Deep Models](#OFTDM) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
@@ -198,6 +198,7 @@ Additional TextBooks:
     Required Reading:
     ```
     
+    * NoteBook:[Chapter 10 (Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)) – Introduction to Artificial Neural Networks with Keras](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb) by Aurelien Geron    
     * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
     * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
     * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
