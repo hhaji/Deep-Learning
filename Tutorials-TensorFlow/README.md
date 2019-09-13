@@ -1,7 +1,6 @@
 # Tutorials
 
 ## TensorFlow 1.
-
 * GitHub: [Set up Tensorflow 1.](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 * Slide: [Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
     * [NoteBook:](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide ([Overview of TensorFlow 1.](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
@@ -30,8 +29,6 @@ More Resources:
 * [Python TensorFlow Tutorial – Build a Neural Network](http://adventuresinmachinelearning.com/python-tensorflow-tutorial/) <br>
 * [DeepLearnPhysics Group](http://deeplearnphysics.org/Blog/archives.html) by Corey Adams, Ji Won Park, Kazuhiro Terao, Laura Domine, and Taritree <br>
 * [Keras vs. TensorFlow – Which one is better and which one should I learn?](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/) by  Adrian Rosebrock <br>
-
-### Learn Important Concepts and Tools in TensorFlow   
 * [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad) <br>
 * [How to Get Started Debugging TensorFlow](https://www.freecodecamp.org/news/debugging-tensorflow-a-starter-e6668ce72617/) by Daniel Deutsch <br>
 * [GPU — Tips and Tricks](https://medium.com/@harikrishnanrajeev/gpu-tips-and-tricks-16e95bfd726f) by HariKrishnan Rajeev <br>
