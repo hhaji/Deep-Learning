@@ -71,185 +71,183 @@ Additional TextBooks:
   
 1. ### <a name="Introduction"></a>Introduction  
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
 
-    * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
+  * [Chapter 1](http://www.deeplearningbook.org/contents/intro.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+  * Slide: [Introduction](https://www.deeplearningbook.org/slides/01_intro.pdf)  by Ian Goodfellow
 
-    ```
-    Additional Reading:
-    ```
+```
+Additional Reading:
+```
 
-    * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
-    * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
-    * Paper: [On the Origin of Deep Learning](https://arxiv.org/pdf/1702.07800.pdf) by Haohan Wang and Bhiksha Raj <br>
+  * [Video](https://www.youtube.com/embed//vi7lACKOUao) of lecture by Ian Goodfellow and discussion of Chapter 1 at a reading group in San Francisco organized by Alena Kruchkova <br>
+  * [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
+  * Paper: [On the Origin of Deep Learning](https://arxiv.org/pdf/1702.07800.pdf) by Haohan Wang and Bhiksha Raj <br>
     
 2. ### <a name="Part-1"></a>Toolkit Lab 1: Google Colab and Anaconda  
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
 
-    * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br>
-    * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
-    * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
-    * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
-    * Blog: [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) by Margaret Maynard-Reid <br>
-    * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
+  * Blog: [How to Use Google Colab](https://www.geeksforgeeks.org/how-to-use-google-colab/) by Souvik Mandal <br>
+  * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
+  * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
+  * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
+  * Blog: [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) by Margaret Maynard-Reid <br>
+  * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
 
-    ```
-    Additional Reading:
-    ```
-    * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/1f5ecf5a87b1c1a8aaf5a7ab8a7a0ff7/conda-cheatsheet.pdf) 
-    * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
-    * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
-    * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
-    * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265) by Chitta Ranjan  <br>  
+```
+Additional Reading:
+```
+  * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/1f5ecf5a87b1c1a8aaf5a7ab8a7a0ff7/conda-cheatsheet.pdf) 
+  * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
+  * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
+  * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
+  * Blog: [Step-by-step Guide to Install TensorFlow 2](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265) by Chitta Ranjan  <br>  
 
 3. ### <a name="Part-2"></a>Toolkit Lab 2: Image Preprocessing by Keras 
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
     
-    * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee 
-    * Blog: [Classify Butterfly Images with Deep Learning in Keras](https://towardsdatascience.com/classify-butterfly-images-with-deep-learning-in-keras-b3101fe0f98) by Bert Carremans  
+  * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee 
+  * Blog: [Classify Butterfly Images with Deep Learning in Keras](https://towardsdatascience.com/classify-butterfly-images-with-deep-learning-in-keras-b3101fe0f98) by Bert Carremans  
     Read the part of Data augmentation of images  
-    * Blog: [Keras ImageDataGenerator Methods: An Easy Guide](https://medium.com/datadriveninvestor/keras-imagedatagenerator-methods-an-easy-guide-550ecd3c0a92) by Ashish Verma  
+  * Blog: [Keras ImageDataGenerator Methods: An Easy Guide](https://medium.com/datadriveninvestor/keras-imagedatagenerator-methods-an-easy-guide-550ecd3c0a92) by Ashish Verma  
     
-    ```
-    Additional Reading:
-    ```
-    * Blog: [Keras ImageDataGenerator and Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) by  Adrian Rosebrock  
-    * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by Sandeep Gupta, Josh Gordon, and Karmel Allison <br>
-    * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
-    * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
-    * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
-    * Blog: [Images Augmentation for Deep Learning with Keras](https://rock-it.pl/images-augmentation-for-deep-learning-with-keras/) by Jakub Skałecki  
-
-
+```
+Additional Reading:
+```
+  * Blog: [Keras ImageDataGenerator and Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) by  Adrian Rosebrock  
+  * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by Sandeep Gupta, Josh Gordon, and Karmel Allison <br>
+  * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
+  * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
+  * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
+  * Blog: [Images Augmentation for Deep Learning with Keras](https://rock-it.pl/images-augmentation-for-deep-learning-with-keras/) by Jakub Skałecki  
 
 4. ### <a name="Part-3"></a>Toolkit Lab 3: TensorFlow 2.0  
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
 
-    * NoteBook: [Chapter 12 – Custom Models and Training with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
-    * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
-    * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The [tf.data](https://www.tensorflow.org/beta/guide/data) module contains a collection of classes that allows you to easily load data, manipulate it, and pipe it into your model. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
-    * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
-    * Blog: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
+  * NoteBook: [Chapter 12 – Custom Models and Training with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
+  * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
+  * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The [tf.data](https://www.tensorflow.org/beta/guide/data) module contains a collection of classes that allows you to easily load data, manipulate it, and pipe it into your model. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
+  * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
+  * Blog: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
 
-    ```
-    Additional Reading:
-    ```
-    * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
-    * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
-    * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
-    * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged) 
-    * Blog: [Building a Data Pipeline (Using Tensorflow 1 and tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
-    * Blog: [Tensorflow 2.0 tf.data.Dataset.from_generator](https://sknadig.me/TensorFlow2.0-dataset/) by Shreekantha Nadig  
-    * Blog: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
-    * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
-    * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-    * Talk: [What's New in Tensorflow 2.0](https://talks.pgaleone.eu/What%27s%20new%20in%20Tensorflow%202.0) by Paolo Galeone 
-    * Blog: [Tensorflow 2.0: Keras is not (yet) a Simplified Interface to Tensorflow](https://pgaleone.eu/tensorflow/keras/2019/01/19/keras-not-yet-interface-to-tensorflow/) by Paolo Galeone  
-    * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
-    * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
+```
+Additional Reading:
+```
+  * Blog: [Mathematics Operations in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math) <br>
+  * Blog: [TensorFlow 2.0 in 5 Minutes (Tutorial)](https://gdcoder.com/tensorflow-2-0-in-5-minutes/) by Georgios Drakos<br>
+  * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
+  * Blog: [Operations in Ragged Tensors](https://www.tensorflow.org/api_docs/python/tf/ragged) 
+  * Blog: [Building a Data Pipeline (Using Tensorflow 1 and tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
+  * Blog: [Tensorflow 2.0 tf.data.Dataset.from_generator](https://sknadig.me/TensorFlow2.0-dataset/) by Shreekantha Nadig  
+  * Blog: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
+  * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
+  * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+  * Talk: [What's New in Tensorflow 2.0](https://talks.pgaleone.eu/What%27s%20new%20in%20Tensorflow%202.0) by Paolo Galeone 
+  * Blog: [Tensorflow 2.0: Keras is not (yet) a Simplified Interface to Tensorflow](https://pgaleone.eu/tensorflow/keras/2019/01/19/keras-not-yet-interface-to-tensorflow/) by Paolo Galeone  
+  * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
+  * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
 
-    ```
-    TensorFlow 1.0
-    ```
-    * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-Tutorials](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-Tutorials/README.md#tensorflow-1). 
+```
+TensorFlow 1.0
+```
+  * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-Tutorials](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-Tutorials/README.md#tensorflow-1). 
  
 
 5. ### <a name="DFN"></a>Deep Feedforward Networks  
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
 
-    * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
+  * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
     * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
-    * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
-    * Slide: [Backpropagation and Neural Networks](https://hpc.sjtu.edu.cn/lecture_13a.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
+  * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
+  * Slide: [Backpropagation and Neural Networks](https://hpc.sjtu.edu.cn/lecture_13a.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
 
-    ```
-    Additional Reading:
-    ```
+```
+Additional Reading:
+```
 
-    * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
-    * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
+  * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
+  * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang 
    
 6. ### <a name="Part-4"></a>Toolkit Lab 4: Deep Learning by Keras  
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
     
-    * NoteBook: [Chapter 10 – Introduction to Artificial Neural Networks with Keras](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
-    * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
-    * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
-    * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
-    * Blog: [A Thing You Should Know About Keras if You Plan to Train a Deep Learning Model on a Large Dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2) by Soumendra P   
+  * NoteBook: [Chapter 10 – Introduction to Artificial Neural Networks with Keras](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
+  * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
+  * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
+  * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
+  * Blog: [A Thing You Should Know About Keras if You Plan to Train a Deep Learning Model on a Large Dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2) by Soumendra P   
     
-    ```
-    Additional Reading:
-    ``` 
+```
+Additional Reading:
+``` 
     
-    * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)
-    * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
-    * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
-    * Blog: [Learn Tensorflow 1: The Hello World of Machine Learning](https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-    * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-    * Blog: [Your first Keras Model, with Transfer Learning](https://codelabs.developers.google.com/codelabs/keras-flowers-transfer-learning/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-    * Blog: [TensorFlow 2.0 Tutorial 02: Transfer Learning](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-02-transfer-learning/) by Chuan Li   
-    * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by TensorFlow Team  
+  * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)
+  * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
+  * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
+  * Blog: [Learn Tensorflow 1: The Hello World of Machine Learning](https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+  * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+  * Blog: [Your first Keras Model, with Transfer Learning](https://codelabs.developers.google.com/codelabs/keras-flowers-transfer-learning/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+  * Blog: [TensorFlow 2.0 Tutorial 02: Transfer Learning](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-02-transfer-learning/) by Chuan Li   
+  * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by TensorFlow Team  
     
 7. ### <a name="Part-5"></a>Toolkit Lab 5: TensorBoard
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
     
-    * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
-    * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
-    * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/get_started.ipynb)
-    * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/graphs.ipynb)
-    * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/image_summaries.ipynb) 
-    * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_in_notebooks.ipynb)
+  * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
+  * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
+  * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/get_started.ipynb)
+  * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/graphs.ipynb)
+  * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/image_summaries.ipynb) 
+  * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_in_notebooks.ipynb)
     
-    ```
-    Additional Reading:
-    ```
-    * Blog: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
-    * Blog: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
-    * Blog: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
-    * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/scalars_and_keras.ipynb)
-    * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/hyperparameter_tuning_with_hparams.ipynb)
-    * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_profiling_keras.ipynb)
-    * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li   
+```
+Additional Reading:
+```
+  * Blog: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
+  * Blog: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
+  * Blog: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
+  * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/scalars_and_keras.ipynb)
+  * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/hyperparameter_tuning_with_hparams.ipynb)
+  * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_profiling_keras.ipynb)
+  * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li   
 
 
 8. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
-    ```
-    Required Reading:
-    ```
+```
+Required Reading:
+```
 
-    * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-    * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
+  * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+  * Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem
 
-    ```
-    Additional Reading:
-    ```
+```
+Additional Reading:
+```
     
-    * [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee 
-    * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
-    * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
-    * Blog: [TensorFlow 2.0 Tutorial 04: Early Stopping](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-04-early-stopping/) by Chuan Li   
-    * Blog: [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/) by Paolo Galeone  
+  * [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee 
+  * Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
+  * Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
+  * Blog: [TensorFlow 2.0 Tutorial 04: Early Stopping](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-04-early-stopping/) by Chuan Li   
+  * Blog: [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/) by Paolo Galeone  
 
 9. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
