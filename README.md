@@ -11,7 +11,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   1. Lecture 1: [Introduction](#Introduction) 
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
   3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
-  4. Lecture 4: [Toolkit Lab 3: TensorFlow](#Part-3) 
+  4. Lecture 4: [Toolkit Lab 3: TensorFlow 2.0](#Part-3) 
   5. Lecture 5: [Deep Feedforward Networks](#DFN) 
   6. Lecture 6: [Toolkit Lab 4: Deep Learning by Keras](#Part-4) 
   7. Lecture 7: [Toolkit Lab 5: TensorBoard](#Part-5) 
@@ -131,7 +131,7 @@ Additional TextBooks:
 
 
 
-4. ### <a name="Part-3"></a>Toolkit Lab 3: TensorFlow 
+4. ### <a name="Part-3"></a>Toolkit Lab 3: TensorFlow 2.0  
     ```
     Required Reading:
     ```
