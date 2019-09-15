@@ -1,6 +1,7 @@
 # Tutorials
 
 ## Papers & Books:
+* [Papers with Code:](https://paperswithcode.com) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
 
