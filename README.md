@@ -49,7 +49,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/NN.jpg)  ![Book 4](/Images/ProDeep.jpg) ![Book 5](/Images/DDLP.png)
+![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/NN.png)  ![Book 4](/Images/ProDeep.jpg) ![Book 5](/Images/DDLP.png)
 
 ```
 Main TextBooks:
