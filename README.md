@@ -163,7 +163,7 @@ Suggested Reading:
 Additional Resources:
 ```
   
-  * Course [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python) by DataCamp
+  * Course: [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python) by DataCamp
 
 ```
 TensorFlow 1.0
