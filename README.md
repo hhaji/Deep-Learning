@@ -49,11 +49,12 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/ProDeep.jpg) ![Book 4](/Images/TF2-Packt.png) ![Book 5](/Images/DDLP.png)
+![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/ProDeep.jpg) ![Book 4](/Images/NN.jpg) ![Book 5](/Images/DDLP.png)
 
 ```
 Main TextBooks:
 ```
+
 * [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron <br>
 
@@ -62,7 +63,7 @@ Additional TextBooks:
 ```
 
 * [Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python](https://www.amazon.com/Pro-Deep-Learning-TensorFlow-Mathematical-ebook/dp/B077Z79LVJ) by Santanu Pattanayak <br>
-* [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide) by Tony Holdroyd <br> 
+* [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) by David Kriesel <br> 
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
 
 
