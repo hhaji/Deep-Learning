@@ -165,7 +165,7 @@ Additional Resources:
   
   * Course: [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python) by DataCamp
   * Blog: [How to Serve Deep Learning Models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions) by Rustem Feyzkhanov  
-  * Blog: [Swift:](https://swift.org) Announced in 2014, the Swift programming language has quickly become one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. 
+  * Blog: [Swift](https://swift.org) was announced in 2014. The Swift programming language has quickly become one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. 
   * GitHub: [Swift for TensorFlow](https://github.com/tensorflow/swift)  
 
 ```
