@@ -111,6 +111,7 @@ Suggested Reading:
  
  * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
  * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
+ * Blog: [How to Upload Large Files to Google Colab and Remote Jupyter Notebooks](https://www.freecodecamp.org/news/how-to-transfer-large-files-to-google-colab-and-remote-jupyter-notebooks-26ca252892fa/) by Bharath Raj  <br>
 
 ```
 Additional Resources:
