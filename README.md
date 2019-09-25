@@ -167,7 +167,8 @@ Suggested Reading:
 ```
 
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
-
+  * Blog: [Activation Functions](https://sefiks.com/tag/activation-function/) by Sefik  
+  
 ```
 Additional Resources:
 ```
