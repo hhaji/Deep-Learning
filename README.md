@@ -106,12 +106,6 @@ Required Reading:
   * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
  
 ```
-Interesting Questions!
-```
-
-* [Why are non Zero-Centered Activation Functions a Problem in Backpropagation?](https://stats.stackexchange.com/questions/237169/why-are-non-zero-centered-activation-functions-a-problem-in-backpropagation)
-  
-```
 Suggested Reading:
 ```
  
@@ -172,8 +166,12 @@ Required Reading:
   * Slide: [Backpropagation and Neural Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
   * Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
   * Blog: [Back-Propagation, an Introduction](https://www.offconvex.org/2016/12/20/backprop/) by Sanjeev Arora and Tengyu Ma <br>
-  
-  
+
+```
+Interesting Questions!
+```
+
+* [Why are non Zero-Centered Activation Functions a Problem in Backpropagation?](https://stats.stackexchange.com/questions/237169/why-are-non-zero-centered-activation-functions-a-problem-in-backpropagation)   
   
 ```
 Suggested Reading:
