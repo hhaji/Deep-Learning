@@ -104,6 +104,12 @@ Required Reading:
   * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
   * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
   * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
+ 
+```
+Interesting Questions!
+```
+
+* [Why are non Zero-Centered Activation Functions a Problem in Backpropagation?](https://stats.stackexchange.com/questions/237169/why-are-non-zero-centered-activation-functions-a-problem-in-backpropagation)
   
 ```
 Suggested Reading:
