@@ -184,8 +184,9 @@ Suggested Reading:
 Additional Resources:
 ```
 
-  * Blog: [Activation Functions](https://sefiks.com/tag/activation-function/) by Sefik Ilkin Serengil  
+  * Blog: [Activation Functions](https://sefiks.com/tag/activation-function/) by Sefik Ilkin Serengil   
   * Blog: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#id5)  
+  * Blog: [Stochastic vs Batch Gradient Descent](https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1) by Divakar Kapil  
   * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
   * Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
    
