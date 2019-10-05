@@ -97,7 +97,7 @@ Applied Math and Machine Learning Basics:
 ```
 
  * Slide: [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
-* Blog: [A Gentle Introduction to Maximum Likelihood Estimation and Maximum A Posteriori Estimation](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d) by Shota Horii  
+* Blog: [A Gentle Introduction to Maximum Likelihood Estimation and Maximum A Posteriori Estimation (Getting Intuition of MLE and MAP with a Football Example)](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d) by Shota Horii  
     
 2. ### <a name="Part-1"></a>Toolkit Lab 1: Google Colab and Anaconda  
 
