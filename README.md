@@ -209,8 +209,8 @@ Suggested Reading:
   * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
   * Blog: [A Thing You Should Know About Keras if You Plan to Train a Deep Learning Model on a Large Dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2) by Soumendra P   
     * Question: [Keras2 ImageDataGenerator or TensorFlow tf.data?](https://stackoverflow.com/questions/55627995/keras2-imagedatagenerator-or-tensorflow-tf-data)
-    * Blog: [Better Performance with tf.data](https://www.tensorflow.org/guide/data_performance) by the TensorFlow team  
-  * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by TensorFlow Team  
+    * Blog: [Better Performance with tf.data](https://www.tensorflow.org/guide/data_performance) by the [TensorFlow Team](https://www.tensorflow.org)    
+  * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by the [TensorFlow Team](https://www.tensorflow.org)  
     
 ```
 Additional Resources:
