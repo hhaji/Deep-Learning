@@ -366,7 +366,8 @@ Ian Goodfellow's presentation at the 2016 Re-Work Deep Learning Summit. Covers G
 Required Reading:
 ```
 
-   * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
+   * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
+   * Slide: [Convolutional Neural Networks (Lecture 6)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_6.pdf) by Ali Harakeh   
    * Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
 A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br>
