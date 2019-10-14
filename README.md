@@ -190,6 +190,7 @@ Additional Resources:
 ```
 
   * Blog: [Activation Functions](https://sefiks.com/tag/activation-function/) by Sefik Ilkin Serengil   
+  * Paper: [Mish: A Self Regularized Non-Monotonic Neural Activation Function](https://arxiv.org/abs/1908.08681v2) by Diganta Misra  
   * Blog: [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html#id5)  
   * Blog: [Analytical vs Numerical Solutions in Machine Learning](https://machinelearningmastery.com/analytical-vs-numerical-solutions-in-machine-learning/) by Jason Brownlee  
   * Blog: [Validating Analytic Gradient for a Neural Network](https://medium.com/@shivajbd/how-to-validate-your-gradient-expression-for-a-neural-network-8284ede6272) by  Shiva Verma  
