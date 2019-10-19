@@ -323,9 +323,8 @@ Required Reading:
 ```
 Suggested Reading:
 ```
-
+ * Blog & NoteBook: [How to Build a Neural Network with Keras Using the IMDB Dataset](https://builtin.com/data-science/how-build-neural-network-keras) by Niklas Donges  
  * Blog & NoteBook: [Neural Network Weight Regularization](https://chrisalbon.com/deep_learning/keras/neural_network_weight_regularization/) by Chris Albon   
-   - [How to Build a Neural Network with Keras Using the IMDB Dataset](https://builtin.com/data-science/how-build-neural-network-keras) by Niklas Donges  
  * Blog: [Train Neural Networks With Noise to Reduce Overfitting](https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/) by Jason Brownlee  
  * Blog & NoteBook: [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee   
  * Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
