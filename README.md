@@ -354,6 +354,13 @@ Lecture 4:
    * Slide: [Optimization for Training Deep Models - Algorithms (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_4_2-1.pdf) by Ali Harakeh  
    * Blog: [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0) by Matthew Stewart  
    * Blog: [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) by Sunita Nayak  
+   
+
+```
+Suggested Reading:
+```
+
+   * Lecture Note: [Matrix Norms and Condition Numbers](http://faculty.nps.edu/rgera/MA3042/2009/ch7.4.pdf) by Ralucca Gera  
  
 ```
 Additional Reading:
