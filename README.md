@@ -360,7 +360,8 @@ Lecture 4:
 Suggested Reading:
 ```
 
-   * Lecture Note: [Matrix Norms and Condition Numbers](http://faculty.nps.edu/rgera/MA3042/2009/ch7.4.pdf) by Ralucca Gera
+   * Lecture Note: [Matrix Norms and Condition Numbers](http://faculty.nps.edu/rgera/MA3042/2009/ch7.4.pdf) by Ralucca Gera  
+   * Blog: [Initializing Neural Networks](https://www.deeplearning.ai/ai-notes/initialization/) by Katanforoosh & Kunin, [deeplearning.ai](https://www.deeplearning.ai), 2019   
    * Blog: [Xavier Initialization](https://mnsgrg.com/2017/12/21/xavier-initialization/) by Manas George   
  
 ```
