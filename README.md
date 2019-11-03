@@ -216,6 +216,7 @@ Suggested Reading:
     * Question: [Keras2 ImageDataGenerator or TensorFlow tf.data?](https://stackoverflow.com/questions/55627995/keras2-imagedatagenerator-or-tensorflow-tf-data)
     * Blog: [Better Performance with tf.data](https://www.tensorflow.org/guide/data_performance) by the [TensorFlow Team](https://www.tensorflow.org)    
   * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by the [TensorFlow Team](https://www.tensorflow.org)  
+  * Blog & NoteBook: [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/) by Jason Brownlee  
     
 ```
 Additional Resources:
