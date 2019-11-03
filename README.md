@@ -348,8 +348,6 @@ Additional Reading:
 Required Reading:
 ```  
 
-Lecture 4: 
-
    * [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
    * Slide: [Optimization for Training Deep Models (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture-4-1.pdf) by Ali Harakeh  
    * Slide: [Optimization for Training Deep Models - Algorithms (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_4_2-1.pdf) by Ali Harakeh  
