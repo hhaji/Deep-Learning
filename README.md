@@ -210,6 +210,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+  * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
   * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
   * Blog: [A Thing You Should Know About Keras if You Plan to Train a Deep Learning Model on a Large Dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2) by Soumendra P   
     * Question: [Keras2 ImageDataGenerator or TensorFlow tf.data?](https://stackoverflow.com/questions/55627995/keras2-imagedatagenerator-or-tensorflow-tf-data)
