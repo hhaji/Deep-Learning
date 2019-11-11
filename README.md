@@ -362,13 +362,15 @@ Suggested Reading:
    * Lecture Note: [Matrix Norms and Condition Numbers](http://faculty.nps.edu/rgera/MA3042/2009/ch7.4.pdf) by Ralucca Gera  
    * Blog: [Initializing Neural Networks](https://www.deeplearning.ai/ai-notes/initialization/) by Katanforoosh & Kunin, [deeplearning.ai](https://www.deeplearning.ai), 2019   
    * Blog: [How to Initialize Deep Neural Networks? Xavier and Kaiming Initialization](https://pouannes.github.io/blog/initialization/) by Pierre Ouannes  
-   * Blog: [What Is Covariate Shift?](https://medium.com/@izadi/what-is-covariate-shift-d7a7af541e6) by Saeed Izadi   
+   * Blog: [What Is Covariate Shift?](https://medium.com/@izadi/what-is-covariate-shift-d7a7af541e6) by Saeed Izadi 
+   * Blog: [Stay Hungry, Stay Foolish:](https://www.adityaagrawal.net/blog/) This interesting blog contains back propagation of different layers of deep learning prepared by Aditya Agrawal  
  
 ```
 Additional Reading:
 ```
    * Blog: [Why Momentum Really Works](https://distill.pub/2017/momentum/) by Gabriel Goh  
    * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee  
+   * Blog: [Understanding the Backward Pass Through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) by Frederik Kratzert   
    * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>         
    * Blog: [Preconditioning the Network](https://cnl.salk.edu/~schraudo/teach/NNcourse/precond.html) by Nic Schraudolph and Fred Cummins  
    * Paper: [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852.pdf) by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun  
