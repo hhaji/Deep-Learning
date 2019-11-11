@@ -12,11 +12,11 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
   3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Toolkit Lab 3: Deep Learning by Keras](#Part-3) 
+  5. Lecture 5: [Toolkit Lab 3: Introduction to Artificial Neural Networks with Keras](#Part-3) 
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
   7. Lecture 7: [Optimization for Training Deep Models](#OFTDM) 
   8. Lecture 8: [Toolkit Lab 4: Training Deep Neural Networks](#Part-4) 
-  9. Lecture 9: [Toolkit Lab 5: TensorFlow 2.0](#Part-5) 
+  9. Lecture 9: [Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0](#Part-5) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
   11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
   12. Lecture 12: [Practical Methodology](#Practical-Methodology)  
@@ -199,7 +199,7 @@ Additional Resources:
   * **Extra Slide:**
     - Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
    
-5. ### <a name="Part-3"></a>Toolkit Lab 3: Deep Learning by Keras  
+5. ### <a name="Part-3"></a>Toolkit Lab 3: Introduction to Artificial Neural Networks with Keras    
 ```
 Required Reading:
 ```
@@ -307,7 +307,6 @@ Suggested Reading:
 Additional Reading:
 ```
    * Blog: [Why Momentum Really Works](https://distill.pub/2017/momentum/) by Gabriel Goh  
-   * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee  
    * Blog: [Understanding the Backward Pass Through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) by Frederik Kratzert   
    * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>         
    * Blog: [Preconditioning the Network](https://cnl.salk.edu/~schraudo/teach/NNcourse/precond.html) by Nic Schraudolph and Fred Cummins  
@@ -327,13 +326,13 @@ Additional Reading:
 Required Reading:
 ```
     
-  * NoteBook: [Chapter 11 – Training Deep Neural Networks](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
+  * NoteBook: [Chapter 11 – Training Deep Neural Networks](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
 
 ```
 Suggested Reading:
 ```
 
-  * Blog:  
+  * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee  
     
 ```
 Additional Resources:
@@ -341,7 +340,7 @@ Additional Resources:
   * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
   
   
-9. ### <a name="Part-5"></a>Toolkit Lab 5: TensorFlow 2.0  
+9. ### <a name="Part-5"></a>Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0  
 ```
 Required Reading:
 ```
