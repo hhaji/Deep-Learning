@@ -199,7 +199,7 @@ Additional Resources:
   * **Extra Slide:**
     - Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
    
-5. ### <a name="Part-4"></a>Toolkit Lab 3: Deep Learning by Keras  
+5. ### <a name="Part-3"></a>Toolkit Lab 3: Deep Learning by Keras  
 ```
 Required Reading:
 ```
@@ -341,7 +341,7 @@ Additional Resources:
   * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
   
   
-9. ### <a name="Part-3"></a>Toolkit Lab 4: TensorFlow 2.0  
+9. ### <a name="Part-5"></a>Toolkit Lab 5: TensorFlow 2.0  
 ```
 Required Reading:
 ```
