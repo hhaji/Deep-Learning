@@ -407,33 +407,30 @@ Required Reading:
 
    * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
    * Slide: [Convolutional Neural Networks (Lecture 6)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_6.pdf) by Ali Harakeh   
-   * Slide: [Convolutional Networks](https://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
-A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
-   * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br>
-   * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha
+  
+```
+Suggested Reading:
+```
+   * NoteBook: [Chapter 14 – Deep Computer Vision Using Convolutional Neural Networks](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron                   
    * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
+   * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br> 
+   * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
+   * [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
+   * [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia  
 
 ```
 Additional Reading:  
 ```  
   
-   * NoteBook: [Chapter 14 – Deep Computer Vision Using Convolutional Neural Networks](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron                   
-   * [Video](https://www.youtube.com/watch?v=Xogn6veSyxA) of lecture / discussion: This video covers a presentation by Ian Goodfellow and group discussion on the end of Chapter 8 and entirety of Chapter 9 at a reading group in San Francisco organized by Taro-Shigenori Chiba. <br>
-   * [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang <br>
-   * [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia <br>  
-   * Slide: [Convolutional Models](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/dl_indaba_2018_convnets.pdf) by Naila Murray <br>
    * Blog: [A Convolutional Neural Network Tutorial in Keras and TensorFlow 2](https://www.machineislearning.com/convolutional-neural-network-keras-tensorflow-2/) by Isak Bosman <br>
-   * Slide: [Convolutional Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L11-cnn.pdf) by U Kang <br> 
-   * Blog: [An Intuitive Guide to Convolutional Neural Networks](https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/) by  Daphne Cornelisse <br>
-   * Paper: [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285.pdf) by Vincent Dumoulin and Francesco Visin 
-   * Blog: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
-   * Blog: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
-   * Blog: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-   * Blog: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
+   * Blog & NoteBook: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
+   * Blog & NoteBook: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
+   * Blog & NoteBook: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
+   * Blog & NoteBook: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog & NoteBook: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog & NoteBook: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog & NoteBook: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+   * Blog & NoteBook: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
 
 
 11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
