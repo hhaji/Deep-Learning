@@ -411,6 +411,7 @@ Required Reading:
 A presentation summarizing Chapter 9, based directly on the textbook itself. <br>  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br>
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha
+   * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
 
 ```
 Additional Reading:  
