@@ -18,10 +18,11 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   8. Lecture 8: [Toolkit Lab 4: Training Deep Neural Networks](#Part-4) 
   9. Lecture 9: [Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0](#Part-5) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
-  11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
-  12. Lecture 12: [Practical Methodology](#Practical-Methodology)  
-  13. Lecture 13: [Applications](#Applications) 
-  14. Lecture 14: [Autoencoders](#Autoencoders)
+  11. Lecture 11: [Toolkit Lab 6: TensorBoard](#Part-6) 
+  12. Lecture 12: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
+  14. Lecture 14: [Applications](#Applications) 
+  15. Lecture 15: [Autoencoders](#Autoencoders)
   
 - [Additional NoteBooks and Slides](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
@@ -356,48 +357,22 @@ Suggested Reading:
   * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
   * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
   * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
-  * Blog: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
+  * Blog & NoteBook: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
   * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
   * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
   
 ```
 Additional Resources:
 ```
-  * Course: [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python) by DataCamp  
-  * Blog: [Tensorflow 2.0: Keras is not (yet) a Simplified Interface to Tensorflow](https://pgaleone.eu/tensorflow/keras/2019/01/19/keras-not-yet-interface-to-tensorflow/) by Paolo Galeone  
-  * NoteBook: [TensorFlow 2.0 Quick Start Guide (Chapter 1)](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide/blob/master/Chapter01/Chapter1_TF2_alpha.ipynb) by Tony Holdroyd <br>
-  * NoteBook: [TensorFlow 2.0 Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) by Aymeric Damien <br>
+  
   * Blog: [Building a Data Pipeline (Using Tensorflow 1 and tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
-  * Blog: [How to Serve Deep Learning Models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions) by Rustem Feyzkhanov  
   * Blog: [Swift](https://swift.org) was announced in 2014. The Swift programming language has quickly become one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. 
   * GitHub: [Swift for TensorFlow](https://github.com/tensorflow/swift)  
-
+  
 ```
 TensorFlow 1.0:
 ```
   * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-Tutorials](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-Tutorials/README.md#tensorflow-1). 
-     
-```
-TensorBoard:
-```
-    
-  * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
-  * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
-  * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/get_started.ipynb)
-  * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/graphs.ipynb)
-  * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/image_summaries.ipynb) 
-  * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_in_notebooks.ipynb)
-    
-```
-Additional Reading:
-```
-  * Blog: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
-  * Blog: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
-  * Blog: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
-  * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/scalars_and_keras.ipynb)
-  * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/hyperparameter_tuning_with_hparams.ipynb)
-  * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_profiling_keras.ipynb)
-  * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li  
 
 10. ### <a name="CNN"></a>Convolutional Networks  
 
@@ -415,8 +390,8 @@ Suggested Reading:
    * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br> 
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
-   * [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
-   * [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia  
+   * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
+   * Blog: [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia  
 
 ```
 Additional Reading:  
@@ -431,9 +406,38 @@ Additional Reading:
    * Blog & NoteBook: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
    * Blog & NoteBook: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
    * Blog & NoteBook: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
+   
+11. ### <a name="Part-6"></a>Toolkit Lab 6: TensorBoard    
+   
+```
+TensorBoard:
+```
+    
+  * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
+  * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
+  * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/get_started.ipynb)
+  * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/graphs.ipynb)
+  * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/image_summaries.ipynb) 
+  * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_in_notebooks.ipynb)
+  
+```
+Suggested Reading:
+```
+  
+  * Blog & NoteBook: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
+  * Blog & NoteBook: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
+  * Blog & NoteBook: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
+  
+```
+Additional Reading:
+```
+  * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/scalars_and_keras.ipynb)
+  * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/hyperparameter_tuning_with_hparams.ipynb)
+  * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_profiling_keras.ipynb)
+  * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li  
 
 
-11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+12. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
 ```
 Required Reading:
@@ -455,7 +459,7 @@ Additional Reading:
    * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov  <br>
    * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim <br>
     
-12. ### <a name="Practical-Methodology"></a>Practical Methodology  
+13. ### <a name="Practical-Methodology"></a>Practical Methodology  
 
 ```
 Required Reading:
@@ -471,7 +475,7 @@ Additional Reading:
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
     
-13. ### <a name="Applications"></a>Applications 
+14. ### <a name="Applications"></a>Applications 
 
 ```
 Required Reading:
@@ -486,7 +490,7 @@ Additional Reading:
    * Blog: [Top 15 Deep Learning Applications that will Rule the World in 2018 and Beyond](https://medium.com/breathe-publication/top-15-deep-learning-applications-that-will-rule-the-world-in-2018-and-beyond-7c6130c43b01) by Vartul Mittal <br> 
 
     
-14. ### <a name="Autoencoders"></a>Autoencoders
+15. ### <a name="Autoencoders"></a>Autoencoders
 
 ```
 Required Reading:
