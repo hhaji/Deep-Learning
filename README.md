@@ -379,6 +379,7 @@ Required Reading:
 
    * [Chapter 9](http://www.deeplearningbook.org/contents/convnets.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
    * Slide: [Convolutional Neural Networks (Lecture 6)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_6.pdf) by Ali Harakeh   
+   * Slide: [Convolutional Networks](http://www.deeplearningbook.org/slides/09_conv.pdf)  by Ian Goodfellow  <br>
   
 ```
 Suggested Reading:
