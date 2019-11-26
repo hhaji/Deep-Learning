@@ -385,6 +385,8 @@ Required Reading:
 ```
 Suggested Reading:
 ```
+
+   * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
    * NoteBook: [Chapter 14 – Deep Computer Vision Using Convolutional Neural Networks](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron  
    * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
    * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
