@@ -469,14 +469,26 @@ Additional Reading:
 ```
 Required Reading:
 ```
-    
-   * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-   * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
-    
+
+   * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.  
+   * Slides: [Practical Methodology](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
+      - Part 0: [Practical Design Process](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.0%20PractMethOverview.pdf)
+      - Part 1: [Performance Metrics](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.1%20PerformMetrics.pdf)
+      - Part 2: [Default Baseline Models](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.2%20BaselineModels.pdf)
+      - Part 3: [Whether to Gather More Data](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.3%20MoreData.pdf)
+      - Part 4: [Selecting Hyperparameters](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.4%20Hyperparams.pdf)
+      - Part 5: [Debugging Strategies](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.5%20Debugging.pdf)
+
+```
+Suggested Reading:
+```
+* Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
+
 ```
 Additional Reading:
 ```
-
+   
+   * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
     
