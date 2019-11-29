@@ -488,6 +488,8 @@ Suggested Reading:
 ```
 Additional Reading:
 ```
+
+   * Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
    * Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
    * Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
    * Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran    
