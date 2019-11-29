@@ -488,11 +488,12 @@ Suggested Reading:
 ```
 Additional Reading:
 ```
-
-   * Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
-   * Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
-   * Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
-   * Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran    
+   * Metrics:
+       - Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
+       - Blog: [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d) by Semih Akbayrak  
+       - Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
+       - Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
+       - Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran    
    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
