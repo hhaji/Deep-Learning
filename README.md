@@ -483,17 +483,20 @@ Required Reading:
 Suggested Reading:
 ```
 
-   * Blog: [Precision-Recall Curves](https://www.andybeger.com/2015/03/16/precision-recall-curves/) by Andreas Beger  
-
-```
-Additional Reading:
-```
-   * Metrics:
+  * Metrics:
+       - Blog: [Demystifying KL Divergence](https://medium.com/activating-robotic-minds/demystifying-kl-divergence-7ebe4317ee68) by Naoki Shibuya  
+       - Blog: [Demystifying Cross-Entropy](https://medium.com/activating-robotic-minds/demystifying-cross-entropy-e80e3ad54a8) by Naoki Shibuya  
        - Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
        - Blog: [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d) by Semih Akbayrak  
        - Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
        - Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
-       - Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran    
+       - Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran  
+       - Blog: [Precision-Recall Curves](https://www.andybeger.com/2015/03/16/precision-recall-curves/) by Andreas Beger  
+
+```
+Additional Reading:
+```
+ 
    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
