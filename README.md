@@ -456,7 +456,8 @@ Suggested Reading:
 ```
  
    * Blog: [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah  <br>
-
+   * Blog: [Illustrated Guide to LSTM’s and GRU’s: A Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) by Michael Nguyen  
+  
 ```
 Additional Reading:
 ```
