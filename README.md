@@ -356,6 +356,7 @@ Suggested Reading:
   * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
   * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
   * Blog & NoteBook: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
+  * Blog: [How to use Dataset and Iterators in Tensorflow with Code Samples](https://medium.com/ymedialabs-innovation/how-to-use-dataset-and-iterators-in-tensorflow-with-code-samples-3bb98b6b74ab) by Prasad Pai  
   * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
   * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
   
