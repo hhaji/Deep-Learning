@@ -451,6 +451,7 @@ Required Reading:
   
    * [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
    * Slide: [Sequence Modeling: Recurrent and Recursive Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L12-rnn.pdf) by U Kang <br> 
+   * Slide: [Training Recurrent Nets](http://web.eecs.utk.edu/~hqi/deeplearning/lecture14-rnn-training.pdf) by Arvind Ramanathan  
    
 ```
 Suggested Reading:
