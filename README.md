@@ -531,15 +531,20 @@ Additional Reading:
 Required Reading:
 ```
    * [Chapter 14](http://www.deeplearningbook.org/contents/autoencoders.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-   * Slide: [Autoencoders](http://www.deeplearningbook.org/slides/14_autoencoders.pdf)  by Ian Goodfellow  <br>
+   * Slide: [Autoencoders](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/14%20Autoencoders.pdf) by Sargur Srihari  
+  
+```
+Suggested Reading:
+```
 
+   * Slide: [Autoencoders vs PCA: When to Use?](https://towardsdatascience.com/autoencoders-vs-pca-when-to-use-which-73de063f5d7) by Urwa Muaz  
     
 ```
 Additional Reading:
 ```
     
-   * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
+   * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
     
     
 ### <a name="ANAS"></a>Additional NoteBooks and Slides  
