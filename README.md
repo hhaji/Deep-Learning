@@ -516,13 +516,19 @@ Additional Reading:
 Required Reading:
 ```
    * [Chapter 12](http://www.deeplearningbook.org/contents/applications.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-   * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang <br> 
-    
+   * Slide: [Applications](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L18-applications.pdf) by U Kang  
+   
+```
+Suggested Reading:
+```
+
+   * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
+
 ```
 Additional Reading:
 ```
-   * Blog: [How Neural Networks Learn Distributed Representations](https://www.oreilly.com/ideas/how-neural-networks-learn-distributed-representations) By Garrett Hoffman <br>
-   * Blog: [Top 15 Deep Learning Applications that will Rule the World in 2018 and Beyond](https://medium.com/breathe-publication/top-15-deep-learning-applications-that-will-rule-the-world-in-2018-and-beyond-7c6130c43b01) by Vartul Mittal <br> 
+   * Blog: [30 Amazin Applications of Deep Learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/) by Yaron Hadad  
+   * Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
     
 15. ### <a name="Autoencoders"></a>Autoencoders
