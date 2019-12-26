@@ -572,7 +572,7 @@ Suggested Reading:
 ```
 
 * Blog: [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora   
-* Paper: [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) by Antonia Creswell, Tom White, Vincent Dumoulin, Kai Arulkumaran, Biswa Sengupta, Anil A Bharath  
+* Paper: [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) by Antonia Creswell, Tom White, Vincent Dumoulin, Kai Arulkumaran, Biswa Sengupta, and Anil A Bharath  
 
 ```
 Additional Reading:
