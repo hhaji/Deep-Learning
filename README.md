@@ -558,20 +558,20 @@ Additional Reading:
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
    * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
     
-16. ### <a name="GAN"></a>Generative Adversarial Networks
+16. ### <a name="GAN"></a>Generative Adversarial Networks  
 
 ```
 Required Reading:
 ```
 
-Slide: [Generative Adversarial Networks (GANs)](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf) by Binglin, Shashank, and Bhargav
+Slide: [Generative Adversarial Networks (GANs)](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf) by Binglin, Shashank, and Bhargav  
 Paper: [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf) by Ian Goodfellow  
   
 ```
 Suggested Reading:
 ```
 
-* Blog: [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora <br>
+* Blog: [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora   
 * Paper: [Generative Adversarial Networks: An Overview](https://arxiv.org/pdf/1710.07035.pdf) by Antonia Creswell, Tom White, Vincent Dumoulin, Kai Arulkumaran, Biswa Sengupta, Anil A Bharath  
 
 ```
@@ -580,7 +580,7 @@ Additional Reading:
 
 * Blog: [GANs Comparison Without Cherry-Picking](https://github.com/khanrc/tf.gans-comparison) by Junbum Cha  
 * Blog: [New Progress on GAN Theory and Practice](https://casmls.github.io/general/2017/04/13/gan.html) by Liping Liu  
-* Blog: [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
+* Blog: [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)  
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
     
 ### <a name="ANAS"></a>Additional NoteBooks and Slides  
