@@ -23,7 +23,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
   14. Lecture 14: [Applications](#Applications) 
   15. Lecture 15: [Autoencoders](#Autoencoders)
-  
+  16. Lecture 16: [Generative Adversarial Networks](#GAN)
 - [Additional NoteBooks and Slides](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
