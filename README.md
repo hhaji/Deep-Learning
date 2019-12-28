@@ -549,7 +549,8 @@ And Why They’re so Useful in Creating Your Own Generative Text, Art and Even M
    * Blog: [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73) by Joseph Rocca  
    * Blog: [Generative Modeling: What is a Variational Autoencoder (VAE)?](https://www.mlq.ai/what-is-a-variational-autoencoder/) by Peter Foy  
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar 
-   * Slide: [Generative Models](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/team/Haojin/competitive_problem_solving_with_deep_learning/Class_Generative_Models.pptx.pdf) by Mina Rezaei   
+   * Slide: [Generative Models](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/team/Haojin/competitive_problem_solving_with_deep_learning/Class_Generative_Models.pptx.pdf) by Mina Rezaei  
+   * Blog: [A High-Level Guide to Autoencoders](https://towardsdatascience.com/a-high-level-guide-to-autoencoders-b103ccd45924) by Shreya Chaudhary  
     
 ```
 Additional Reading:
