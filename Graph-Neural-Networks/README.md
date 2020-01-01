@@ -12,7 +12,10 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 - [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) by Steeve Huang  
 
 ## Graph Convolutionl Networks
-- [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf<br>
+- Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
+
+## Graph Auto-Encoders
+- Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
 ## Graph Nets Library:
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for building graph networks in Tensorflow and Sonnet.
