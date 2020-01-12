@@ -1,5 +1,6 @@
 # Graph Neural Networks  
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.
+- Blog: [Tutorial of the Graph Nets Library](https://github.com/yazdotai/graph-networks) by Yazdotai
 - Blog: [Must-Read Papers on Graph Neural Networks (GNN)](https://github.com/thunlp/GNNPapers) contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai. 
 - Blog: [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) by Steeve Huang  
 - Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
