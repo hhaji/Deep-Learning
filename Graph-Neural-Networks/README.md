@@ -26,7 +26,7 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 ## Graph Neural Networks Library:  
 - [Graph Nets Library:](https://github.com/deepmind/graph_nets) a DeepMind's library for building graph networks in Tensorflow and Sonnet.
 - [StellarGraph Machine Learning Library:](https://github.com/stellargraph/stellargraph) a Python library for machine learning on graph-structured (or equivalently, network-structured) data. 
-- [Deep Graph Library (DGL):](https://github.com/dmlc/dgl) a Python package that interfaces between existing tensor libraries and data being expressed as graphs.
+- [Deep Graph Library (DGL):](https://www.dgl.ai) a Python package that interfaces between existing tensor libraries and data being expressed as graphs.
 - [PyTorch Geometric (PyG)]() by Matthias Fey. PyTorch Geometric is a geometric deep learning extension library for PyTorch.
 
 ## Jupyter NoteBooks:  
