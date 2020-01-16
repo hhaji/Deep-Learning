@@ -23,7 +23,7 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 ## Graph Auto-Encoders  
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
-## Graph Neural Networks Libraries:  
+## Graph Neural Networks Libraries  
 ### Deep Graph Library (DGL)
 A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
 - Blog: [Deep Graph Library (DGL)](https://www.dgl.ai) 
