@@ -24,10 +24,18 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
 ## Graph Neural Networks Library:  
-- [Graph Nets Library:](https://github.com/deepmind/graph_nets) a DeepMind's library for building graph networks in Tensorflow and Sonnet.
-- [StellarGraph Machine Learning Library:](https://github.com/stellargraph/stellargraph) a Python library for machine learning on graph-structured (or equivalently, network-structured) data. 
-- [Deep Graph Library (DGL):](https://www.dgl.ai) a Python package that interfaces between existing tensor libraries and data being expressed as graphs.
-- [PyTorch Geometric (PyG)]() by Matthias Fey. PyTorch Geometric is a geometric deep learning extension library for PyTorch.
+### Deep Graph Library (DGL)
+A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
+- Blog: [Deep Graph Library (DGL)](https://www.dgl.ai) 
+- Paper: [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](https://rlgm.github.io/papers/49.pdf) by Minjie Wang, Lingfan Yu, Da Zheng, Quan Gan, Yu Gai, Zihao Ye, Mufei Li, Jinjing Zhou, Qi Huang, Chao Ma, Ziyue Huang, Qipeng Guo, Hao Zhang, Haibin Lin, Junbo Zhao, Jinyang Li, Alexander Smola, and Zheng Zhang
+
+### Graph Nets Library
+A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
+- Blog: [Graph Nets Library](https://github.com/deepmind/graph_nets) 
+
+### More Libraries
+- Blog: [StellarGraph Machine Learning Library:](https://github.com/stellargraph/stellargraph) a Python library for machine learning on graph-structured (or equivalently, network-structured) data. 
+- Blog: [PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) by Matthias Fey. PyTorch Geometric is a geometric deep learning extension library for PyTorch.
 
 ## Jupyter NoteBooks:  
 - Blog: [Tutorial of the Graph Nets Library](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb)   
