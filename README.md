@@ -23,7 +23,8 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
   14. Lecture 14: [Applications](#Applications) 
   15. Lecture 15: [Autoencoders](#Autoencoders)
-  16. Lecture 16: [Generative Adversarial Networks](#GAN)
+  16. Lecture 16: [Generative Adversarial Networks](#GAN)  
+  17. Lecture 17: [Graph Neural Networks](#GNN)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
@@ -39,6 +40,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Academic Honor Code](#Academic-Honor-Code)
 - [Questions](#Questions)
 - Miscellaneous
+- [Data Handling](https://github.com/hhaji/Deep-Learning/tree/master/Data-Handling)  
 
 ---
 
@@ -584,6 +586,27 @@ Additional Reading:
 * Blog: [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)  
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
 * [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora  
+
+17. ### <a name="GNN"></a>Graph Neural Networks:     
+
+```
+Required Reading:
+```
+
+- Slide: [Graph Neural Networks](http://ir.hit.edu.cn/~xiachongfeng/slides/Graph%20Neural%20Networks.pdf) by Xiachong Feng  
+- Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
+
+```
+Suggested Reading:
+```
+
+- Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
+
+```
+Additional Reading:
+```  
+
+- GitHub: [Graph Neural Networks](https://github.com/hhaji/Deep-Learning/tree/master/Graph-Neural-Networks)   
     
 ### <a name="ANAS"></a>Additional Resources:    
 - Papers:  
