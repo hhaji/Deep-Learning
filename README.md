@@ -593,12 +593,10 @@ Additional Reading:
  - Deep Learning Courses:  
     * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
     * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
-    * [Deep Learning](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
-    * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
 - Program:  
   * [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
         - [Installation](https://github.com/uber/ludwig)
-  * [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter   
+  * [TensorFlow Playground:](https://playground.tensorflow.org) an interactive visualization of neural networks, written in typescript using d3.js by Daniel Smilkov and Shan Carter   
 - The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks  
 - The blog of [Adit Deshpande:](https://adeshpande3.github.io/adeshpande3.github.io/) The Last 5 Years In Deep Learning  
 - [Fascinating Tutorials on Deep Learning](https://r2rt.com/)   
