@@ -24,7 +24,7 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
   14. Lecture 14: [Applications](#Applications) 
   15. Lecture 15: [Autoencoders](#Autoencoders)
   16. Lecture 16: [Generative Adversarial Networks](#GAN)
-- [Additional NoteBooks and Slides](#ANAS)
+- [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
@@ -583,9 +583,26 @@ Additional Reading:
 * Blog: [New Progress on GAN Theory and Practice](https://casmls.github.io/general/2017/04/13/gan.html) by Liping Liu  
 * Blog: [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)  
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
+* [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora  
     
-### <a name="ANAS"></a>Additional NoteBooks and Slides  
-- [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker <br>
+### <a name="ANAS"></a>Additional Resources:    
+- Papers:  
+  * [Papers with Code:](https://paperswithcode.com) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
+  * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
+  * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
+ - Deep Learning Courses:  
+  * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
+  * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
+  * [Deep Learning](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+  * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
+- Program:  
+  * [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+        - [Installation](https://github.com/uber/ludwig)
+  * [TensorFlow Playground](https://playground.tensorflow.org) (an interactive visualization of neural networks, written in typescript using d3.js) by Daniel Smilkov and Shan Carter   
+- The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks  
+- The blog of [Adit Deshpande:](https://adeshpande3.github.io/adeshpande3.github.io/) The Last 5 Years In Deep Learning  
+- [Fascinating Tutorials on Deep Learning](https://r2rt.com/)   
+- [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker   
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 13:00-14:30 AM (Fall 2019)
