@@ -1,6 +1,4 @@
-# Tutorials
-
-## TensorFlow 1.0
+# TensorFlow 1.0
 * GitHub: [Set up Tensorflow 1.0](https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/setup)  by Chip Huyen <br>
 * Slide: [Overview of TensorFlow 1.0](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)  by Chip Huyen <br>
     * [NoteBook:](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Lec1.ipynb) This was adopted from the slide ([Overview of TensorFlow 1.0](https://docs.google.com/presentation/d/1dizKPtp9hkuTwVDzoGZdYQb_61ULSsSUvaFfDFuhIc4/edit?usp=sharing)) of Chip Huyen <br>
