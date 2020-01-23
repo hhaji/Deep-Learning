@@ -591,10 +591,10 @@ Additional Reading:
   * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
  - Deep Learning Courses:  
-  * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
-  * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
-  * [Deep Learning](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
-  * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
+    * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
+    * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
+    * [Deep Learning](https://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
+    * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/)
 - Program:  
   * [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
         - [Installation](https://github.com/uber/ludwig)
