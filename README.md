@@ -39,8 +39,8 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Account](#Account)
 - [Academic Honor Code](#Academic-Honor-Code)
 - [Questions](#Questions)
-- Miscellaneous
-- [Data Handling](https://github.com/hhaji/Deep-Learning/tree/master/Data-Handling)  
+- Miscellaneous: 
+     * [Data Handling](https://github.com/hhaji/Deep-Learning/tree/master/Data-Handling)  
 
 ---
 
