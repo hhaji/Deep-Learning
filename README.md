@@ -371,7 +371,7 @@ Additional Resources:
 ```
 TensorFlow 1.0:
 ```
-  * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-Tutorials](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-Tutorials/README.md#tensorflow-1). 
+  * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-1](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-1). 
 
 10. ### <a name="CNN"></a>Convolutional Networks  
 
