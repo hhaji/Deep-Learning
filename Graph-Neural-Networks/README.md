@@ -44,3 +44,8 @@ A DeepMind's library for building graph networks in Tensorflow and Sonnet.
 ### More Libraries
 - Blog: [StellarGraph Machine Learning Library:](https://github.com/stellargraph/stellargraph) a Python library for machine learning on graph-structured (or equivalently, network-structured) data. 
 - Blog: [PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) by Matthias Fey. PyTorch Geometric is a geometric deep learning extension library for PyTorch.  
+
+## Datasets of Graphs
+
+- Blog: [A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets) by 
+Shiruipan   
