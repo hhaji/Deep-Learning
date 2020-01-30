@@ -2,6 +2,7 @@
 
 - Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
 matrix containing elements of a single data type. Torch defines nine CPU tensor types and nine GPU tensor types. 
+- Blog: [Autograd: Automatic Differntiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) 
 - Blog: [Learning PyTorch with Exampls](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) by Justin Johnson. 
 This tutorial introduces the fundamental concepts of PyTorch through self-contained examples.  
 
