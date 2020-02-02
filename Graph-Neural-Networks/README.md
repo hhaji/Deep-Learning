@@ -47,5 +47,10 @@ A DeepMind's library for building graph networks in Tensorflow and Sonnet.
 
 ## Datasets of Graphs
 
+- Blog: [Network Repository. An Interactive Scientific Network Data Repository](http://networkrepository.com)
+- Blog: [Graph Challenge Data Sets](https://graphchallenge.mit.edu/data-sets) by Amazon  
+- Blog: [Big Graph Data Sets](https://lgylym.github.io/big-graph/dataset.html) by Yongming Luo   
+- Blog: [MIVIA LDGraphs Dataset:](https://mivia.unisa.it/datasets/graph-database/mivia2-graph-database/) The MIVIA LDGraphs (MIVIA Large Dense Graphs) dataset is a new dataset for benchmarking exact graph matching algorithms. It aims to extend the MIVIA graphs dataset, widely used in the last ten years, with bigger and more dense graphs, so as to face with the problems nowadays encountered in real applications devoted for instance to bioinformatics and social network analysis. 
+- Blog: [Graph Dataset](https://sites.google.com/site/xiaomengsite/research/resources/graph-dataset) by Xiao Meng  
 - Blog: [A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets) by 
 Shiruipan   
