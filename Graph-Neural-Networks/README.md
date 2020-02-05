@@ -66,9 +66,10 @@ Shiruipan
 ## Tools for Creating Graphs
 
 - Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
-  - Blog: [Converting to and from Other Data Formats To NetworkX Graph](https://networkx.github.io/documentation/stable/reference/convert.html)  
-  - Blog: [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
+  - [Graph Generators](https://networkx.github.io/documentation/stable/reference/generators.html)  
+  - [Converting to and from Other Data Formats To NetworkX Graph](https://networkx.github.io/documentation/stable/reference/convert.html)  
+  - [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
-  - Blog: [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
+  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
 
