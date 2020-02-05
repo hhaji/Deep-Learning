@@ -33,7 +33,8 @@ A Python package that interfaces between existing tensor libraries and data bein
 - Blog: [DGL Walkthrough 01: Data](https://xinhaoli74.github.io/posts/2019/12/DGL-Basic01-Data/) by Xinhao Li  
 - Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang  
 - Blog: [When Kernel Fusion Meets Graph Neural Networks](https://www.dgl.ai/blog/2019/05/04/kernel.html) By Minjie Wang, Lingfan Yu, Jake Zhao, Jinyang Li, Zheng Zhang  
-- Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)
+- Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)  
+- Blog: [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
 
 ### Graph Nets Library
 A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
