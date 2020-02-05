@@ -62,5 +62,13 @@ Shiruipan
 - Blog: [MIVIA LDGraphs Dataset:](https://mivia.unisa.it/datasets/graph-database/mivia2-graph-database/) The MIVIA LDGraphs (MIVIA Large Dense Graphs) dataset is a new dataset for benchmarking exact graph matching algorithms. It aims to extend the MIVIA graphs dataset, widely used in the last ten years, with bigger and more dense graphs, so as to face with the problems nowadays encountered in real applications devoted for instance to bioinformatics and social network analysis. 
 - Blog: [Datasets](https://sites.wustl.edu/neumann/research/datasets/) by Marion Neumann  
 - Blog: [Graph Dataset](https://sites.google.com/site/xiaomengsite/research/resources/graph-dataset) by Xiao Meng   
-- Blog: [Constructors and Databases of Graphs in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
+- Blog: [Constructors and Databases of Graphs in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)
+
+## Tools for Creating Graphs
+
+- Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
+  - Blog: [Converting to and from Other Data Formats To NetworkX Graph](https://networkx.github.io/documentation/stable/reference/convert.html)  
+  
+- Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
+  - Blog: [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
 
