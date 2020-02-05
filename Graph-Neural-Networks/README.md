@@ -34,7 +34,6 @@ A Python package that interfaces between existing tensor libraries and data bein
 - Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang  
 - Blog: [When Kernel Fusion Meets Graph Neural Networks](https://www.dgl.ai/blog/2019/05/04/kernel.html) By Minjie Wang, Lingfan Yu, Jake Zhao, Jinyang Li, Zheng Zhang  
 - Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)  
-- Blog: [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
 
 ### Graph Nets Library
 A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
@@ -68,6 +67,7 @@ Shiruipan
 
 - Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
   - Blog: [Converting to and from Other Data Formats To NetworkX Graph](https://networkx.github.io/documentation/stable/reference/convert.html)  
+  - Blog: [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
   - Blog: [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
