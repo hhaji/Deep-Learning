@@ -71,5 +71,6 @@ Shiruipan
   - [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)    
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
+  - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
 
