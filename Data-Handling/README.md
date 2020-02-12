@@ -38,7 +38,7 @@ The following resources may be helpful for those still undecided about their cou
 * [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/) by Pranav Dar  
 * [DigiKala](https://www.dataacademy.ir/داده-های-باز-در-دیجی-کالا) (Persian)  
 * [Statistical Center of Iran](https://www.amar.org.ir/english/) 
-    - [Dataset (In Persian)](https://www.amar.org.ir/دادهها-و-اطلاعات-آماری/هزینه-و-درامد-خانوار/هزینه-و-درامد-کل-کشور#103181018---)   
+    - [Dataset (Persian)](https://www.amar.org.ir/دادهها-و-اطلاعات-آماری/هزینه-و-درامد-خانوار/هزینه-و-درامد-کل-کشور#103181018---)   
 
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
