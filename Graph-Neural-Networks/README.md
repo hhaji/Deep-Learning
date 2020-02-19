@@ -23,6 +23,10 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 ## Graph Auto-Encoders  
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
+## Deep Belief Nets  
+- Blog: [Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) by Artem Oppermann    
+- Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton    
+
 ## Graph Neural Networks Libraries  
 ### Deep Graph Library (DGL)
 A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
