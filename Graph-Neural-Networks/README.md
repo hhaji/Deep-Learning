@@ -58,7 +58,8 @@ A DeepMind's library for building graph networks in Tensorflow and Sonnet.
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 - Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
-- Blog: [The House of Graphs:](https://hog.grinvin.org) database of interesting graphs  
+- Blog: [The House of Graphs:](https://hog.grinvin.org) a database of interesting graphs by G. Brinkmann, K. Coolsaet, J. Goedgebeur, H. Mélot   
+    * [Search for Graphs](https://hog.grinvin.org/StartSearch.action)  
 - Blog: [A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets) by 
 Shiruipan    
 - Blog: [Collection and Streaming of Graph Datasets](https://www.eecs.wsu.edu/~yyao/StreamingGraphs.html) by Yibo Yao   
