@@ -30,16 +30,19 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 ## Graph Neural Networks Libraries  
 ### Deep Graph Library (DGL)
 A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
-- Blog: [Deep Graph Library (DGL)](https://www.dgl.ai) 
-- Blog: [Install DGL](https://docs.dgl.ai/install/index.html)
+- Library: [Deep Graph Library (DGL)](https://www.dgl.ai) 
+    * Install: [DGL](https://docs.dgl.ai/install/index.html)
 - Paper: [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](https://rlgm.github.io/papers/49.pdf) by Minjie Wang, Lingfan Yu, Da Zheng, Quan Gan, Yu Gai, Zihao Ye, Mufei Li, Jinjing Zhou, Qi Huang, Chao Ma, Ziyue Huang, Qipeng Guo, Hao Zhang, Haibin Lin, Junbo Zhao, Jinyang Li, Alexander Smola, and Zheng Zhang  
-- Blog: [DGL at a Glance](https://docs.dgl.ai/tutorials/basics/1_first.html) by  Minjie Wang, Quan Gan, Jake Zhao, Zheng Zhang  
+- Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang   
 - Blog: [DGL Walkthrough 01: Data](https://xinhaoli74.github.io/posts/2019/12/DGL-Basic01-Data/) by Xinhao Li  
-- Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang  
 - Blog: [When Kernel Fusion Meets Graph Neural Networks](https://www.dgl.ai/blog/2019/05/04/kernel.html) By Minjie Wang, Lingfan Yu, Jake Zhao, Jinyang Li, Zheng Zhang  
 - Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)  
-- **Graph Classification:**  
-   * [Tutorial: Batched Graph Classification with DGL](https://docs.dgl.ai/tutorials/basics/4_batch.html)
+
+#### Node Classification  
+- Blog: [DGL at a Glance](https://docs.dgl.ai/tutorials/basics/1_first.html) by  Minjie Wang, Quan Gan, Jake Zhao, Zheng Zhang  
+
+#### Graph Classification  
+- [Tutorial: Batched Graph Classification with DGL](https://docs.dgl.ai/tutorials/basics/4_batch.html)
 
 ### Graph Nets Library
 A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
