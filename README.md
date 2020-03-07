@@ -415,6 +415,16 @@ Additional Reading:
    * Blog & NoteBook: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
    * Blog & NoteBook: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
    
+```
+Fourier Transformation:
+```   
+
+   * Blog: [Fourier Transformation and Its Mathematics](https://towardsdatascience.com/fourier-transformation-and-its-mathematics-fff54a6f6659) by Akash Dubey    
+   * Blog: [Fourier Transformation for a Data Scientist](https://towardsdatascience.com/fourier-transformation-for-a-data-scientist-1f3731115097) by Nagesh Singh Chauhan        
+   * Blog: [Purrier Series (Meow) and Making Images Speak](http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/) by Bilim Ne Güzel Lan   
+   * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
+
+
 11. ### <a name="Part-6"></a>Toolkit Lab 6: TensorBoard    
    
 ```

@@ -30,14 +30,19 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 ## Graph Neural Networks Libraries  
 ### Deep Graph Library (DGL)
 A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
-- Blog: [Deep Graph Library (DGL)](https://www.dgl.ai) 
-- Blog: [Install DGL](https://docs.dgl.ai/install/index.html)
+- Library: [Deep Graph Library (DGL)](https://www.dgl.ai) 
+    * Install: [DGL](https://docs.dgl.ai/install/index.html)
 - Paper: [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](https://rlgm.github.io/papers/49.pdf) by Minjie Wang, Lingfan Yu, Da Zheng, Quan Gan, Yu Gai, Zihao Ye, Mufei Li, Jinjing Zhou, Qi Huang, Chao Ma, Ziyue Huang, Qipeng Guo, Hao Zhang, Haibin Lin, Junbo Zhao, Jinyang Li, Alexander Smola, and Zheng Zhang  
-- Blog: [DGL at a Glance](https://docs.dgl.ai/tutorials/basics/1_first.html) by  Minjie Wang, Quan Gan, Jake Zhao, Zheng Zhang  
+- Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang   
 - Blog: [DGL Walkthrough 01: Data](https://xinhaoli74.github.io/posts/2019/12/DGL-Basic01-Data/) by Xinhao Li  
-- Blog: [Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8) by Huang Kung-Hsiang  
 - Blog: [When Kernel Fusion Meets Graph Neural Networks](https://www.dgl.ai/blog/2019/05/04/kernel.html) By Minjie Wang, Lingfan Yu, Jake Zhao, Jinyang Li, Zheng Zhang  
 - Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)  
+
+#### Node Classification  
+- Blog: [DGL at a Glance](https://docs.dgl.ai/tutorials/basics/1_first.html) by  Minjie Wang, Quan Gan, Jake Zhao, Zheng Zhang  
+
+#### Graph Classification  
+- [Tutorial: Batched Graph Classification with DGL](https://docs.dgl.ai/tutorials/basics/4_batch.html)
 
 ### Graph Nets Library
 A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
@@ -58,6 +63,8 @@ A DeepMind's library for building graph networks in Tensorflow and Sonnet.
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 - Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
+- Blog: [The House of Graphs:](https://hog.grinvin.org) a database of interesting graphs by G. Brinkmann, K. Coolsaet, J. Goedgebeur, and H. Mélot (also see Discrete Applied Mathematics, 161(1-2): 311-314, 2013 ([DOI](http://dx.doi.org/10.1016/j.dam.2012.07.018))).   
+    * [Search for Graphs](https://hog.grinvin.org/StartSearch.action)  
 - Blog: [A Repository of Benchmark Graph Datasets for Graph Classification](https://github.com/shiruipan/graph_datasets) by 
 Shiruipan    
 - Blog: [Collection and Streaming of Graph Datasets](https://www.eecs.wsu.edu/~yyao/StreamingGraphs.html) by Yibo Yao   
