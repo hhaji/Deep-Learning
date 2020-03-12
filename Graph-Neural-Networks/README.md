@@ -73,7 +73,7 @@ Shiruipan
 - Blog: [Datasets](https://sites.wustl.edu/neumann/research/datasets/) by Marion Neumann  
 - Blog: [Graph Dataset](https://sites.google.com/site/xiaomengsite/research/resources/graph-dataset) by Xiao Meng   
 - Blog: [Constructors and Databases of Graphs in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)
-- Datasets in GitHub:
+- Datasets in GitHub:   
       * [Benchmark Dataset for Graph Classification](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification) by Filippo Bianchi    
 
 ## Tools for Creating Graphs
