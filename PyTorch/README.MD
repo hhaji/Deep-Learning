@@ -16,7 +16,7 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
     - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
     
  - Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman   
- - Blog: [Keras vs. PyTorch: Alien vs. Predator Recognition with Transfer Learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)  
+ - Blog: [Keras vs. PyTorch: Alien vs. Predator Recognition with Transfer Learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/) by Piotr Migdal, Patryk Miziuła and Rafał Jakubanis  
  - Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
 
 ## Books
