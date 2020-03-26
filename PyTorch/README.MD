@@ -5,6 +5,7 @@ matrix containing elements of a single data type. Torch defines nine CPU tensor 
 - Blog: [Autograd: Automatic Differntiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) 
 - Blog: [Learning PyTorch with Exampls](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) by Justin Johnson. 
 This tutorial introduces the fundamental concepts of PyTorch through self-contained examples.  
+- Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar  
 
 ### Neural Network
 
