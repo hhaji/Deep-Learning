@@ -27,7 +27,23 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 
 ## Deep Belief Nets  
 - Blog: [Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) by Artem Oppermann    
-- Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton    
+- Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton 
+
+## Graph Represetation Learning
+  
+- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+- Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
+- Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
+- Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
+William L. Hamilton and Jian Tang   
+- Survey: [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf) by William L. Hamilton, Rex Ying, and Jure Leskovec   
+- Video: [Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E) by Jure Leskovec  
+- Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
+- NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
+
+## Courses
+- Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
+- Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
 
 ## Graph Neural Networks Libraries  
 ### Deep Graph Library (DGL)
@@ -89,16 +105,4 @@ Shiruipan
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
-  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
-  
-## Graph Represetation Learning
-  
-- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
-- Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
-- Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
-- Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
-William L. Hamilton and Jian Tang   
-- Survey: [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf) by William L. Hamilton, Rex Ying, and Jure Leskovec   
-- Video: [Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E) by Jure Leskovec  
-- Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
-- NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
+  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)   
