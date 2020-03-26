@@ -87,7 +87,7 @@ Shiruipan
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
 * Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
 
-### Data Science Competition Platforms  
+## Data Science Competition Platforms  
 * [Kaggle](https://www.kaggle.com/datasets)
   * [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/) 
   * [Kaggle Past Solutions](https://ndres.me/kaggle-past-solutions/) by Eliot Andres 
