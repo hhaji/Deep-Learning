@@ -5,7 +5,9 @@
 - Blog: [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) by Steeve Huang  
 - Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
 - Blog: [Applications of Graph Neural Networks](https://towardsdatascience.com/https-medium-com-aishwaryajadhav-applications-of-graph-neural-networks-1420576be574) by Aishwarya Jadhav  
+- Blog: [Exciting Applications of Graph Neural Networks](https://blog.fastforwardlabs.com/2019/10/30/exciting-applications-of-graph-neural-networks.html) by Keita  
 - Blog: [Limitations of Graph Neural Networks](https://towardsdatascience.com/limitations-of-graph-neural-networks-2412fffe677) by Sergei Ivanov   
+
 
 ## Video
 - Video: [Graph Neural Networks: Variations and Applications](https://www.youtube.com/watch?v=cWIeTMklzNg) 
