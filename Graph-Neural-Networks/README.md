@@ -2,17 +2,17 @@
 Graph Neural Networks have received increasing attentions due to their superior performance in many node and graph classification tasks. 
 
 ### **Index:**
-- [Blogs](#Blogs)
+- [Graph Neural Networks](#Blogs)
     - [Applications and Limitations of Graph Neural Networks](#ALGNN)
-- [Video](#Video)
-- [Survey](#Survey)
-- [Graph Convolutionl Networks](#GCN)
-- [Graph Auto-Encoders](#GAE)
-- [Deep Belief Nets](#DBN)
+    - [Video](#Video)
+    - [Survey](#Survey)
+    - [Graph Convolutionl Networks](#GCN)
+    - [Graph Auto-Encoders](#GAE)
+    - [Deep Belief Nets](#DBN)
 - [Graph Represetation Learning](#GRL)
-- [Courses](#Courses) 
+    - [Courses](#Courses) 
 - [Graph Neural Networks Libraries](#GNNL) 
-- [Deep Graph Library (DGL)](#DGL) 
+    - [Deep Graph Library (DGL)](#DGL) 
     - [Node Classification](#NC) 
     - [Graph Classification](#GC) 
     - [Graph Nets Library](#GNL) 
@@ -22,9 +22,9 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Tools for Creating Graphs](#TCG) 
 - [Applications](#Applications) 
     - [Prediction in Molecular Biology](#PMB) 
+    - [Libraries](#Libraries) 
 
-
-## <a name="Blogs"></a>Blogs  
+## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.
 - Blog: [Tutorial of the Graph Nets Library](https://github.com/yazdotai/graph-networks) by Yazdotai
 - Blog: [Must-Read Papers on Graph Neural Networks (GNN)](https://github.com/thunlp/GNNPapers) contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai. 
@@ -37,25 +37,25 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - Blog: [Can Graph Neural Networks Solve Real-World Problems?](https://hackernoon.com/can-graph-neural-networks-solve-real-world-problems-7hd636dn) by Prince Canuma  
 - Blog: [Limitations of Graph Neural Networks](https://towardsdatascience.com/limitations-of-graph-neural-networks-2412fffe677) by Sergei Ivanov   
 
-## <a name="Video"></a>Video  
+### <a name="Video"></a>Video  
 - Video: [Graph Neural Networks: Variations and Applications](https://www.youtube.com/watch?v=cWIeTMklzNg) 
 
-## <a name="Survey"></a>Survey   
+### <a name="Survey"></a>Survey   
 - Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
 - Paper: [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 - Paper: [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by 
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 - Paper: [Attention Models in Graphs: A Survey](https://dl.acm.org/doi/10.1145/3363574) by John Boaz Lee, Ryan A Rossi, Sungchul Kim, Nesreen K Ahmed, and Eunyee Koh   
 
-## <a name="GCN"></a>Graph Convolutionl Networks     
+### <a name="GCN"></a>Graph Convolutionl Networks     
 - Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
 - Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
 - Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
 
-## <a name="GAE"></a>Graph Auto-Encoders        
+### <a name="GAE"></a>Graph Auto-Encoders        
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
-## <a name="DBN"></a>Deep Belief Nets       
+### <a name="DBN"></a>Deep Belief Nets       
 - Blog: [Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) by Artem Oppermann    
 - Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton 
 
@@ -70,7 +70,7 @@ William L. Hamilton and Jian Tang
 - Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
 - NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
 
-## <a name="Courses"></a>Courses       
+### <a name="Courses"></a>Courses       
 - Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
 - Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
 
