@@ -20,8 +20,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Save & Load Graphs](#SLG) 
 - [Datasets of Graphs](#DG) 
     - [Tools for Creating Graphs](#TCG) 
-- [Applications](#Applications) 
-    - [Prediction in Molecular Biology](#PMB) 
+- [Prediction in Molecular Biology](#PMB) 
     - [Libraries](#Libraries) 
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -134,8 +133,7 @@ Shiruipan
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
   
-## <a name="Applications"></a>Applications  
-### <a name="PMB"></a>Prediction in Molecular Biology 
+## <a name="PMB"></a>Prediction in Molecular Biology 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda   
   
 #### <a name="Libraries"></a>Libraries  
