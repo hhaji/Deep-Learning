@@ -20,7 +20,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Save & Load Graphs](#SLG) 
 - [Datasets of Graphs](#DG) 
     - [Tools for Creating Graphs](#TCG) 
-- [Prediction in Molecular Biology](#PMB) 
+- [Molecular Structure Analysis](#MSA) 
     - [Libraries](#Libraries) 
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -133,7 +133,7 @@ Shiruipan
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
   
-## <a name="MSA"></a>Molecular Structure Analysis  
+## <a name="MSA"></a>Molecular Structure Analysis   
 Molecular structures have graph structures. By using GCNs, one can predict some physical, chemical, biochemical properties of a molecule by it's chemical formula. Also, it is possible to predict new formula and 3D structure for an unknown yet molecule or substance with certain desired properties. 
 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
