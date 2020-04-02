@@ -29,7 +29,8 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - Blog: [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks) by Yazdotai
 - Blog: [Must-Read Papers on Graph Neural Networks (GNN)](https://github.com/thunlp/GNNPapers) contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai. 
 - Blog: [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) by Steeve Huang  
-- Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
+- Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a) 
+- Slide: [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu, and Tengfei Ma   
 
 ### <a name="ALGNN"></a>Applications and Limitations of Graph Neural Networks
 - Blog: [Applications of Graph Neural Networks](https://towardsdatascience.com/https-medium-com-aishwaryajadhav-applications-of-graph-neural-networks-1420576be574) by Aishwarya Jadhav  
