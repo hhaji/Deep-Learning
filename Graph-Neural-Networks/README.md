@@ -138,6 +138,6 @@ Shiruipan
   
 #### <a name="Libraries"></a>Libraries  
 - RDKit: Open source toolkit for cheminformatics    
-    - PDF:[RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
+    - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
     - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
-    - Blog:[RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
+    - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
