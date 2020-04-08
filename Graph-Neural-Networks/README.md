@@ -1,35 +1,82 @@
 # Graph Neural Networks  
+Graph Neural Networks have received increasing attentions due to their superior performance in many node and graph classification tasks. 
+
+### **Index:**
+- [Graph Neural Networks](#Blogs)
+    - [Applications and Limitations of Graph Neural Networks](#ALGNN)
+    - [Video](#Video)
+    - [Survey](#Survey)
+    - [Graph Convolutionl Networks](#GCN)
+    - [Graph Auto-Encoders](#GAE)
+    - [Deep Belief Nets](#DBN)
+- [Graph Represetation Learning](#GRL)
+    - [Courses](#Courses) 
+- [Graph Neural Networks Libraries](#GNNL) 
+    - [Deep Graph Library (DGL)](#DGL) 
+    - [Node Classification](#NC) 
+    - [Graph Classification](#GC) 
+    - [Graph Nets Library](#GNL) 
+    - [More Libraries](#ML) 
+    - [Save & Load Graphs](#SLG) 
+- [Datasets of Graphs](#DG) 
+    - [Tools for Creating Graphs](#TCG) 
+- [Molecular Structure Analysis](#MSA) 
+    - [Libraries](#Libraries) 
+
+## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.
-- Blog: [Tutorial of the Graph Nets Library](https://github.com/yazdotai/graph-networks) by Yazdotai
+- Blog: [Graph Neural Networks and its Variants](https://docs.dgl.ai/en/0.4.x/tutorials/models/)   
+- Blog: [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks) by Yazdotai
 - Blog: [Must-Read Papers on Graph Neural Networks (GNN)](https://github.com/thunlp/GNNPapers) contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai. 
 - Blog: [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3) by Steeve Huang  
-- Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a)
-- Blog: [Applications of Graph Neural Networks](https://towardsdatascience.com/https-medium-com-aishwaryajadhav-applications-of-graph-neural-networks-1420576be574) by Aishwarya Jadhav  
+- Blog: [Deep Learning with Knowledge Graphs](https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a) 
+- Slide: [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu, and Tengfei Ma   
 
-## Video
+### <a name="ALGNN"></a>Applications and Limitations of Graph Neural Networks
+- Blog: [Applications of Graph Neural Networks](https://towardsdatascience.com/https-medium-com-aishwaryajadhav-applications-of-graph-neural-networks-1420576be574) by Aishwarya Jadhav  
+- Blog: [Exciting Applications of Graph Neural Networks](https://blog.fastforwardlabs.com/2019/10/30/exciting-applications-of-graph-neural-networks.html) by Keita  
+- Blog: [Can Graph Neural Networks Solve Real-World Problems?](https://hackernoon.com/can-graph-neural-networks-solve-real-world-problems-7hd636dn) by Prince Canuma  
+- Blog: [Limitations of Graph Neural Networks](https://towardsdatascience.com/limitations-of-graph-neural-networks-2412fffe677) by Sergei Ivanov   
+
+### <a name="Video"></a>Video  
 - Video: [Graph Neural Networks: Variations and Applications](https://www.youtube.com/watch?v=cWIeTMklzNg) 
 
-## Survey  
+### <a name="Survey"></a>Survey   
 - Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
 - Paper: [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 - Paper: [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by 
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 - Paper: [Attention Models in Graphs: A Survey](https://dl.acm.org/doi/10.1145/3363574) by John Boaz Lee, Ryan A Rossi, Sungchul Kim, Nesreen K Ahmed, and Eunyee Koh   
 
-## Graph Convolutionl Networks  
+### <a name="GCN"></a>Graph Convolutionl Networks     
 - Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
 - Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
 - Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
 
-## Graph Auto-Encoders  
+### <a name="GAE"></a>Graph Auto-Encoders        
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
 
-## Deep Belief Nets  
+### <a name="DBN"></a>Deep Belief Nets       
 - Blog: [Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15) by Artem Oppermann    
-- Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton    
+- Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton 
 
-## Graph Neural Networks Libraries  
-### Deep Graph Library (DGL)
+## <a name="GRL"></a>Graph Represetation Learning         
+- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+- Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
+- Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
+- Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
+William L. Hamilton and Jian Tang   
+- Survey: [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf) by William L. Hamilton, Rex Ying, and Jure Leskovec   
+- Video: [Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E) by Jure Leskovec  
+- Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
+- NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
+
+### <a name="Courses"></a>Courses       
+- Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
+- Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+
+## <a name="GNNL"></a>Graph Neural Networks Libraries       
+### <a name="DGL"></a>Deep Graph Library (DGL)   
 A Python package that interfaces between existing tensor libraries and data being expressed as graphs.  
 - Library: [Deep Graph Library (DGL)](https://www.dgl.ai) 
     * Install: [DGL](https://docs.dgl.ai/install/index.html)
@@ -39,27 +86,25 @@ A Python package that interfaces between existing tensor libraries and data bein
 - Blog: [When Kernel Fusion Meets Graph Neural Networks](https://www.dgl.ai/blog/2019/05/04/kernel.html) By Minjie Wang, Lingfan Yu, Jake Zhao, Jinyang Li, Zheng Zhang  
 - Blog: [Built-in Message Passing Functions](https://docs.dgl.ai/features/builtin.html)  
 
-#### Node Classification  
+### <a name="NC"></a>Node Classification     
 - Blog: [DGL at a Glance](https://docs.dgl.ai/tutorials/basics/1_first.html) by  Minjie Wang, Quan Gan, Jake Zhao, Zheng Zhang  
 
-#### Graph Classification  
+### <a name="GC"></a>Graph Classification    
 - [Tutorial: Batched Graph Classification with DGL](https://docs.dgl.ai/tutorials/basics/4_batch.html)
 
-### Graph Nets Library
+### <a name="GNL"></a>Graph Nets Library   
 A DeepMind's library for building graph networks in Tensorflow and Sonnet.  
 - Blog: [Graph Nets Library](https://github.com/deepmind/graph_nets) 
 - Jupyter NoteBook: [Tutorial of the Graph Nets Library](https://colab.research.google.com/github/deepmind/graph_nets/blob/master/graph_nets/demos/graph_nets_basics.ipynb)   
 
-
-### More Libraries
+### <a name="ML"></a>More Libraries   
 - Blog: [StellarGraph Machine Learning Library:](https://github.com/stellargraph/stellargraph) a Python library for machine learning on graph-structured (or equivalently, network-structured) data. 
 - Blog: [PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) by Matthias Fey. PyTorch Geometric is a geometric deep learning extension library for PyTorch. 
 
-### Save & Load Graphs
-
+### <a name="SLG"></a>Save & Load Graphs       
 - Blog: [Reading and Writing Graphs](https://networkx.github.io/documentation/stable/reference/readwrite/index.html)
 
-## Datasets of Graphs
+## <a name="DG"></a>Datasets of Graphs       
 
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
@@ -79,7 +124,7 @@ Shiruipan
   - [GAM:](https://github.com/benedekrozemberczki/GAM) A PyTorch implementation of "Graph Classification Using Structural Attention" (KDD 2018) by Benedek Rozemberczki.
   - [CapsGNN:](https://github.com/benedekrozemberczki/CapsGNN) A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019) by Benedek Rozemberczki.   
 
-## Tools for Creating Graphs
+### <a name="TCG"></a>Tools for Creating Graphs  
 
 - Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
   - [Graph Generators](https://networkx.github.io/documentation/stable/reference/generators.html)  
@@ -90,14 +135,19 @@ Shiruipan
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
   
-## Graph Represetation Learning
-  
-- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
-- Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
-- Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
-- Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
-William L. Hamilton and Jian Tang   
-- Survey: [Representation Learning on Graphs: Methods and Applications](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf) by William L. Hamilton, Rex Ying, and Jure Leskovec   
-- Video: [Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E) by Jure Leskovec  
-- Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
-- NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
+## <a name="MSA"></a>Molecular Structure Analysis   
+Molecular structures have graph structures. By using GCNs, one can predict some physical, chemical, biochemical properties of a molecule by it's chemical formula. Also, it is possible to predict new formula and 3D structure for an unknown yet molecule or substance with certain desired properties. 
+
+- Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
+- Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
+- Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
+- Competition: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling/overview)    
+- Slide: [Graph Neural Network and its Application on Molecular Science](https://tykimos.github.io/warehouse/2018-6-28-ISS_1st_Deep_Learning_Together_rsy_file.pdf) by Seongok Ryu   
+
+#### <a name="Libraries"></a>Libraries  
+- RDKit: Open source toolkit for cheminformatics    
+    - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
+    - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
+    - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
+    - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
+    - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)
