@@ -141,13 +141,18 @@ Molecular structures have graph structures. By using GCNs, one can predict some 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
 - Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
 - Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
-- Competition: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling/overview)    
+- Blog: [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi   
+- Blog: [A Practical Introduction to the Use of Molecular Fingerprints in Drug Discovery](https://towardsdatascience.com/a-practical-introduction-to-the-use-of-molecular-fingerprints-in-drug-discovery-7f15021be2b1) by Laksh  
 - Slide: [Graph Neural Network and its Application on Molecular Science](https://tykimos.github.io/warehouse/2018-6-28-ISS_1st_Deep_Learning_Together_rsy_file.pdf) by Seongok Ryu   
+- GitHub:
+    - [Graph Neural Network (GNN) for Molecular Property Prediction (SMILES format)](https://github.com/masashitsubaki/molecularGNN_smiles) by Masashi Tsubaki   
+- Competition: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling/overview)    
 
 #### <a name="Libraries"></a>Libraries  
 - RDKit: Open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
     - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
     - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
-    - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
-    - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)
+- Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
+- Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
+- Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures
