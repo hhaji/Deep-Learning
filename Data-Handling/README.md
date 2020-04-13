@@ -75,17 +75,19 @@ Shiruipan
   - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html) 
 
 ## Dealing with Data  
-* [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
-* [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
-* [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
-* [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
-* [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
-* [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
-* [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
+* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
+* Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
+* Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
+* Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* Blog: [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* Blog: [Application of Synthetic Minority Over-sampling Technique (SMOTe) for Imbalanced Datasets](https://medium.com/towards-artificial-intelligence/application-of-synthetic-minority-over-sampling-technique-smote-for-imbalanced-data-sets-509ab55cfdaf) by Navoneel Chakrabarty  
+* Paper: [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) by Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, and W. Philip Kegelmeyer   
+* Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
+* Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
 * Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
 * Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
-* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang
+* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
 
 ## Data Science Competition Platforms  
 * [Kaggle](https://www.kaggle.com/datasets)
