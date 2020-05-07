@@ -144,13 +144,16 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [How to Fight COVID-19 with Machine Learning](https://towardsdatascience.com/fight-covid-19-with-machine-learning-1d1106192d84) by Markus Schmitt  
 - Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
 
-### Graph Neural Networks
+### Graph Neural Networks and its Application on Molecular Science
 
+- Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
+    - [Codes](https://github.com/deepchem/DeepLearningLifeSciences) 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
 - Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
 - Blog: [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi   
 - Blog: [A Practical Introduction to the Use of Molecular Fingerprints in Drug Discovery](https://towardsdatascience.com/a-practical-introduction-to-the-use-of-molecular-fingerprints-in-drug-discovery-7f15021be2b1) by Laksh  
-- Blog: [Public Coronavirus Prediction Models](https://www.aicures.mit.edu/post/public-coronavirus-prediction-models)   
+- Blog: [Public Coronavirus Prediction Models](https://www.aicures.mit.edu/post/public-coronavirus-prediction-models)  
+- Blog: [DIY Drug Discovery - Using Molecular Fingerprints and Machine Learning for Solubility Prediction](http://www.moreisdifferent.com/2017/9/21/DIY-Drug-Discovery-using-molecular-fingerprints-and-machine-learning-for-solubility-prediction/) by Daniel C. Elton  
 - Slide: [Graph Neural Network and its Application on Molecular Science](https://tykimos.github.io/warehouse/2018-6-28-ISS_1st_Deep_Learning_Together_rsy_file.pdf) by Seongok Ryu   
 - GitHub:
     - [Graph Neural Network (GNN) for Molecular Property Prediction (SMILES format)](https://github.com/masashitsubaki/molecularGNN_smiles) by Masashi Tsubaki   
@@ -164,5 +167,6 @@ Molecular structures have graph structures. By using machine learning and in par
     - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
+- Online Software: [Draw the Molecule from the SMILES](http://www.cheminfo.org/Chemistry/Cheminformatics/Exercises/SMILES_-__Molecule/index.html)
 - Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures  
 - GitHub: [Chemprop](https://github.com/chemprop/chemprop)
