@@ -168,7 +168,7 @@ Molecular structures have graph structures. By using machine learning and in par
     - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
     - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
 - Package: [DeepChem](https://deepchem.io/) project aims to create high quality, open source tools for drug discovery, materials science, quantum chemistry, and biology.
-    - [Tutorials and Codes:](https://deepchem.io/docs/notebooks/index.html) The following tutorials show off various aspects or capabilities of DeepChem. They can be run interactively in Jupyter (IPython) notebook.  
+    - [Tutorials and Codes:](https://deepchem.io/docs/notebooks/index.html) These tutorials show off various aspects or capabilities of DeepChem. They can be run interactively in Jupyter (IPython) notebook.  
 - Software: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) is a software to calculate molecular descriptors and fingerprints.
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
