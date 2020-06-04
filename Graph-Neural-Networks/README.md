@@ -161,14 +161,15 @@ Molecular structures have graph structures. By using machine learning and in par
 - Competition: [Fighting Secondary Effects of Covid](https://www.aicures.mit.edu/tasks) COVID-19 presents many health challenges beyond the virus itself. One of them is finding effective antibiotics for secondary infections. 
 
 #### <a name="Libraries"></a>Libraries  
-- RDKit: Open source toolkit for cheminformatics    
+- Package: RDKit is an open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
     - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
     - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
+- Software: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) is a software to calculate molecular descriptors and fingerprints.
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
 - Online Software: [Draw the Molecule from the SMILES](http://www.cheminfo.org/Chemistry/Cheminformatics/Exercises/SMILES_-__Molecule/index.html)
 - Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures  
-- GitHub: [Chemprop](https://github.com/chemprop/chemprop)
+- Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
     - Code: [Property Prediction](https://github.com/dmlc/dgl/tree/master/apps/life_sci/examples/property_prediction)
