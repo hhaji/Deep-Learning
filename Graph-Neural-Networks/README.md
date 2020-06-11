@@ -170,9 +170,11 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [DeepChem](https://deepchem.io/) project aims to create high quality, open source tools for drug discovery, materials science, quantum chemistry, and biology.
     - [Tutorials and Codes:](https://deepchem.io/docs/notebooks/index.html) These tutorials show off various aspects or capabilities of DeepChem. They can be run interactively in Jupyter (IPython) notebook.  
 - Software: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) is a software to calculate molecular descriptors and fingerprints.
+- [OCHEM:](https://ochem.eu/home/show.do) The Online Chemical Modeling Environment is a web-based platform that aims to automate and simplify the typical steps required for QSAR modeling. The platform consists of two major subsystems: the database of experimental measurements and the modeling framework. A user-contributed database contains a set of tools for easy input, search and modification of thousands of records. OCHEM was created  by Iurii Sushko.   
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
-- Online Software: [Draw the Molecule from the SMILES](http://www.cheminfo.org/Chemistry/Cheminformatics/Exercises/SMILES_-__Molecule/index.html)
+- Online Software: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
+    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
 - Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures  
 - Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
