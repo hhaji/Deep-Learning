@@ -43,6 +43,12 @@ The following resources may be helpful for those still undecided about their cou
 To know more datasets, refer to the following webpage of [KDnuggets](https://www.kdnuggets.com/index.html):
 * [Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)  
 
+## Datasets of Molecules and Their Properties  
+
+- Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
+- Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
+- Blog: [Tox21](https://tripod.nih.gov/tox21/challenge/): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The Tox21 Program (Toxicology in the 21st Century) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
+
 ## Datasets of Graphs
 
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
