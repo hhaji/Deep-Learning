@@ -49,8 +49,9 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 - Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 - Blog: [Tox21](https://tripod.nih.gov/tox21/challenge/): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The Tox21 Program (Toxicology in the 21st Century) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
 
-## Datasets of Graphs
+## Datasets of Graphs       
 
+- Blog: [Open Graph Benchmark](https://ogb.stanford.edu/) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs.  
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 - Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
@@ -68,8 +69,8 @@ Shiruipan
   - [Benchmark Dataset for Graph Classification:](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification) This repository contains datasets to quickly test graph classification algorithms, such as Graph Kernels and Graph Neural Networks by Filippo Bianchi.     
   - [GAM:](https://github.com/benedekrozemberczki/GAM) A PyTorch implementation of "Graph Classification Using Structural Attention" (KDD 2018) by Benedek Rozemberczki.
   - [CapsGNN:](https://github.com/benedekrozemberczki/CapsGNN) A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019) by Benedek Rozemberczki.   
-  
- ### Tools for Creating Graphs
+
+### Tools for Creating Graphs  
 
 - Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
   - [Graph Generators](https://networkx.github.io/documentation/stable/reference/generators.html)  
@@ -78,8 +79,8 @@ Shiruipan
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
-  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html) 
-
+  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
+  
 ## Dealing with Data  
 * Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
 * Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
