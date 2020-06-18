@@ -25,7 +25,8 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
-- Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.
+- Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
+- Blog: [Deep Learning on Graphs: Successes, Challenges, and Next Steps](https://towardsdatascience.com/deep-learning-on-graphs-successes-challenges-and-next-steps-7d9ec220ba8) by Michael Bronstein   
 - Blog: [Graph Neural Networks and its Variants](https://docs.dgl.ai/en/0.4.x/tutorials/models/)   
 - Blog: [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks) by Yazdotai
 - Blog: [Must-Read Papers on Graph Neural Networks (GNN)](https://github.com/thunlp/GNNPapers) contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai. 
@@ -107,6 +108,7 @@ A DeepMind's library for building graph networks in Tensorflow and Sonnet.
 
 ## <a name="DG"></a>Datasets of Graphs       
 
+- Blog: [Open Graph Benchmark](https://ogb.stanford.edu/) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs.  
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 - Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
