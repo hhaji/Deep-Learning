@@ -180,7 +180,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures  
 - Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
-    - Code: [Property Prediction](https://github.com/dmlc/dgl/tree/master/apps/life_sci/examples/property_prediction)
+    - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
