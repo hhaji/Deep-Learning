@@ -167,7 +167,7 @@ Molecular structures have graph structures. By using machine learning and in par
 #### <a name="Libraries"></a>Libraries  
 - Package: RDKit is an open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
-    - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
+    - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html) by Greg Landrum and Vincent Scalfani   
     - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk 
     - Blog: [Getting Started with the RDKit in Python](https://www.rdkit.org/docs/GettingStartedInPython.html) by Greg Landrum   
 - Package: [DeepChem](https://deepchem.io/) project aims to create high quality, open source tools for drug discovery, materials science, quantum chemistry, and biology.
