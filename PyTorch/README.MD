@@ -32,5 +32,6 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
 
 - Blog: [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) 
 by Alfredo Canziani   
+- Blog: [Introduction to Pytorch Code Examples](https://cs230.stanford.edu/blog/pytorch/) by Andrew Ng and Kian Katanforoosh     
 
 
