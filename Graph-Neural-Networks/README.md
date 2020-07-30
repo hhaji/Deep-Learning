@@ -21,7 +21,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - [Datasets of Graphs](#DG) 
     - [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
-    - [Machine Learning and its Application on Molecular Science](#ML-MS)
+    - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
     - [Libraries & Packages](#Libraries) 
     - [Notations](#Notations) 
     - [Online Softwares](#Online-Softwares) 
@@ -144,7 +144,7 @@ Shiruipan
 ## <a name="MSA"></a>Molecular Structure Analysis   
 Molecular structures have graph structures. By using machine learning and in particular GNNs, one can predict some physical, chemical, biochemical properties of a molecule by it's chemical formula. Also, it is possible to predict new formula and 3D structure for an unknown yet molecule or substance with certain desired properties. 
 
-### <a name="ML-MS"></a>Machine Learning and its Application on Molecular Science  
+### <a name="ML-MS"></a>Graph Machine Learning and its Application on Molecular Science  
 
 
 - Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
