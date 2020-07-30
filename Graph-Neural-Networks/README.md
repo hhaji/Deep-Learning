@@ -153,6 +153,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
     - [Codes](https://github.com/deepchem/DeepLearningLifeSciences) 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
+- Blog: [How to Use Machine Learning for Drug Discovery](https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad) by Chanin Nantasenamat   
 - Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
 - Blog: [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi   
 - Blog: [A Practical Introduction to the Use of Molecular Fingerprints in Drug Discovery](https://towardsdatascience.com/a-practical-introduction-to-the-use-of-molecular-fingerprints-in-drug-discovery-7f15021be2b1) by Laksh  
