@@ -21,7 +21,10 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - [Datasets of Graphs](#DG) 
     - [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
+    - [Machine Learning and its Application on Molecular Science](#ML-MS)
     - [Libraries & Packages](#Libraries) 
+    - [Notations](#Notations) 
+    - [Online Softwares](#Online-Softwares) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -163,7 +166,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [How to Fight COVID-19 with Machine Learning](https://towardsdatascience.com/fight-covid-19-with-machine-learning-1d1106192d84) by Markus Schmitt  
 - Paper: [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/pdf/1703.00564.pdf) by Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande  
 
-#### <a name="Libraries"></a>Libraries & Packages  
+### <a name="Libraries"></a>Libraries & Packages  
 - Package: RDKit is an open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
     - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html) by Greg Landrum and Vincent Scalfani   
@@ -177,13 +180,13 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
     - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)  
 
-#### <a name="Notations"></a>Notations     
+### <a name="Notations"></a>Notations     
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
     - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
 
-#### <a name="Online-Softwares"></a>Online Softwares  
+### <a name="Online-Softwares"></a>Online Softwares  
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
 - Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
