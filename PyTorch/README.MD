@@ -22,12 +22,16 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
 
 ## Books
 
-- Blog: [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
-    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)
+- Blog: [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
+    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
+- Blog: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
+    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)   
+
 
 ## Courses
 
 - Blog: [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) 
 by Alfredo Canziani   
+- Blog: [Introduction to Pytorch Code Examples](https://cs230.stanford.edu/blog/pytorch/) by Andrew Ng and Kian Katanforoosh     
 
 

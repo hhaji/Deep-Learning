@@ -21,7 +21,10 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - [Datasets of Graphs](#DG) 
     - [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
-    - [Libraries](#Libraries) 
+    - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
+    - [Libraries & Packages](#Libraries) 
+    - [Notations](#Notations) 
+    - [Online Softwares](#Online-Softwares) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -141,18 +144,14 @@ Shiruipan
 ## <a name="MSA"></a>Molecular Structure Analysis   
 Molecular structures have graph structures. By using machine learning and in particular GNNs, one can predict some physical, chemical, biochemical properties of a molecule by it's chemical formula. Also, it is possible to predict new formula and 3D structure for an unknown yet molecule or substance with certain desired properties. 
 
-#### Machine Learning 
+### <a name="ML-MS"></a>Graph Machine Learning and its Application on Molecular Science  
 
-- Blog: [Machine Learning Formulation](https://www.aicures.mit.edu/post/machine-learning-formulation) 
-- Blog: [How to Fight COVID-19 with Machine Learning](https://towardsdatascience.com/fight-covid-19-with-machine-learning-1d1106192d84) by Markus Schmitt  
-- Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
-- Paper: [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/pdf/1703.00564.pdf) by Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande  
-
-### Graph Neural Networks and its Application on Molecular Science
 
 - Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
     - [Codes](https://github.com/deepchem/DeepLearningLifeSciences) 
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
+- Blog: [How to Use Machine Learning for Drug Discovery](https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad) by Chanin Nantasenamat   
+- Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
 - Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
 - Blog: [Review: Deep Learning In Drug Discovery](https://towardsdatascience.com/review-deep-learning-in-drug-discovery-f4c89e3321e1) by Hosein Fooladi   
 - Blog: [A Practical Introduction to the Use of Molecular Fingerprints in Drug Discovery](https://towardsdatascience.com/a-practical-introduction-to-the-use-of-molecular-fingerprints-in-drug-discovery-7f15021be2b1) by Laksh  
@@ -162,25 +161,37 @@ Molecular structures have graph structures. By using machine learning and in par
 - GitHub:
     - [Graph Neural Network (GNN) for Molecular Property Prediction (SMILES format)](https://github.com/masashitsubaki/molecularGNN_smiles) by Masashi Tsubaki   
 - Competition: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling/overview)    
-- Competition: [Fighting Secondary Effects of Covid](https://www.aicures.mit.edu/tasks) COVID-19 presents many health challenges beyond the virus itself. One of them is finding effective antibiotics for secondary infections. 
+- Competition: [Fighting Secondary Effects of Covid](https://www.aicures.mit.edu/tasks) COVID-19 presents many health challenges beyond the virus itself. One of them is finding effective antibiotics for secondary infections.   
+- Blog: [Machine Learning Formulation](https://www.aicures.mit.edu/post/machine-learning-formulation) 
+- Blog: [How to Fight COVID-19 with Machine Learning](https://towardsdatascience.com/fight-covid-19-with-machine-learning-1d1106192d84) by Markus Schmitt  
+- Paper: [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/pdf/1703.00564.pdf) by Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande  
 
-#### <a name="Libraries"></a>Libraries  
+### <a name="Libraries"></a>Libraries & Packages  
 - Package: RDKit is an open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
-    - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html)
-    - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk
+    - Blog: [RDKit Cookbook](https://www.rdkit.org/docs/Cookbook.html) by Greg Landrum and Vincent Scalfani   
+    - Blog: [RDKit: Simple File Input and Output](https://medium.com/@camkirk/rdkit-simple-file-input-and-output-e6764fc1e35c) by Cam Kirk 
+    - Blog: [Getting Started with the RDKit in Python](https://www.rdkit.org/docs/GettingStartedInPython.html) by Greg Landrum   
 - Package: [DeepChem](https://deepchem.io/) project aims to create high quality, open source tools for drug discovery, materials science, quantum chemistry, and biology.
     - [Tutorials and Codes:](https://deepchem.io/docs/notebooks/index.html) These tutorials show off various aspects or capabilities of DeepChem. They can be run interactively in Jupyter (IPython) notebook.  
-- Software: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) is a software to calculate molecular descriptors and fingerprints.
 - [OCHEM:](https://ochem.eu/home/show.do) The Online Chemical Modeling Environment is a web-based platform that aims to automate and simplify the typical steps required for QSAR modeling. The platform consists of two major subsystems: the database of experimental measurements and the modeling framework. A user-contributed database contains a set of tools for easy input, search and modification of thousands of records. OCHEM was created  by Iurii Sushko.   
-- Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
-- Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
-- Online Software: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
-    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
 - Blog: [Mol2vec:](https://github.com/samoturk/mol2vec) An unsupervised machine learning approach to learn vector   representations of molecular substructures  
 - Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
-    - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)
+    - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)  
+
+### <a name="Notations"></a>Notations     
+- Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
+- Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
+    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
+- Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
+
+### <a name="Online-Softwares"></a>Online Softwares  
+- Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
+- Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
+Here are some softwares to calculate molecular descriptors and fingerprints online:   
+- Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
+- Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
