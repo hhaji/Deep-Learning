@@ -26,7 +26,8 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
  - Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
  - Blog: [PyTorch Tutorial: How to Develop Deep Learning Models with Python](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/) by Jason Brownlee    
  
-## Pytorch Lightning & PyTorch Ignite
+## Pytorch Lightning & PyTorch Ignite  
+PyTorch-lightning is a recently released library which is a Kera-like ML library for PyTorch. Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
 
 - Blog: [Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) by William Falcon  
 - Blog: [From PyTorch to PyTorch Lightning — A Gentle Introduction](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)  by William Falcon   
