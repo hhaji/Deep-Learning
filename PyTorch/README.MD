@@ -34,6 +34,7 @@ PyTorch-lightning is a recently released library which is a Kera-like ML library
 - Blog: [Getting Started with PyTorch Lightning](https://www.learnopencv.com/getting-started-with-pytorch-lightning/) by Neelabh Madan 
 - Blog: [PyTorch Multi-GPU Metrics Library and More in PyTorch Lightning 0.8.1](https://medium.com/pytorch/pytorch-multi-gpu-metrics-and-more-in-pytorch-lightning-0-8-1-b7cadd04893e) by William Falcon   
 - Blog: [A Guide to Ignite: An Introduction to Ignite Training Loops](https://svenbecker.github.io/programming/deep%20learning/python/ignite/) by Sven Becker  
+- Blog: [Debugging via Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/debugging.html) 
 
 ## Books
 
