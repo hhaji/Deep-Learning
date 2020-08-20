@@ -25,6 +25,13 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
  - Blog: [Keras vs. PyTorch: Alien vs. Predator Recognition with Transfer Learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/) by Piotr Migdal, Patryk Miziuła and Rafał Jakubanis  
  - Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
  - Blog: [PyTorch Tutorial: How to Develop Deep Learning Models with Python](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/) by Jason Brownlee    
+ 
+## Pytorch Lightning & PyTorch Ignite
+
+- Blog: [Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) by William Falcon  
+- Blog: [From PyTorch to PyTorch Lightning — A Gentle Introduction](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)  by William Falcon   
+- Blog: [Getting Started with PyTorch Lightning](https://www.learnopencv.com/getting-started-with-pytorch-lightning/) by Neelabh Madan 
+- Blog: [PyTorch Multi-GPU Metrics Library and More in PyTorch Lightning 0.8.1](https://medium.com/pytorch/pytorch-multi-gpu-metrics-and-more-in-pytorch-lightning-0-8-1-b7cadd04893e) by William Falcon   
 
 ## Books
 
