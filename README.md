@@ -520,6 +520,7 @@ Additional Reading:
  
    * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
+   * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
 
     
 14. ### <a name="Applications"></a>Applications 
@@ -660,6 +661,7 @@ The students can include mathematical notation within markdown cells using LaTeX
   - A Brief Introduction to LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/latex.pdf)  <br>
   - Math in LaTeX [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/math.pdf) <br>
   - Sample Document [PDF](https://www.seas.upenn.edu/~cis519/spring2018/assets/resources/latex/sample.pdf) <br>
+  - [TikZ:](https://github.com/PetarV-/TikZ) A collection Latex files of PGF/TikZ figures (including various neural networks) by Petar Veličković. 
 
 ## <a name="Grading"></a>Grading:
 * Projects and Midterm – 50%

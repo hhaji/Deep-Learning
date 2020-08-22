@@ -179,6 +179,8 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
     - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)  
+- Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator
+
 
 ### <a name="Notations"></a>Notations     
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
@@ -186,12 +188,12 @@ Molecular structures have graph structures. By using machine learning and in par
     - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
 
-### <a name="Online-Softwares"></a>Online Softwares  
+### <a name="Online-Softwares"></a>Online Softwares
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
 - Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
 - Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
-- Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto
+- Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
