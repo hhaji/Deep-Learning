@@ -73,7 +73,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/Dive-Into-DL.png) ![Book 4](/Images/NNLM.jpg) 
+![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/GDL.jpg) ![Book 4](/Images/Dive-Into-DL.png) ![Book 5](/Images/NNLM.jpg) 
 
 ```
 Main TextBooks:
@@ -82,6 +82,8 @@ Main TextBooks:
 * [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
 * [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
     - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)   
+* [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
+    - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
 ```
 Additional TextBooks:
 ```
