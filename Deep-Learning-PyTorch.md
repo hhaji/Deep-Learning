@@ -47,6 +47,7 @@
   17. Lecture 17: [Graph Neural Networks](#GNN)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
+  - [Recitation and Assignments](#MTA)  
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
@@ -660,7 +661,11 @@ Additional Reading:
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker   
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Sunday and Tuesday 13:00-14:30 AM (Fall 2019)
+Saturday and Monday 10:00-11:30 AM (Fall 2020)
+
+### <a name="MTA"></a>Recitation and Assignments:
+Sunday 12:00-13:30 PM (Fall 2020), 
+Refer to the following [link](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments) to check the assignments.  
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
