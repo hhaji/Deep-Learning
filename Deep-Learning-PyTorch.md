@@ -1,7 +1,26 @@
 # Deep Learning Using PyTorch
 
-Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br>
+<table>
+  <tr>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">Webpage:</span> <a href="https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-PyTorch.md">Deep Learning Using PyTorch 2020</a> <br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
+  </tr>
+  <tr>
+    <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/behnazhoseyni">Behnaz Haji Molla Hoseyni</a></td>
+    <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
+    <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
+    <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+  </tr>
+  <tr>
+    <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='140' /></td>
+    <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='140' /></td>
+    <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='140' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='140' width='140' /></td>
+  </tr>
+</table>
 
 ---
 
