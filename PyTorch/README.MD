@@ -25,6 +25,8 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
  - Blog: [Keras vs. PyTorch: Alien vs. Predator Recognition with Transfer Learning](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/) by Piotr Migdal, Patryk Miziuła and Rafał Jakubanis  
  - Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
  - Blog: [PyTorch Tutorial: How to Develop Deep Learning Models with Python](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/) by Jason Brownlee    
+ - Blog: [Saving/Loading Your Model in PyTorch](https://medium.com/udacity-pytorch-challengers/saving-loading-your-model-in-pytorch-741b80daf3c) by David Ashraf  
+ - Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-pytorch-cb687352fa61) by Rachit Jain   
  
 ## Pytorch Lightning & PyTorch Ignite  
 PyTorch-lightning is a recently released library which is a Kera-like ML library for PyTorch. Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
