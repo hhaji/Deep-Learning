@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><span style="font-weight:bold">Webpage:</span> <a href="https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-PyTorch.md">Deep Learning Using PyTorch 2020</a> <br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
     <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
   </tr>
   <tr>
