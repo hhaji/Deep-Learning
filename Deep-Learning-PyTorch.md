@@ -53,22 +53,22 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/ProDeep.jpg) ![Book 4](/Images/NNLM.jpg) ![Book 5](/Images/DDLP.png)
+![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/Dive-Into-DL.png) ![Book 4](/Images/NNLM.jpg) 
 
 ```
 Main TextBooks:
 ```
 
 * [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron <br>
-
+* [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
+    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)   
 ```
 Additional TextBooks:
 ```
 
-* [Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python](https://www.amazon.com/Pro-Deep-Learning-TensorFlow-Mathematical-ebook/dp/B077Z79LVJ) by Santanu Pattanayak <br>
+* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
+    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
 * [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin <br> 
-* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
 
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
