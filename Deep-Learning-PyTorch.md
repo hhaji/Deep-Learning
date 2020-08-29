@@ -73,7 +73,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/GDL.jpg) ![Book 4](/Images/Dive-Into-DL.png) ![Book 5](/Images/NNLM.jpg) 
+![Book 1](/Images/DL.jpg) ![Book 22](/Images/PPDL.jpg) ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/GDL.jpg) ![Book 4](/Images/Dive-Into-DL.png) ![Book 5](/Images/NNLM.jpg) 
 
 ```
 Main TextBooks:
