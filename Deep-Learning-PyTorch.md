@@ -157,22 +157,23 @@ Additional Resources:
 Required Reading:
 ```
     
-  * NoteBook: [Chapter 3 – It Starts with a Tensor](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch3) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+  * NoteBook: [Chapter 3: It Starts with a Tensor](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch3) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
 
 ```
 Suggested Reading:
 ```
 
-  * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
+  * Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar   
+  * Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
+matrix containing elements of a single data type. Torch defines nine CPU tensor types and nine GPU tensor types. 
     
 ```
 Additional Resources:
 ``` 
-  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
-  * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)  
-  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee  
+
+  * Blog: [Learning PyTorch with Exampls](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) by Justin Johnson. 
+This tutorial introduces the fundamental concepts of PyTorch through self-contained examples.   
  
-    
 ```
 Building Dynamic Models Using the Subclassing API:
 ``` 
@@ -184,10 +185,7 @@ Building Dynamic Models Using the Subclassing API:
    * Blog: [Understanding Object-Oriented Programming Through Machine Learning](https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/) by David Ziganto  
    * Blog: [Object-Oriented Programming for Data Scientists: Build your ML Estimator](https://towardsdatascience.com/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64) by Tirthajyoti Sarkar  
    * Blog: [Python Callable Class Method](https://medium.com/@nunenuh/python-callable-class-1df8e122b30c) by Lalu Erfandi Maula Yusnu  
-  
-* The Model Subclassing API:
-   * Blog: [How Objects are Called in Keras](https://adaickalavan.github.io/tensorflow/how-objects-are-called-in-keras/) by Adaickalavan  
-  
+    
 
 4. ### <a name="DFN"></a>Deep Feedforward Networks  
 
@@ -214,6 +212,7 @@ Interesting Questions:
 Suggested Reading:
 ```
 
+  * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
   * Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
   
@@ -237,7 +236,6 @@ Additional Resources:
 Required Reading:
 ```
     
-  * Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar  
   * Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
   * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
 
@@ -331,15 +329,20 @@ Additional Reading:
 ```
 Required Reading:
 ```
-    
-  * NoteBook: [Chapter 11 – Training Deep Neural Networks](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
+
+   * Deep Learning via Pytorch by Ayoosh Kathuria  
+      - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
+      - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
+      - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
 
 ```
 Suggested Reading:
 ```
 
-  * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee 
-  * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
+  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
+  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee    * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
+  * Blog: [Saving/Loading Your Model in PyTorch](https://medium.com/udacity-pytorch-challengers/saving-loading-your-model-in-pytorch-741b80daf3c) by David Ashraf  
+  * Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-
     
 ```
 Additional Resources:
@@ -347,40 +350,27 @@ Additional Resources:
   * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
   
   
-9. ### <a name="Part-5"></a>Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0  
+9. ### <a name="Part-5"></a>Toolkit Lab 5: [Optuna](https://optuna.org/)  
+Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
 ```
 Required Reading:
 ```
-
-  * NoteBook: [Chapter 12 – Custom Models and Training with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
-  * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The [tf.data](https://www.tensorflow.org/beta/guide/data) module contains a collection of classes that allows you to easily load data, manipulate it, and pipe it into your model. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
-  * NoteBook: [Chapter 13 – Loading and Preprocessing Data with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/13_loading_and_preprocessing_data.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
+  
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
 
 ```
 Suggested Reading:
 ```
-
-  * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
-  * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
-  * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
-  * Blog & NoteBook: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
-  * Blog: [How to use Dataset and Iterators in Tensorflow with Code Samples](https://medium.com/ymedialabs-innovation/how-to-use-dataset-and-iterators-in-tensorflow-with-code-samples-3bb98b6b74ab) by Prasad Pai  
-  * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
-  * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
   
 ```
 Additional Resources:
 ```
-  
-  * Blog: [Building a Data Pipeline (Using Tensorflow 1 and tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
-  * Blog: [Swift](https://swift.org) was announced in 2014. The Swift programming language has quickly become one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. 
-  * GitHub: [Swift for TensorFlow](https://github.com/tensorflow/swift)  
-  
-```
-TensorFlow 1.0:
-```
-  * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-1](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-1). 
 
+  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
+  
+  
 10. ### <a name="CNN"></a>Convolutional Networks  
 
 ```
