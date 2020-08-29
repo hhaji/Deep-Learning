@@ -159,6 +159,8 @@ Required Reading:
     
   * Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar  
   * Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
+  * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
+
   
 ```
 Suggested Reading:
@@ -174,7 +176,6 @@ Additional Resources:
 ```
 
   * Blog: [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/) by Vincent Driessen   
-  * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
   * Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
   
 4. ### <a name="DFN"></a>Deep Feedforward Networks  
