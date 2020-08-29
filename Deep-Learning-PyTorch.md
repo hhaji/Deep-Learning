@@ -73,21 +73,24 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg) ![Book 22](/Images/PPDL.jpg) ![Book 2](/Images/Deep-Learning-PyTorch.jpg) ![Book 3](/Images/GDL.jpg) ![Book 4](/Images/Dive-Into-DL.png) ![Book 5](/Images/NNLM.jpg) 
+![Book 1](/Images/DL.jpg) ![Book 2](/Images/PPDL.jpg) ![Book 3](/Images/Deep-Learning-PyTorch.jpg) ![Book 4](/Images/GDL.jpg) ![Book 5](/Images/Dive-Into-DL.png) ![Book 6](/Images/NNLM.jpg) 
 
 ```
 Main TextBooks:
 ```
 
-* [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
+* [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville   
+* [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) by Ian Pointer   
+    - GitHub: [Codes](https://github.com/falloutdurham/beginners-pytorch-deep-learning)      
 * [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
-    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)   
-* [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
-    - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
+    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)    
+
 ```
 Additional TextBooks:
 ```
 
+* [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
+    - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
 * [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
     - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
 * [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin <br> 
