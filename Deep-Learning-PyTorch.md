@@ -32,7 +32,7 @@
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
   3. Lecture 3: [Toolkit Lab 2: Introduction to PyTorch](#Part-2)
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Toolkit Lab 3: Image Preprocessing by PyTorch](#Part-3)  
+  5. Lecture 5: [Toolkit Lab 3: Preprocessing Datasets by PyTorch](#Part-3)  
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
   7. Lecture 7: [Optimization for Training Deep Models](#OFTDM) 
   8. Lecture 8: [Toolkit Lab 4: Training Deep Neural Networks](#Part-4) 
@@ -286,9 +286,36 @@ Additional Reading:
   * **Extra Slides:**
     - Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
     - Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
-    - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
+    - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
+    
+    
+7. ### <a name="Part-4"></a>Toolkit Lab 4: Training Deep Neural Networks  
+```
+Required Reading:
+```
 
-7. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+   * Deep Learning via Pytorch by Ayoosh Kathuria  
+      - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
+      - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
+      - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
+
+```
+Suggested Reading:
+```
+
+  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
+  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee    * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
+  * Blog: [Saving/Loading Your Model in PyTorch](https://medium.com/udacity-pytorch-challengers/saving-loading-your-model-in-pytorch-741b80daf3c) by David Ashraf  
+  * Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-pytorch-cb687352fa61) by Rachit Jain   
+  * Blog: [Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) by Soumith Chintala  
+
+
+```
+Additional Resources:
+``` 
+  * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
+ 
+8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
 ```
 Required Reading:
@@ -323,32 +350,7 @@ Additional Reading:
    * **Extra Slides:**  
     - Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh  
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
-    - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang  
-    
-8. ### <a name="Part-4"></a>Toolkit Lab 4: Training Deep Neural Networks  
-```
-Required Reading:
-```
-
-   * Deep Learning via Pytorch by Ayoosh Kathuria  
-      - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
-      - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
-      - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
-
-```
-Suggested Reading:
-```
-
-  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
-  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee    * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
-  * Blog: [Saving/Loading Your Model in PyTorch](https://medium.com/udacity-pytorch-challengers/saving-loading-your-model-in-pytorch-741b80daf3c) by David Ashraf  
-  * Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-
-    
-```
-Additional Resources:
-``` 
-  * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
-  
+    - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
   
 9. ### <a name="Part-5"></a>Toolkit Lab 5: [Optuna](https://optuna.org/)  
 Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
@@ -369,7 +371,6 @@ Additional Resources:
 ```
 
   * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
-  
   
 10. ### <a name="CNN"></a>Convolutional Networks  
 
@@ -421,36 +422,27 @@ Fourier Transformation:
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
 
 
-11. ### <a name="Part-6"></a>Toolkit Lab 6: TensorBoard    
-   
+11. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna](https://optuna.org/)  
+Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+
 ```
-TensorBoard:
+Required Reading:
 ```
-    
-  * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
-  * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
-  * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/get_started.ipynb)
-  * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/graphs.ipynb)
-  * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/image_summaries.ipynb) 
-  * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_in_notebooks.ipynb)
   
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+
 ```
 Suggested Reading:
 ```
-  
-  * Blog & NoteBook: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
-  * Blog & NoteBook: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
-  * Blog & NoteBook: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
   
 ```
-Additional Reading:
+Additional Resources:
 ```
-  * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/scalars_and_keras.ipynb)
-  * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/hyperparameter_tuning_with_hparams.ipynb)
-  * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_profiling_keras.ipynb)
-  * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li  
 
-
+  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
+  
 12. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
 ```
