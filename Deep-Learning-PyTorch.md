@@ -30,7 +30,7 @@
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Introduction](#Introduction) 
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
-  3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
+  3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by PyTorch](#Part-2) 
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
   5. Lecture 5: [Toolkit Lab 3: Introduction to Artificial Neural Networks with Keras](#Part-3) 
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
