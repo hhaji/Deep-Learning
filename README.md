@@ -247,7 +247,7 @@ Required Reading:
   * NoteBook: [Chapter 4: Real-World Data Representation Using Tensors](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch4) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
   * Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
   * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
-
+  * Blog: [A Beginner’s Tutorial on Building an AI Image Classifier using PyTorch](https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7) by Alexander Wu    
   
 ```
 Suggested Reading:
