@@ -18,12 +18,12 @@
 
 * Response to emails may take a few days. Please be patient!
 
-## Recitation
+# Recitation
 
-* **First Video Tutorial** 
+* Schedule will be announced! 
   
    
-## Assignments 
+# Assignments 
 
 ## Assignment Set 1  
 
