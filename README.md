@@ -10,12 +10,10 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)
 <table>
   <tr>
     <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
-    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
+    <th colspan="3"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
   </tr>
-</table>
-<table>
   <tr>
-    <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
+    <td colspan="5"><span style="font-weight:bold">Teaching Assistants:</span></td>
   </tr>
   <tr>
     <td><a href="https://github.com/behnazhoseyni">Behnaz H.M. Hoseyni</a></td>
