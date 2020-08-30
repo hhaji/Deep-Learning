@@ -99,7 +99,7 @@ Additional TextBooks:
 
 * [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
     - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
-* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
+* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
     - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)    
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
