@@ -37,14 +37,15 @@
   7. Lecture 7: [Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch](#Part-4)   
   8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
   9. Lecture 9: [Convolutional Networks](#CNN) 
-  10. Lecture 10: [Toolkit Lab 5: Transfer Learning and Other Tricks](#Part-5) 
+  10. Lecture 10: [Toolkit Lab 5: Using Convolutions to Generalize](#Part-5) 
   11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN)
-  12. Lecture 12: [Toolkit Lab 6: Optuna: Automatic Hyperparameter Optimization Software](#Part-6) 
+  12. Lecture 12: [Toolkit Lab 6: Transfer Learning and Other Tricks](#Part-6) 
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
-  14. Lecture 14: [Applications](#Applications) 
-  15. Lecture 15: [Autoencoders](#Autoencoders)
-  16. Lecture 16: [Generative Adversarial Networks](#GAN)  
-  17. Lecture 17: [Graph Neural Networks](#GNN)
+  14. Lecture 14: [Toolkit Lab 7: Optuna: Automatic Hyperparameter Optimization Software](#Part-7) 
+  15. Lecture 15: [Applications](#Applications) 
+  16. Lecture 16: [Autoencoders](#Autoencoders)
+  17. Lecture 17: [Generative Adversarial Networks](#GAN)  
+  18. Lecture 18: [Graph Neural Networks](#GNN)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
   - [Recitation and Assignments](#MTA)  
@@ -441,7 +442,7 @@ Additional Reading:
    * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
    
    
-12. ### <a name="Part-6"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
+12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks 
 
 ```
 Required Reading:    
