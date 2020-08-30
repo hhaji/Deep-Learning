@@ -34,7 +34,7 @@
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
   5. Lecture 5: [Toolkit Lab 3: Preprocessing Datasets by PyTorch](#Part-3)  
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
-  7. Lecture 7: [Toolkit Lab 4: Image Classification with PyTorch](#Part-4)   
+  7. Lecture 7: [Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch](#Part-4)   
   8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
   9. Lecture 9: [Convolutional Networks](#CNN) 
   10. Lecture 10: [Toolkit Lab 5: Transfer Learning and Other Tricks](#Part-5) 
@@ -238,7 +238,8 @@ Additional Resources:
 ```
 Required Reading:
 ```
-    
+
+  * NoteBook: [Chapter 4: Real-World Data Representation Using Tensors](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch4) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
   * Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
   * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
 
@@ -273,10 +274,7 @@ Required Reading:
 ```
 Suggested Reading:
 ```
- * Blog & NoteBook: [How to Build a Neural Network with Keras Using the IMDB Dataset](https://builtin.com/data-science/how-build-neural-network-keras) by Niklas Donges  
- * Blog & NoteBook: [Neural Network Weight Regularization](https://chrisalbon.com/deep_learning/keras/neural_network_weight_regularization/) by Chris Albon   
  * Blog: [Train Neural Networks With Noise to Reduce Overfitting](https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/) by Jason Brownlee  
- * Blog & NoteBook: [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee   
  * Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
  * Paper: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov  
 
@@ -284,7 +282,6 @@ Suggested Reading:
 Additional Reading:
 ```
     
-  * Blog: [TensorFlow 2.0 Tutorial 04: Early Stopping](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-04-early-stopping/) by Chuan Li   
   * Blog: [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/) by Paolo Galeone  
   * **Extra Slides:**
     - Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
@@ -292,17 +289,13 @@ Additional Reading:
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
     
     
-7. ### <a name="Part-4"></a>Toolkit Lab 4: Image Classification with PyTorch     
+7. ### <a name="Part-4"></a>Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch     
 ```
 Required Reading:
 ```
-
-   * NoteBook: [Chapter 2:  Image Classification with PyTorch](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter2/Chapter%202.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
-
-   * Deep Learning via Pytorch by Ayoosh Kathuria  
-      - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
-      - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
-      - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
+   * NoteBook: [Chapter 5: The Mechanics of Learning](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch5) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+   * NoteBook: [Chapter 6: Using a Neural Network to Fit the Data](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch6) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+   * NoteBook: [Chapter 2:  Image Classification with PyTorch](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter2/Chapter%202.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer   
 
 ```
 Suggested Reading:
@@ -319,6 +312,10 @@ Suggested Reading:
 Additional Resources:
 ``` 
   * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
+  * Deep Learning via Pytorch by Ayoosh Kathuria  
+    - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
+    - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
+    - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
  
 8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
@@ -372,9 +369,6 @@ Suggested Reading:
 ```
 
    * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
-   * NoteBook: [Chapter 14 – Deep Computer Vision Using Convolutional Neural Networks](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron  
-   * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
-   * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br> 
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
    * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
@@ -386,16 +380,9 @@ Suggested Reading:
 ```
 Additional Reading:  
 ```  
-  
-   * Blog: [A Convolutional Neural Network Tutorial in Keras and TensorFlow 2](https://www.machineislearning.com/convolutional-neural-network-keras-tensorflow-2/) by Isak Bosman <br>
-   * Blog & NoteBook: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
-   * Blog & NoteBook: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
-   * Blog & NoteBook: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-   * Blog & NoteBook: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
+   
+   * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
+   * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
    
 ```
 Fourier Transformation:
@@ -406,27 +393,24 @@ Fourier Transformation:
    * Blog: [Purrier Series (Meow) and Making Images Speak](http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/) by Bilim Ne Güzel Lan   
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
    
-10. ### <a name="Part-5"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
+10. ### <a name="Part-5"></a>Toolkit Lab 5: Using Convolutions to Generalize 
 
 ```
 Required Reading:    
 ```
   
-  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4/Chapter%204.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
+   * NoteBook: [Chapter 8: Using Convolutions to Generalize](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch8) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+
 
 ```
 Suggested Reading:
 ```
 
-  * Blog: [Ideas on How to Fine-Tune a Pre-Trained Model in PyTorch](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20) by Florin-Daniel Cioloboc   
   
 ```
 Additional Resources:
 ```
 
-  * Deep Learning via Pytorch by Ayoosh Kathuria   
-      - [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)  
-      - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 
 11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
@@ -456,27 +440,29 @@ Additional Reading:
    * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim   
    * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
    
-12. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
-Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+   
+12. ### <a name="Part-6"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
 
 ```
-Required Reading:
+Required Reading:    
 ```
   
-  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
-  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4/Chapter%204.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
 
 ```
 Suggested Reading:
 ```
-  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+
+  * Blog: [Ideas on How to Fine-Tune a Pre-Trained Model in PyTorch](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20) by Florin-Daniel Cioloboc   
   
 ```
 Additional Resources:
 ```
 
-  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
-  
+  * Deep Learning via Pytorch by Ayoosh Kathuria   
+      - [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)  
+      - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
+
 13. ### <a name="Practical-Methodology"></a>Practical Methodology  
 
 ```
@@ -515,8 +501,28 @@ Additional Reading:
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
    * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
 
+14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
+Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+
+```
+Required Reading:
+```
+  
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+
+```
+Suggested Reading:
+```
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+  
+```
+Additional Resources:
+```
+
+  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
     
-14. ### <a name="Applications"></a>Applications 
+15. ### <a name="Applications"></a>Applications 
 
 ```
 Required Reading:
@@ -537,7 +543,7 @@ Additional Reading:
    * Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
     
-15. ### <a name="Autoencoders"></a>Autoencoders
+16. ### <a name="Autoencoders"></a>Autoencoders
 
 ```
 Required Reading:
@@ -568,7 +574,7 @@ Additional Reading:
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
    * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
     
-16. ### <a name="GAN"></a>Generative Adversarial Networks  
+17. ### <a name="GAN"></a>Generative Adversarial Networks  
 
 ```
 Required Reading:
@@ -594,7 +600,7 @@ Additional Reading:
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
 * [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora  
 
-17. ### <a name="GNN"></a>Graph Neural Networks:     
+18. ### <a name="GNN"></a>Graph Neural Networks:     
 
 ```
 Required Reading:
