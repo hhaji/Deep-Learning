@@ -16,16 +16,18 @@ Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)
     <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/behnazhoseyni">Behnaz Haji Molla Hoseyni</a></td>
-    <td><a href="https://github.com/YavarYeganeh">Yavar Taheri Yeganeh</a></td>
+    <td><a href="https://github.com/behnazhoseyni">Behnaz H.M. Hoseyni</a></td>
+    <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
     <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
     <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+    <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
   </tr>
   <tr>
-    <td><img src=".\Images\BH.jpeg" alt="" border='3' height='140' width='140' /></td>
-    <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='140' /></td>
-    <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='140' /></td>
-    <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='140' /></td>
+    <td><img src=".\Images\BH.jpeg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='140' width='120' /></td>   
   </tr>
 </table>
 
