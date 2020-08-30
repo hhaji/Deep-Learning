@@ -28,4 +28,4 @@
 * Use Markdown to Prepare a Readme file for your Repository. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/assignments-1_sample.ipynb) in your Environment, then Upload it in your Github Repository.
 
--> Deadline: Saturday, Shahrivar 29, 23:59 (Advantage ~ 5 Points) 
+-> Deadline: Saturday, Shahrivar 29, 23:59 <!--(Advantage ~ 5 Points)-->
