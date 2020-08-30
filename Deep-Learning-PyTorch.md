@@ -407,11 +407,13 @@ Required Reading:
 Suggested Reading:
 ```
 
-  
+   * Blog: [Pytorch (Basics) — Intro to CNN](https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29) by Akshaj Verma    
+
 ```
 Additional Resources:
 ```
-
+   
+   * Blog: [PyTorch Image Recognition with Convolutional Networks](https://nestedsoftware.com/2019/09/09/pytorch-image-recognition-with-convolutional-networks-4k17.159805.html)   
 
 11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
@@ -455,6 +457,7 @@ Suggested Reading:
 ```
 
   * Blog: [Ideas on How to Fine-Tune a Pre-Trained Model in PyTorch](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20) by Florin-Daniel Cioloboc   
+  * Blog: [Visualizing Models, Data, and Training with TensorBoard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
   
 ```
 Additional Resources:
