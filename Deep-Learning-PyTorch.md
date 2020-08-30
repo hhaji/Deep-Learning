@@ -30,15 +30,15 @@
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Introduction](#Introduction) 
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
-  3. Lecture 3: [Toolkit Lab 2: Introduction to PyTorch](#Part-2)
+  3. Lecture 3: [Toolkit Lab 2:  Getting Started with PyTorch](#Part-2)
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
   5. Lecture 5: [Toolkit Lab 3: Preprocessing Datasets by PyTorch](#Part-3)  
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
-  7. Lecture 7: [Toolkit Lab 4: Training Deep Neural Networks](#Part-4)   
+  7. Lecture 7: [Toolkit Lab 4: Image Classification with PyTorch](#Part-4)   
   8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
-  9. Lecture 9: [Toolkit Lab 5: ](#Part-5) 
+  9. Lecture 9: [Toolkit Lab 5: Transfer Learning and Other Tricks](#Part-5) 
   10. Lecture 10: [Convolutional Networks](#CNN) 
-  11. Lecture 11: [Toolkit Lab 6: Optuna](#Part-6) 
+  11. Lecture 11: [Toolkit Lab 6: Optuna: Automatic Hyperparameter Optimization Software](#Part-6) 
   12. Lecture 12: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
   14. Lecture 14: [Applications](#Applications) 
@@ -155,11 +155,11 @@ Additional Resources:
   * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha    
   
   
-3. ### <a name="Part-2"></a>Toolkit Lab 2: Introduction to PyTorch       
+3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch          
 ```
 Required Reading:
 ```
-    
+
   * NoteBook: [Chapter 3: It Starts with a Tensor](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch3) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
 
 ```
@@ -292,10 +292,12 @@ Additional Reading:
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
     
     
-7. ### <a name="Part-4"></a>Toolkit Lab 4: Training Deep Neural Networks  
+7. ### <a name="Part-4"></a>Toolkit Lab 4: Image Classification with PyTorch     
 ```
 Required Reading:
 ```
+
+   * NoteBook: [Chapter 2:  Image Classification with PyTorch](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter2/Chapter%202.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
 
    * Deep Learning via Pytorch by Ayoosh Kathuria  
       - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
@@ -355,25 +357,22 @@ Additional Reading:
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
     - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
   
-9. ### <a name="Part-5"></a>Toolkit Lab 5: [Optuna](https://optuna.org/)  
-Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.
+9. ### <a name="Part-5"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
+
 ```
-Required Reading:
+Required Reading:    
 ```
   
-  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
-  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4/Chapter%204.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
 
 ```
 Suggested Reading:
 ```
-  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
   
 ```
 Additional Resources:
 ```
 
-  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
   
 10. ### <a name="CNN"></a>Convolutional Networks  
 
@@ -425,7 +424,7 @@ Fourier Transformation:
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
 
 
-11. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna](https://optuna.org/)  
+11. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
 Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
 
 ```
