@@ -633,12 +633,10 @@ Additional Reading:
   * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
  - Deep Learning Courses:  
-    * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
     * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
-- Program:  
-  * [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
-        - [Installation](https://github.com/uber/ludwig)
-  * [TensorFlow Playground:](https://playground.tensorflow.org) an interactive visualization of neural networks, written in typescript using d3.js by Daniel Smilkov and Shan Carter   
+    * [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) 
+by Alfredo Canziani   
+    * [Introduction to Pytorch Code Examples](https://cs230.stanford.edu/blog/pytorch/) by Andrew Ng and Kian Katanforoosh     
 - The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks  
 - The blog of [Adit Deshpande:](https://adeshpande3.github.io/adeshpande3.github.io/) The Last 5 Years In Deep Learning  
 - [Fascinating Tutorials on Deep Learning](https://r2rt.com/)   
@@ -653,8 +651,6 @@ Refer to the following [link](https://github.com/hhaji/Deep-Learning/tree/master
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
-
-* [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
