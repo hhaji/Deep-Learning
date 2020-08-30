@@ -1,6 +1,32 @@
-Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
-The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning/) <br>
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br>
+# Deep Learning   
+* [**Deep Learning Using PyTorch (2020)**](https://github.com/hhaji/Deep-Learning/blob/master/README.md)
+* [**Deep Learning Using TensorFlow (2019)**](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md)
+
+## Deep Learning Using PyTorch
+
+<table>
+  <tr>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span><a href="http://facultymembers.sbu.ac.ir/hhaji/">Hossein Hajiabolhassan</a><br><br><a href="http://ds.sbu.ac.ir/">Data Science Center</a> <br><br><a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a></th>
+    <th colspan="3"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
+  </tr>
+  <tr>
+    <td colspan="5"><span style="font-weight:bold">Teaching Assistants:</span></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/behnazhoseyni">Behnaz H.M. Hoseyni</a></td>
+    <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
+    <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
+    <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
+    <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
+  </tr>
+  <tr>
+    <td><img src=".\Images\BH.jpeg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='120' /></td>
+    <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='140' width='120' /></td>   
+  </tr>
+</table>
 
 ---
 
@@ -10,23 +36,25 @@ The Webpage of the Course: [Deep Learning](https://hhaji.github.io/Deep-Learning
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Introduction](#Introduction) 
   2. Lecture 2: [Toolkit Lab 1: Google Colab and Anaconda](#Part-1) 
-  3. Lecture 3: [Toolkit Lab 2: Image Preprocessing by Keras](#Part-2) 
+  3. Lecture 3: [Toolkit Lab 2:  Getting Started with PyTorch](#Part-2)
   4. Lecture 4: [Deep Feedforward Networks](#DFN) 
-  5. Lecture 5: [Toolkit Lab 3: Introduction to Artificial Neural Networks with Keras](#Part-3) 
+  5. Lecture 5: [Toolkit Lab 3: Preprocessing Datasets by PyTorch](#Part-3)  
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
-  7. Lecture 7: [Optimization for Training Deep Models](#OFTDM) 
-  8. Lecture 8: [Toolkit Lab 4: Training Deep Neural Networks](#Part-4) 
-  9. Lecture 9: [Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0](#Part-5) 
-  10. Lecture 10: [Convolutional Networks](#CNN) 
-  11. Lecture 11: [Toolkit Lab 6: TensorBoard](#Part-6) 
-  12. Lecture 12: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  7. Lecture 7: [Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch](#Part-4)   
+  8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
+  9. Lecture 9: [Convolutional Networks](#CNN) 
+  10. Lecture 10: [Toolkit Lab 5: Using Convolutions to Generalize](#Part-5) 
+  11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN)
+  12. Lecture 12: [Toolkit Lab 6: Transfer Learning and Other Tricks](#Part-6) 
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
-  14. Lecture 14: [Applications](#Applications) 
-  15. Lecture 15: [Autoencoders](#Autoencoders)
-  16. Lecture 16: [Generative Adversarial Networks](#GAN)  
-  17. Lecture 17: [Graph Neural Networks](#GNN)
+  14. Lecture 14: [Toolkit Lab 7: Optuna: Automatic Hyperparameter Optimization Software](#Part-7) 
+  15. Lecture 15: [Applications](#Applications) 
+  16. Lecture 16: [Autoencoders](#Autoencoders)
+  17. Lecture 17: [Generative Adversarial Networks](#GAN)  
+  18. Lecture 18: [Graph Neural Networks](#GNN)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
+  - [Recitation and Assignments](#MTA)  
 - [Projects](#Projects)
   - [Google Colab](#Google-Colab)
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
@@ -52,23 +80,26 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/ProDeep.jpg) ![Book 4](/Images/NNLM.jpg) ![Book 5](/Images/DDLP.png)
+![Book 1](/Images/DL.jpg) ![Book 2](/Images/PPDL.jpg) ![Book 3](/Images/Deep-Learning-PyTorch.jpg) ![Book 4](/Images/GDL.jpg) ![Book 5](/Images/Dive-Into-DL.png) 
 
 ```
 Main TextBooks:
 ```
 
-* [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville <br>
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron <br>
+* [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville   
+* [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) by Ian Pointer   
+    - GitHub: [Codes](https://github.com/falloutdurham/beginners-pytorch-deep-learning)      
+* [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
+    - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)    
 
 ```
 Additional TextBooks:
 ```
 
-* [Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python](https://www.amazon.com/Pro-Deep-Learning-TensorFlow-Mathematical-ebook/dp/B077Z79LVJ) by Santanu Pattanayak <br>
-* [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin <br> 
-* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
-
+* [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
+    - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
+* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
+    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)    
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
@@ -111,55 +142,59 @@ Required Reading:
   * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by Fuat <br>
   * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) <br>
   * Blog: [Kernels for Different Environments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments) <br>
-  * Install: [TensorFlow 2.0 RC is Available](https://www.tensorflow.org/install) <br>
  
 ```
 Suggested Reading:
 ```
  
- * Blog: [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c) by Michael Nguyen <br> 
  * Blog: [Using Pip in a Conda Environment](https://www.anaconda.com/using-pip-in-a-conda-environment/) by Jonathan Helmus <br> 
  * Blog: [How to Import Dataset to Google Colab Notebook?](https://mc.ai/how-to-import-dataset-to-google-colab-notebook/) 
  * Blog: [How to Upload Large Files to Google Colab and Remote Jupyter Notebooks ](https://www.freecodecamp.org/news/how-to-transfer-large-files-to-google-colab-and-remote-jupyter-notebooks-26ca252892fa/)(For Linux Operating System) by Bharath Raj  <br>
+
 
 ```
 Additional Resources:
 ```
   * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/1f5ecf5a87b1c1a8aaf5a7ab8a7a0ff7/conda-cheatsheet.pdf) 
   * Blog: [Conda Commands (Create Virtual Environments for Python with Conda)](http://deeplearning.lipingyang.org/2018/12/25/conda-commands-create-virtual-environments-for-python-with-conda/) by LipingY <br>  
-  * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha <br>
+  * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha    
   
-3. ### <a name="Part-2"></a>Toolkit Lab 2: Image Preprocessing by Keras 
-
+  
+3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch          
 ```
 Required Reading:
 ```
-    
-  * Blog: [How to Load, Convert, and Save Images With the Keras API](https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/) by Jason Brownlee 
-  * Blog: [Classify Butterfly Images with Deep Learning in Keras](https://towardsdatascience.com/classify-butterfly-images-with-deep-learning-in-keras-b3101fe0f98) by Bert Carremans  
-    Read the part of Data augmentation of images  
-  * Blog: [Keras ImageDataGenerator Methods: An Easy Guide](https://medium.com/datadriveninvestor/keras-imagedatagenerator-methods-an-easy-guide-550ecd3c0a92) by Ashish Verma  
-  
+
+  * NoteBook: [Chapter 3: It Starts with a Tensor](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch3) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+
 ```
 Suggested Reading:
 ```
-   
-  * Blog: [Keras ImageDataGenerator and Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/) by  Adrian Rosebrock  
-  * Blog: [How to Configure Image Data Augmentation in Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) by Jason Brownlee 
-  * Blog: [A Quick Guide To Python Generators and Yield Statements](https://medium.com/@jasonrigden/a-quick-guide-to-python-generators-and-yield-statements-89a4162c0ef8) by Jason Rigden 
-  * NoteBook: [Iterable, Generator, and Iterator](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Generator.ipynb)  
-  * Blog: [Vectorization in Python](https://www.geeksforgeeks.org/vectorization-in-python/) 
-  * Blog: [numpy.vectorize](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.vectorize.html)
- 
+
+  * Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar   
+  * Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
+matrix containing elements of a single data type. Torch defines nine CPU tensor types and nine GPU tensor types. 
+    
 ```
 Additional Resources:
-```
+``` 
 
- * Blog: [Learn about ImageDataGenerator](https://fairyonice.github.io/Learn-about-ImageDataGenerator.html) by Yumi 
- * Blog: [Images Augmentation for Deep Learning with Keras](https://rock-it.pl/images-augmentation-for-deep-learning-with-keras/) by Jakub Skałecki  
- * Blog: [A Detailed Example of How to Use Data Generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly#disqus-thread) by Afshine Amidi and Shervine Amidi  
-  * Blog: [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/) by Vincent Driessen   
-  
+  * Blog: [Learning PyTorch with Exampls](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) by Justin Johnson. 
+This tutorial introduces the fundamental concepts of PyTorch through self-contained examples.   
+ 
+```
+Building Dynamic Models Using the Subclassing API:
+``` 
+    
+* Object-Oriented Programming:
+    
+   * Blog: [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/) by the Real Python Team   
+   * Blog: [How to Explain Object-Oriented Programming Concepts to a 6-Year-Old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)  
+   * Blog: [Understanding Object-Oriented Programming Through Machine Learning](https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/) by David Ziganto  
+   * Blog: [Object-Oriented Programming for Data Scientists: Build your ML Estimator](https://towardsdatascience.com/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64) by Tirthajyoti Sarkar  
+   * Blog: [Python Callable Class Method](https://medium.com/@nunenuh/python-callable-class-1df8e122b30c) by Lalu Erfandi Maula Yusnu  
+    
+
 4. ### <a name="DFN"></a>Deep Feedforward Networks  
 
 ```
@@ -185,6 +220,7 @@ Interesting Questions:
 Suggested Reading:
 ```
 
+  * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
   * Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
   
@@ -201,56 +237,33 @@ Additional Resources:
   * [Video](https://drive.google.com/file/d/0B64011x02sIkRExCY0FDVXFCOHM/view?usp=sharing): (.flv) of a presentation by Ian  Goodfellow and a group discussion at a reading group at Google organized by Chintan Kaur. <br>
   * **Extra Slide:**
     - Slide: [Deep Feedforward Networks](https://www.deeplearningbook.org/slides/06_mlp.pdf)  by Ian Goodfellow  
-   
-5. ### <a name="Part-3"></a>Toolkit Lab 3: Introduction to Artificial Neural Networks with Keras    
+    
+5. ### <a name="Part-3"></a>Toolkit Lab 3: Preprocessing Datasets by PyTorch 
+
 ```
 Required Reading:
 ```
-    
-  * NoteBook: [Chapter 10 – Introduction to Artificial Neural Networks with Keras](https://github.com/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
 
+  * NoteBook: [Chapter 4: Real-World Data Representation Using Tensors](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch4) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
+  * Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
+  * Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
+
+  
 ```
 Suggested Reading:
 ```
-
-  * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
-  * Blog: [How to Load Large Datasets From Directories for Deep Learning in Keras](https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/) by Jason Brownlee  
-  * Blog: [A Thing You Should Know About Keras if You Plan to Train a Deep Learning Model on a Large Dataset](https://medium.com/difference-engine-ai/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2) by Soumendra P   
-    * Question: [Keras2 ImageDataGenerator or TensorFlow tf.data?](https://stackoverflow.com/questions/55627995/keras2-imagedatagenerator-or-tensorflow-tf-data)
-    * Blog: [Better Performance with tf.data](https://www.tensorflow.org/guide/data_performance) by the [TensorFlow Team](https://www.tensorflow.org)    
-  * Blog: [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a) by the [TensorFlow Team](https://www.tensorflow.org)  
-  * Blog & NoteBook: [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/) by Jason Brownlee  
-    
+   
+  * Blog: [A Quick Guide To Python Generators and Yield Statements](https://medium.com/@jasonrigden/a-quick-guide-to-python-generators-and-yield-statements-89a4162c0ef8) by Jason Rigden 
+  * NoteBook: [Iterable, Generator, and Iterator](https://github.com/hhaji/Deep-Learning/blob/master/NoteBooks/Generator.ipynb)  
+  * Blog: [Vectorization in Python](https://www.geeksforgeeks.org/vectorization-in-python/) 
+  * Blog: [numpy.vectorize](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.vectorize.html)
+ 
 ```
 Additional Resources:
-``` 
-  * PDF: [Keras Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
-  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
-  * Blog: [Technical Notes On Using Data Science & Artificial Intelligence: To Fight For Something That Matters](https://chrisalbon.com/) by Chris Albon (read the Keras section)  
-  * Blog: [Keras Tutorial: Develop Your First Neural Network in Python Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by Jason Brownlee  
-  * Blog: [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/) by Jason Brownlee  
-  * Blog: [Keras Tutorial for Beginners with Python: Deep Learning Example](https://www.guru99.com/keras-tutorial.html)
-  * Blog: [Learn Tensorflow 1: The Hello World of Machine Learning](https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-  * Blog: [Learn Tensorflow 2: Introduction to Computer Vision (Fashion MNIST)](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/)  by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-  * Blog: [Your first Keras Model, with Transfer Learning](https://codelabs.developers.google.com/codelabs/keras-flowers-transfer-learning/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee  
-  * Blog: [TensorFlow 2.0 Tutorial 02: Transfer Learning](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-02-transfer-learning/) by Chuan Li   
- 
-    
 ```
-Building Dynamic Models Using the Subclassing API:
-``` 
-    
-* Object-Oriented Programming:
-    
-   * Blog: [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/) by the Real Python Team   
-   * Blog: [How to Explain Object-Oriented Programming Concepts to a 6-Year-Old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)  
-   * Blog: [Understanding Object-Oriented Programming Through Machine Learning](https://dziganto.github.io/classes/data%20science/linear%20regression/machine%20learning/object-oriented%20programming/python/Understanding-Object-Oriented-Programming-Through-Machine-Learning/) by David Ziganto  
-   * Blog: [Object-Oriented Programming for Data Scientists: Build your ML Estimator](https://towardsdatascience.com/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64) by Tirthajyoti Sarkar  
-   * Blog: [Python Callable Class Method](https://medium.com/@nunenuh/python-callable-class-1df8e122b30c) by Lalu Erfandi Maula Yusnu  
-  
-* The Model Subclassing API:
-   * Blog: [How Objects are Called in Keras](https://adaickalavan.github.io/tensorflow/how-objects-are-called-in-keras/) by Adaickalavan  
+
+  * Blog: [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/) by Vincent Driessen   
+  * Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy    
 
 6. ### <a name="RFDL"></a>Regularization for Deep Learning  
 
@@ -266,10 +279,7 @@ Required Reading:
 ```
 Suggested Reading:
 ```
- * Blog & NoteBook: [How to Build a Neural Network with Keras Using the IMDB Dataset](https://builtin.com/data-science/how-build-neural-network-keras) by Niklas Donges  
- * Blog & NoteBook: [Neural Network Weight Regularization](https://chrisalbon.com/deep_learning/keras/neural_network_weight_regularization/) by Chris Albon   
  * Blog: [Train Neural Networks With Noise to Reduce Overfitting](https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/) by Jason Brownlee  
- * Blog & NoteBook: [How to Improve Deep Learning Model Robustness by Adding Noise](https://machinelearningmastery.com/how-to-improve-deep-learning-model-robustness-by-adding-noise/) by Jason Brownlee   
  * Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
  * Paper: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov  
 
@@ -277,14 +287,42 @@ Suggested Reading:
 Additional Reading:
 ```
     
-  * Blog: [TensorFlow 2.0 Tutorial 04: Early Stopping](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-04-early-stopping/) by Chuan Li   
   * Blog: [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/) by Paolo Galeone  
   * **Extra Slides:**
     - Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
     - Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
-    - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
+    - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
+    
+    
+7. ### <a name="Part-4"></a>Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch     
+```
+Required Reading:
+```
+   * NoteBook: [Chapter 5: The Mechanics of Learning](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch5) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+   * NoteBook: [Chapter 6: Using a Neural Network to Fit the Data](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch6) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga         
+   * NoteBook: [Chapter 2:  Image Classification with PyTorch](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter2) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer   
 
-7. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+```
+Suggested Reading:
+```
+
+  * Blog: [Properly Setting the Random Seed in ML Experiments. Not as Simple as You Might Imagine](https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752) by [Open Data Science](https://opendatascience.com)    
+  * Blog & NoteBook: [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) by Jason Brownlee    * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
+  * Blog: [Saving/Loading Your Model in PyTorch](https://medium.com/udacity-pytorch-challengers/saving-loading-your-model-in-pytorch-741b80daf3c) by David Ashraf  
+  * Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-pytorch-cb687352fa61) by Rachit Jain   
+  * Blog: [Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) by Soumith Chintala  
+
+
+```
+Additional Resources:
+``` 
+  * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
+  * Deep Learning via Pytorch by Ayoosh Kathuria  
+    - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)  
+    - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
+    - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
+ 
+8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
 
 ```
 Required Reading:
@@ -319,63 +357,9 @@ Additional Reading:
    * **Extra Slides:**  
     - Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh  
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
-    - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang  
-    
-8. ### <a name="Part-4"></a>Toolkit Lab 4: Training Deep Neural Networks  
-```
-Required Reading:
-```
-    
-  * NoteBook: [Chapter 11 – Training Deep Neural Networks](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron      
+    - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
 
-```
-Suggested Reading:
-```
-
-  * Blog: [How to Accelerate Learning of Deep Neural Networks With Batch Normalization](https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/) by Jason Brownlee 
-  * Blog: [Why is my Validation Loss Lower than my Training Loss?](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/) by Adrian Rosebrock   
-    
-```
-Additional Resources:
-``` 
-  * PDF: [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) by Günter Klambauer, Thomas Unterthiner, Andreas Mayr, and Sepp Hochreiter  
-  
-  
-9. ### <a name="Part-5"></a>Toolkit Lab 5: Custom Models and Training with TensorFlow 2.0  
-```
-Required Reading:
-```
-
-  * NoteBook: [Chapter 12 – Custom Models and Training with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
-  * Slide: [Introducing tf.data:](https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_38) The [tf.data](https://www.tensorflow.org/beta/guide/data) module contains a collection of classes that allows you to easily load data, manipulate it, and pipe it into your model. The slides were prepared by Derek Murray, the creator of tf.data explaining the API (don’t forget to read the speaker notes below the slides). 
-  * NoteBook: [Chapter 13 – Loading and Preprocessing Data with TensorFlow](https://github.com/ageron/handson-ml2/blob/master/13_loading_and_preprocessing_data.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron    
-
-```
-Suggested Reading:
-```
-
-  * Blog: [What’s Coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) by the TensorFlow Team  <br>
-  * Blog: [TF.data Reborn from the Ashes](https://medium.com/@prince.canuma/tf-data-reborn-from-the-ashes-5600512c27d6) by Prince Canuma   
-  * Blog: [Introducing Ragged Tensors](https://medium.com/tensorflow/introducing-ragged-tensors-ac301c31fd38) by Laurence Moroney <br>
-  * Blog & NoteBook: [Load Images with tf.data (A File from a URL, If It is not Already in the Cache)](https://www.tensorflow.org/beta/tutorials/load_data/images)
-  * Blog: [How to use Dataset and Iterators in Tensorflow with Code Samples](https://medium.com/ymedialabs-innovation/how-to-use-dataset-and-iterators-in-tensorflow-with-code-samples-3bb98b6b74ab) by Prasad Pai  
-  * Blog: Analyzing tf.function to Discover AutoGraph Strengths and Subtleties: [Part 1](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/), [Part 2](https://pgaleone.eu/tensorflow/tf.function/2019/04/03/dissecting-tf-function-part-2/), and [Part 3](https://pgaleone.eu/tensorflow/tf.function/2019/05/10/dissecting-tf-function-part-3/)  by Paolo Galeone   
-  * Blog: [TPU-Speed Data Pipelines: tf.data.Dataset and TFRecords](https://codelabs.developers.google.com/codelabs/keras-flowers-data/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-  
-```
-Additional Resources:
-```
-  
-  * Blog: [Building a Data Pipeline (Using Tensorflow 1 and tf.data for Text and Images)](http://cs230.stanford.edu/blog/datapipeline/)
-  * Blog: [Swift](https://swift.org) was announced in 2014. The Swift programming language has quickly become one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. 
-  * GitHub: [Swift for TensorFlow](https://github.com/tensorflow/swift)  
-  
-```
-TensorFlow 1.0:
-```
-  * To Learn TensorFlow 1.0, Check the Section of [TensorFlow-1](https://github.com/hhaji/Deep-Learning/blob/master/TensorFlow-1). 
-
-10. ### <a name="CNN"></a>Convolutional Networks  
+9. ### <a name="CNN"></a>Convolutional Networks  
 
 ```
 Required Reading:
@@ -390,9 +374,6 @@ Suggested Reading:
 ```
 
    * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
-   * NoteBook: [Chapter 14 – Deep Computer Vision Using Convolutional Neural Networks](https://github.com/ageron/handson-ml2/blob/master/14_deep_computer_vision_with_cnns.ipynb) from [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron  
-   * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
-   * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah <br> 
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
    * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
@@ -404,16 +385,9 @@ Suggested Reading:
 ```
 Additional Reading:  
 ```  
-  
-   * Blog: [A Convolutional Neural Network Tutorial in Keras and TensorFlow 2](https://www.machineislearning.com/convolutional-neural-network-keras-tensorflow-2/) by Isak Bosman <br>
-   * Blog & NoteBook: [Cats and Dogs Image Classification Using Keras](https://pythonistaplanet.com/image-classification-using-deep-learning/) by Ashwin Joy   
-   * Blog & NoteBook: [Learn Tensorflow 3: Introduction to Convolutions](https://codelabs.developers.google.com/codelabs/tensorflow-lab3-convolutions/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
-   * Blog & NoteBook: [Learn Tensorflow 4: Convolutional Neural Networks (CNNs)](https://codelabs.developers.google.com/codelabs/tensorflow-lab4-cnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)    
-   * Blog & NoteBook: [Learn Tensorflow 5: Complex Images](https://codelabs.developers.google.com/codelabs/tensorflow-lab5-compleximages/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Learn Tensorflow 6: Use CNNS with Larger Datasets](https://codelabs.developers.google.com/codelabs/tensorflow-lab6-largecnns/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Convolutional Neural Networks, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-convnets/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [Modern Convnets, Squeezenet, with Keras and TPUs](https://codelabs.developers.google.com/codelabs/keras-flowers-squeezenet/) by [Google Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)  
-   * Blog & NoteBook: [TensorFlow 2.0 Tutorial 01: Basic Image Classification](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-01-image-classification-basics/) by Chuan Li  
+   
+   * Blog: [Image Convolution Examples](http://aishack.in/tutorials/image-convolution-examples/) by Utkarsh Sinha  
+   * Blog: [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c) by Pavithra Solai  
    
 ```
 Fourier Transformation:
@@ -423,39 +397,31 @@ Fourier Transformation:
    * Blog: [Fourier Transformation for a Data Scientist](https://towardsdatascience.com/fourier-transformation-for-a-data-scientist-1f3731115097) by Nagesh Singh Chauhan        
    * Blog: [Purrier Series (Meow) and Making Images Speak](http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/) by Bilim Ne Güzel Lan   
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
-
-
-11. ### <a name="Part-6"></a>Toolkit Lab 6: TensorBoard    
    
+10. ### <a name="Part-5"></a>Toolkit Lab 5: Using Convolutions to Generalize 
+
 ```
-TensorBoard:
+Required Reading:    
 ```
-    
-  * Video: [Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ)
-  * Blog: [TensorBoard Overview](https://www.tensorflow.org/tensorboard/r1/overview)
-  * NoteBook: [Get started with TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/get_started.ipynb)
-  * NoteBook: [Examining the TensorFlow Graph](https://github.com/tensorflow/tensorboard/blob/master/docs/graphs.ipynb)
-  * NoteBook: [Displaying Image Data in TensorBoard](https://github.com/tensorflow/tensorboard/blob/master/docs/image_summaries.ipynb) 
-  * NoteBook: [Using TensorBoard in Notebooks](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_in_notebooks.ipynb)
   
+   * NoteBook: [Chapter 8: Using Convolutions to Generalize](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch8) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
+   * NoteBook: [Chapter 3:  Convolutional Neural Networks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/tree/master/chapter3](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
+
+
+
 ```
 Suggested Reading:
 ```
-  
-  * Blog & NoteBook: [TensorBoard: Graph Visualization](https://www.tensorflow.org/tensorboard/r1/graphs)
-  * Blog & NoteBook: [TensorBoard Histogram Dashboard](https://www.tensorflow.org/tensorboard/r1/histograms)
-  * Blog & NoteBook: [TensorBoard: Visualizing Learning](https://www.tensorflow.org/tensorboard/r1/summaries)
-  
-```
-Additional Reading:
-```
-  * NoteBook: [TensorBoard Scalars: Logging Training Metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/scalars_and_keras.ipynb)
-  * NoteBook: [Hyperparameter Tuning with the HParams Dashboard](https://github.com/tensorflow/tensorboard/blob/master/docs/hyperparameter_tuning_with_hparams.ipynb)
-  * NoteBook: [TensorBoard Profile: Profiling basic training metrics in Keras](https://github.com/tensorflow/tensorboard/blob/master/docs/tensorboard_profiling_keras.ipynb)
-  * Blog: [TensorFlow 2.0 Tutorial 03: Saving Checkpoints](https://lambdalabs.com/blog/tensorflow-2-0-tutorial-03-saving-checkpoints/) by Chuan Li  
 
+   * Blog: [Pytorch (Basics) — Intro to CNN](https://towardsdatascience.com/pytorch-basics-how-to-train-your-neural-net-intro-to-cnn-26a14c2ea29) by Akshaj Verma    
 
-12. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+```
+Additional Resources:
+```
+   
+   * Blog: [PyTorch Image Recognition with Convolutional Networks](https://nestedsoftware.com/2019/09/09/pytorch-image-recognition-with-convolutional-networks-4k17.159805.html)   
+
+11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
 ```
 Required Reading:
@@ -478,12 +444,35 @@ Additional Reading:
 ```
   
    * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova. <br>
-   * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan  <br>
-   * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov  <br>
-   * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim <br>
-   * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio <br>
+   * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan   
+   * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov    
+   * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim   
+   * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
+   
+   
+12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks 
 
-    
+```
+Required Reading:    
+```
+  
+  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
+
+```
+Suggested Reading:
+```
+
+  * Blog: [Ideas on How to Fine-Tune a Pre-Trained Model in PyTorch](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20) by Florin-Daniel Cioloboc   
+  * Blog: [Visualizing Models, Data, and Training with TensorBoard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
+  
+```
+Additional Resources:
+```
+
+  * Deep Learning via Pytorch by Ayoosh Kathuria   
+      - [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)  
+      - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
+
 13. ### <a name="Practical-Methodology"></a>Practical Methodology  
 
 ```
@@ -522,8 +511,28 @@ Additional Reading:
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
    * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
 
+14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
+Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+
+```
+Required Reading:
+```
+  
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+
+```
+Suggested Reading:
+```
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+  
+```
+Additional Resources:
+```
+
+  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
     
-14. ### <a name="Applications"></a>Applications 
+15. ### <a name="Applications"></a>Applications 
 
 ```
 Required Reading:
@@ -540,11 +549,11 @@ Suggested Reading:
 ```
 Additional Reading:
 ```
-   * Blog: [30 Amazin Applications of Deep Learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/) by Yaron Hadad  
+   * Blog: [30 Amazing Applications of Deep Learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/) by Yaron Hadad  
    * Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
     
-15. ### <a name="Autoencoders"></a>Autoencoders
+16. ### <a name="Autoencoders"></a>Autoencoders
 
 ```
 Required Reading:
@@ -575,7 +584,7 @@ Additional Reading:
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
    * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
     
-16. ### <a name="GAN"></a>Generative Adversarial Networks  
+17. ### <a name="GAN"></a>Generative Adversarial Networks  
 
 ```
 Required Reading:
@@ -601,7 +610,7 @@ Additional Reading:
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
 * [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora  
 
-17. ### <a name="GNN"></a>Graph Neural Networks:     
+18. ### <a name="GNN"></a>Graph Neural Networks:     
 
 ```
 Required Reading:
@@ -614,6 +623,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+- Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
 - Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
 
 ```
@@ -628,24 +638,25 @@ Additional Reading:
   * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
  - Deep Learning Courses:  
-    * [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) by Chip Huyen
+    * [Deep Learning](https://fleuret.org/ee559/) by François Fleuret   
     * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
-- Program:  
-  * [Ludwig](https://eng.uber.com/introducing-ludwig/) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
-        - [Installation](https://github.com/uber/ludwig)
-  * [TensorFlow Playground:](https://playground.tensorflow.org) an interactive visualization of neural networks, written in typescript using d3.js by Daniel Smilkov and Shan Carter   
+    * [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) 
+by Alfredo Canziani   
+    * [Introduction to Pytorch Code Examples](https://cs230.stanford.edu/blog/pytorch/) by Andrew Ng and Kian Katanforoosh     
 - The blog of [Christopher Olah:](http://colah.github.io) Fascinating tutorials about neural networks  
 - The blog of [Adit Deshpande:](https://adeshpande3.github.io/adeshpande3.github.io/) The Last 5 Years In Deep Learning  
 - [Fascinating Tutorials on Deep Learning](https://r2rt.com/)   
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker   
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Sunday and Tuesday 13:00-14:30 AM (Fall 2019)
+Saturday and Monday 10:00-11:30 AM (Fall 2020)
+
+### <a name="MTA"></a>Recitation and Assignments:
+Sunday 12:00-13:30 PM (Fall 2020), 
+Refer to the following [link](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments) to check the assignments.  
 
 ## <a name="Projects"></a>Projects:
 Projects are programming assignments that cover the topic of this course. Any project is written by **[Jupyter Notebook](http://jupyter.org)**. Projects will require the use of Python 3.7, as well as additional Python libraries. 
-
-* [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/)
 
 ### <a name="Google-Colab"></a>Google Colab:
 [Google Colab](https://colab.research.google.com) is a free cloud service and it supports free GPU! 
@@ -699,4 +710,5 @@ We will follow the standard of Department of Mathematical Sciences approach:
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
 
 ## <a name="Questions"></a>Questions?
-I will be having office hours for this course on Sunday (09:00 AM--10:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+I will be having office hours for this course on Saturday (09:00 AM--10:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+
