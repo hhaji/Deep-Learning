@@ -81,7 +81,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg) ![Book 2](/Images/PPDL.jpg) ![Book 3](/Images/Deep-Learning-PyTorch.jpg) ![Book 4](/Images/GDL.jpg) ![Book 5](/Images/Dive-Into-DL.png) ![Book 6](/Images/NNLM.jpg) 
+![Book 1](/Images/DL.jpg) ![Book 2](/Images/PPDL.jpg) ![Book 3](/Images/Deep-Learning-PyTorch.jpg) ![Book 4](/Images/GDL.jpg) ![Book 5](/Images/Dive-Into-DL.png) 
 
 ```
 Main TextBooks:
@@ -100,9 +100,7 @@ Additional TextBooks:
 * [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by David Foster  
     - GitHub: [Codes](https://github.com/davidADSP/GDL_code)
 * [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
-    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
-* [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin <br> 
-
+    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)    
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
