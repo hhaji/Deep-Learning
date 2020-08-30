@@ -1,7 +1,7 @@
 # Deep Learning Using TensorFlow
 
-Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/) <br>
-[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/) <br>
+Lecturer: [Hossein Hajiabolhassan](http://facultymembers.sbu.ac.ir/hhaji/)     
+[Data Science Center](http://ds.sbu.ac.ir), [Shahid Beheshti University](http://www.sbu.ac.ir/)    
 
 ---
 
@@ -53,7 +53,7 @@ about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, and more.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/ProDeep.jpg) ![Book 4](/Images/NNLM.jpg) ![Book 5](/Images/DDLP.png)
+![Book 1](/Images/DL.jpg)  ![Book 2](/Images/Hands-On-ML.jpg) ![Book 3](/Images/Dive-Into-DL.png) ![Book 4](/Images/NNLM.jpg) ![Book 5](/Images/DDLP.png)
 
 ```
 Main TextBooks:
@@ -66,9 +66,10 @@ Main TextBooks:
 Additional TextBooks:
 ```
 
-* [Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python](https://www.amazon.com/Pro-Deep-Learning-TensorFlow-Mathematical-ebook/dp/B077Z79LVJ) by Santanu Pattanayak <br>
-* [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin <br> 
-* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee <br>
+* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
+    - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
+* [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin  
+* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee   
 
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
@@ -615,6 +616,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+- Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton    
 - Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
 
 ```
@@ -701,3 +703,4 @@ We will follow the standard of Department of Mathematical Sciences approach:
 
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Sunday (09:00 AM--10:00 AM). If this is not convenient, email me at hhaji@sbu.ac.ir or talk to me after class.
+
