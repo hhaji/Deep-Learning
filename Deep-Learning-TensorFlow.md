@@ -66,7 +66,7 @@ Main TextBooks:
 Additional TextBooks:
 ```
 
-* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, Michael Fullan   
+* [Dive into Deep Learning](https://d2l.ai) by  Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
     - GitHub: [Codes](https://github.com/dsgiitr/d2l-pytorch)   
 * [Neural Networks and Learning Machines (3rd Edition)](https://www.amazon.com/Neural-Networks-Learning-Machines-Comprehensive-ebook/dp/B008VIX57I) by Simon Haykin  
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) by J. Brownlee   
