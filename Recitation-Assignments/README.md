@@ -49,7 +49,7 @@
 * Scores will be announced at the end of the course. 
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, it can be more than 100.
 * **Submission after the deadline will not be accepted!** 
-* Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Applied-Machine-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
+* Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Deep-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
 * The score of the final project will be calculated from 100 points. It may also be more than 100 due to the added rewards! 
 * The final score of assignments will be calculated based on the weighted average of them, from 100 points. Moreover, it may be more than 100 due to the added rewards! 
 * Scores may be commented. Furthermore, students could also comment on their scores and request for re-evaluation in the form of email, which will be considered at the end of the course.  
