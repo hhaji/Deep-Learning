@@ -36,10 +36,10 @@
   6. Lecture 6: [Regularization for Deep Learning](#RFDL) 
   7. Lecture 7: [Toolkit Lab 4: Image Classification with PyTorch](#Part-4)   
   8. Lecture 8: [Optimization for Training Deep Models](#OFTDM) 
-  9. Lecture 9: [Toolkit Lab 5: Transfer Learning and Other Tricks](#Part-5) 
-  10. Lecture 10: [Convolutional Networks](#CNN) 
-  11. Lecture 11: [Toolkit Lab 6: Optuna: Automatic Hyperparameter Optimization Software](#Part-6) 
-  12. Lecture 12: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN) 
+  9. Lecture 9: [Convolutional Networks](#CNN) 
+  10. Lecture 10: [Toolkit Lab 5: Transfer Learning and Other Tricks](#Part-5) 
+  11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN)
+  12. Lecture 12: [Toolkit Lab 6: Optuna: Automatic Hyperparameter Optimization Software](#Part-6) 
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
   14. Lecture 14: [Applications](#Applications) 
   15. Lecture 15: [Autoencoders](#Autoencoders)
@@ -356,25 +356,8 @@ Additional Reading:
     - Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh  
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
     - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
-  
-9. ### <a name="Part-5"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
 
-```
-Required Reading:    
-```
-  
-  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4/Chapter%204.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
-
-```
-Suggested Reading:
-```
-  
-```
-Additional Resources:
-```
-
-  
-10. ### <a name="CNN"></a>Convolutional Networks  
+9. ### <a name="CNN"></a>Convolutional Networks  
 
 ```
 Required Reading:
@@ -422,30 +405,30 @@ Fourier Transformation:
    * Blog: [Fourier Transformation for a Data Scientist](https://towardsdatascience.com/fourier-transformation-for-a-data-scientist-1f3731115097) by Nagesh Singh Chauhan        
    * Blog: [Purrier Series (Meow) and Making Images Speak](http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/) by Bilim Ne Güzel Lan   
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
-
-
-11. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
-Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+   
+10. ### <a name="Part-5"></a>Toolkit Lab 5: Transfer Learning and Other Tricks 
 
 ```
-Required Reading:
+Required Reading:    
 ```
   
-  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
-  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+  * NoteBook: [Chapter 4:  Transfer Learning and Other Tricks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter4/Chapter%204.ipynb) from [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
 
 ```
 Suggested Reading:
 ```
-  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+
+  * Blog: [Ideas on How to Fine-Tune a Pre-Trained Model in PyTorch](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20) by Florin-Daniel Cioloboc   
   
 ```
 Additional Resources:
 ```
 
-  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
-  
-12. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+  * Deep Learning via Pytorch by Ayoosh Kathuria   
+      - [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)  
+      - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
+
+11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
 
 ```
 Required Reading:
@@ -468,12 +451,32 @@ Additional Reading:
 ```
   
    * [Video](https://www.youtube.com/watch?v=ZVN14xYm7JA&feature=youtu.be) of lecture / discussion. This video covers a presentation by Ian Goodfellow and a group discussion of Chapter 10 at a reading group in San Francisco organized by Alena Kruchkova. <br>
-   * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan  <br>
-   * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov  <br>
-   * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim <br>
-   * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio <br>
+   * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan   
+   * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov    
+   * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim   
+   * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
+   
+12. ### <a name="Part-6"></a>Toolkit Lab 6: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
+Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
 
-    
+```
+Required Reading:
+```
+  
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+
+```
+Suggested Reading:
+```
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+  
+```
+Additional Resources:
+```
+
+  * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
+  
 13. ### <a name="Practical-Methodology"></a>Practical Methodology  
 
 ```
