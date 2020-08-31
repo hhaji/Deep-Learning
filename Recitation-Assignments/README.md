@@ -40,7 +40,7 @@
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Deep_Learning_F20_Assignments".
-* Please review the [Projects](https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects) for further instructions.
+* Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
 * Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Applied-Machine-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or PDF. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
