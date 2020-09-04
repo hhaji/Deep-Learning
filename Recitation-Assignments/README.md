@@ -20,8 +20,17 @@
 
 # Recitation
 
-* Schedule will be announced! 
-  
+* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
+   - Notebook: will be announced!
+   
+ * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 2
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
+   - Notebook: will be announced!
+ 
+ * **Session Three** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Thursday, Mehr 3
+   - [Toolkit Lab: Introduction to Deep Learning with TensotrFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
+   - Notebook: will be announced!  
    
 # Assignments 
 
