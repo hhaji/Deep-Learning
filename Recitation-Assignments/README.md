@@ -77,8 +77,8 @@
    - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
    - Notebook: Will be posted here!  
    
- * **Session Fourteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 10
-   - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
+ * **Session Fourteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 19
+   - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
    
 
