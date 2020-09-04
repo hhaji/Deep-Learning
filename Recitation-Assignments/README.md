@@ -45,10 +45,25 @@
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
    - Notebook: Will be posted here!  
  
- * **Session Seven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
+ * **Session Seven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
+ * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Thursday, Mehr 23
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Nine** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Ten** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+   - Notebook: Will be posted here!  
 
 # Assignments 
 
