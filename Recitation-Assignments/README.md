@@ -73,6 +73,14 @@
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
+ * **Session Thirteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Azar 12
+   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
+   - Notebook: Will be posted here!  
+   
+ * **Session Fourteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 10
+   - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
+   - Notebook: Will be posted here!  
+   
 
 # Assignments 
 
