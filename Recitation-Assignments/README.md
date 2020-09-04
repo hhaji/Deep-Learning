@@ -32,6 +32,16 @@
    - [Toolkit Lab: Introduction to Deep Learning with TensotrFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
    - Notebook: will be announced!  
    
+ * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Mehr 9
+   - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
+   - Notebook: will be announced!  
+   
+ * **Session Five** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Mehr 10
+   - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
+   - Notebook: will be announced!  
+   
+
+
 # Assignments 
 
 ## Assignment Set 1  
