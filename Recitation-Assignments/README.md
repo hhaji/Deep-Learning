@@ -77,19 +77,19 @@
    - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
    - Notebook: Will be posted here!  
    
- * **Session Fifteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 19
+ * **Session Fifteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Azar 19
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Sixteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 26
+* **Session Sixteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Azar 26
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Seventeen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Mehr 10
+* **Session Seventeen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Dey 3
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Eightteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 26
+* **Session Eightteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Dey 10
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
