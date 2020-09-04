@@ -49,19 +49,19 @@
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
- * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Thursday, Mehr 23
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+ * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 30
+   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
    - Notebook: Will be posted here!  
  
- * **Session Nine** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+ * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 7
+   - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
    - Notebook: Will be posted here!  
  
- * **Session Ten** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+ * **Session Ten** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14
+   - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
  
- * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Mehr 23
+ * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 21
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
 
