@@ -22,23 +22,24 @@
 
 * **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
-   - Notebook: will be announced!
+   - Notebook: Will be posted here!
    
  * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 2
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
-   - Notebook: will be announced!
+   - Notebook: Will be posted here!
  
  * **Session Three** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Thursday, Mehr 3
-   - [Toolkit Lab: Introduction to Deep Learning with TensotrFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
-   - Notebook: will be announced!  
+   - Data Handelling in Deep Learning
+   - [Introduction to Deep Learning with TensotrFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
+   - Notebook: Will be posted here!
    
  * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Mehr 9
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
-   - Notebook: will be announced!  
+   - Notebook: Will be posted here!
    
  * **Session Five** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Mehr 10
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
-   - Notebook: will be announced!  
+   - Notebook: Will be posted here!  
    
 
 
