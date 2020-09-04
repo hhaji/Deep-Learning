@@ -2,7 +2,7 @@
 
 * [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) (Email: hoseyni.sb@gmail.com)  
 
-* [(Coordinator) Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
+* (Coordinator) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)  
