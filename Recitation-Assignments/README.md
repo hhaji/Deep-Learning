@@ -2,7 +2,7 @@
 
 * [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) (Email: hoseyni.sb@gmail.com)  
 
-* [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
+* (Coordinator) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)  
@@ -20,9 +20,80 @@
 
 # Recitation
 
-* Schedule will be announced! 
-  
+* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
+   - Notebook: Will be posted here!
    
+ * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 2
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
+   - Notebook: Will be posted here!
+ 
+ * **Session Three** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Thursday, Mehr 3
+   - Introduction to Data Handeling in Deep Learning
+   - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
+   - Notebook: Will be posted here!
+   
+ * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Mehr 9
+   - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
+   - Notebook: Will be posted here!
+   
+ * **Session Five** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Mehr 10
+   - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
+   - Notebook: Will be posted here!  
+   
+ * **Session Six** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 16
+   - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Seven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
+   - Notebook: Will be posted here!  
+   
+ * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Mehr 30
+   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 7
+   - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Ten** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14
+   - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 21
+   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
+   - Notebook: Will be posted here!  
+   
+ * **Session Twelve** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 28
+   - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
+   - Notebook: Will be posted here!
+ 
+ * **Session Thirteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Azar 5
+   - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
+   - Notebook: Will be posted here!  
+ 
+ * **Session Fourteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Azar 12
+   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
+   - Notebook: Will be posted here!  
+   
+ * **Session Fifteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Azar 19
+   - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
+   - Notebook: Will be posted here!  
+
+* **Session Sixteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Azar 26
+   - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
+   - Notebook: Will be posted here!  
+   
+* **Session Seventeen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Thursday, Dey 3
+   - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
+   - Notebook: Will be posted here!  
+      
+* **Session Eighteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Wednesday, Dey 10
+   - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
+   - Notebook: Will be posted here!  
+   
+
 # Assignments 
 
 ## Assignment Set 1  
@@ -34,7 +105,7 @@
 * Use Markdown to Prepare a Readme file for your Repository. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignment-Set-1_Sample.ipynb) in your Environment, then Upload it in your Github Repository.
 
--> Deadline: Saturday, Shahrivar 29, 23:59 <!--(Advantage ~ 5 Points)-->
+-> **Deadline: Saturday, Shahrivar 29, 23:59**
 
 # Submission Instruction 
 
