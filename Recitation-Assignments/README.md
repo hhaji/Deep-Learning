@@ -107,6 +107,10 @@
 
 -> **Deadline: Saturday, Shahrivar 29, 23:59**
 
+# Projects
+
+* Will be announced!
+
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
