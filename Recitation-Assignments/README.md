@@ -103,7 +103,7 @@
 * Create a GitHub account.   
 * Create a Repository for this Course in your GitHub.  
 * Use Markdown to Prepare a Readme file for your Repository. 
-* Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Applied-Machine-Learning/blob/master/Recitation-Assignments/Assignment-Set-1_Sample.ipynb) in your Environment, then Upload it in your Github Repository.
+* Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/Assignment_Set_1_Sample.ipynb) in your Environment, then Upload it in your Github Repository.
 
 -> **Deadline: Saturday, Shahrivar 29, 23:59**
 
