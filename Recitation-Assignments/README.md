@@ -99,10 +99,11 @@
 ## Assignment Set 1  
 
 * Install Anaconda and Create an Environment.    
-* Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.    
+* Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.   
+* Install Machine Leanring Libriaries (PyTorch an TensorFlow).
 * Create a GitHub account.   
-* Create a Repository for this Course in your GitHub.  
-* Use Markdown to Prepare a Readme file for your Repository. 
+* Read the Submission Instruction and Register.
+* Use Markdown to Prepare a Readme file for your Repositories. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/Assignment_Set_1_Sample.ipynb) in your Environment, then Upload it in your Github Repository.
 
 -> **Deadline: Saturday, Shahrivar 29, 23:59**
