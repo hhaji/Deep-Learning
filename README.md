@@ -200,15 +200,27 @@ Building Dynamic Models Using the Subclassing API:
 ```
 Required Reading:
 ```
-
-  * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
-  * Slide: [Feedforward Neural Networks (Lecture 2)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_2.pdf) by Ali Harakeh  
-  * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang   
-  * Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
-  * Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
-  * Slide: [Backpropagation and Neural Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
-  * Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
-  * Blog: [Back-Propagation, an Introduction](https://www.offconvex.org/2016/12/20/backprop/) by Sanjeev Arora and Tengyu Ma <br>
+  
+* [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.   
+* Slides: [Deep Feed-forward Networks](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
+  - Part 1: [Feed-forward Networks](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.1%20DeepFFNets.pdf)
+  - Part 2: [Gradient-Based Learning](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.2%20Gradient-basedLearning.pdf)
+  - Part 3: [Hidden Units](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.3%20HiddenUnits.pdf)
+  - Part 4: [Architecture Design](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.4%20ArchitectureDesign.pdf)
+  - Part 5: Backward Propagation and Differentiation
+   - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)
+   - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)
+   - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)
+   - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)
+   - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)
+   - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)
+* Slide: [Feedforward Neural Networks (Lecture 2)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_2.pdf) by Ali Harakeh  
+* Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang   
+* Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
+* Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
+* Slide: [Backpropagation and Neural Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
+* Blog: [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/) <br>
+* Blog: [Back-Propagation, an Introduction](https://www.offconvex.org/2016/12/20/backprop/) by Sanjeev Arora and Tengyu Ma <br>
 
 ```
 Interesting Questions:
