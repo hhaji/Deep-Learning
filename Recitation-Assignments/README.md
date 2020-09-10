@@ -100,9 +100,9 @@
 
 * Install Anaconda and Create an Environment.    
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.   
-* Install Machine Leanring Libriaries (PyTorch an TensorFlow).
+* Install Machine Leanring Libraries (PyTorch an TensorFlow).
 * Create a GitHub account.   
-* Read the Submission Instruction and Register.
+* Read the [Submission Instruction](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#submission-instruction) and Register.
 * Use Markdown to Prepare a Readme file for your Repositories. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/Assignment_Set_1_Sample.ipynb) in your Environment, then Upload it in your Github Repository.
 
@@ -115,7 +115,7 @@
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
-* Create a repository inside your Github account with the exact names "Deep_Learning_F20_Assignments".
+* Create a repository inside your Github account with the exact name "Deep_Learning_F20_Assignments".
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
 * Projects should be located at the another repository named "Deep_Learning_F20_Projects".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
