@@ -208,12 +208,12 @@ Required Reading:
   - Part 3: [Hidden Units](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.3%20HiddenUnits.pdf)
   - Part 4: [Architecture Design](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.4%20ArchitectureDesign.pdf)
   - Part 5: Backward Propagation and Differentiation
-   - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)
-   - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)
-   - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)
-   - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)
-   - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)
-   - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)
+        - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)
+        - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)
+        - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)
+        - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)
+        - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)
+        - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)
 * Slide: [Feedforward Neural Networks (Lecture 2)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_2.pdf) by Ali Harakeh  
 * Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang   
 * Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
