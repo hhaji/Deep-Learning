@@ -696,7 +696,7 @@ The students can include mathematical notation within markdown cells using LaTeX
 ### <a name="Two-Exams"></a>Two Exams:
 
 * Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
-* Final Examination: Wednesday 1399/10/24, 16:00-16:00 
+* Final Examination: Wednesday 1399/10/24, 14:00-16:00 
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
