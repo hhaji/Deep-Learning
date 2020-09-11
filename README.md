@@ -60,6 +60,7 @@
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
 - [Grading](#Grading)
+  - [Two Exams](#Two-Exams)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
@@ -207,13 +208,13 @@ Required Reading:
   - Part 2: [Gradient-Based Learning](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.2%20Gradient-basedLearning.pdf)
   - Part 3: [Hidden Units](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.3%20HiddenUnits.pdf)
   - Part 4: [Architecture Design](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.4%20ArchitectureDesign.pdf)
-  - Part 5: Backward Propagation and Differentiation   
-        - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)  
-        - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)  
-        - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)  
-        - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)  
-        - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)  
-        - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)   
+  - Part 5: Backward Propagation and Differentiation     
+          - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)  
+          - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)  
+          - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)  
+          - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)  
+          - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)  
+          - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)   
 * Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 * Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
 * Slide: [Backpropagation and Neural Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
@@ -662,10 +663,10 @@ by Alfredo Canziani
 - [Deep Learning (Faster Data Science Education by Kaggle)](https://www.kaggle.com/learn/deep-learning) by Dan Becker   
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
-Saturday and Monday 10:00-11:30 AM (Fall 2020)
+Saturday and Monday 10:30-12:00 AM (Fall 2020)
 
 ### <a name="MTA"></a>Recitation and Assignments:
-Sunday 12:00-13:30 PM (Fall 2020), 
+Wednesday 18:00-19:30 PM (Fall 2020), 
 Refer to the following [link](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments) to check the assignments.  
 
 ## <a name="Projects"></a>Projects:
@@ -690,6 +691,11 @@ The students can include mathematical notation within markdown cells using LaTeX
 ## <a name="Grading"></a>Grading:
 * Projects and Midterm – 50%
 * Endterm – 50%
+
+### <a name="Two-Exams"></a>Two Exams:
+
+* Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
+* Final Examination: Wednesday 1399/10/24, 16:00-16:00 
 
 ## <a name="Prerequisites"></a>Prerequisites:
 General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and 
