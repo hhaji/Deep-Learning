@@ -202,12 +202,12 @@ Required Reading:
 ```
 
 * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.   
-* Slides: [Deep Feed-forward Networks](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
+* Slides: [Deep Feed-forward Networks](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari   
   - Part 1: [Feed-forward Networks](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.1%20DeepFFNets.pdf)
   - Part 2: [Gradient-Based Learning](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.2%20Gradient-basedLearning.pdf)
   - Part 3: [Hidden Units](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.3%20HiddenUnits.pdf)
   - Part 4: [Architecture Design](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.4%20ArchitectureDesign.pdf)
-  - Part 5: Backward Propagation and Differentiation
+  - Part 5: Backward Propagation and Differentiation   
         - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)  
         - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)  
         - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)  
