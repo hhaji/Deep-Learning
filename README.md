@@ -667,7 +667,7 @@ by Alfredo Canziani
 Saturday and Monday 10:30-12:00 AM (Fall 2020)
 
 ### <a name="MTA"></a>Recitation and Assignments:
-Wednesday 18:00-19:30 PM (Fall 2020), 
+Tuesday 16:00-18:00 PM (Fall 2020), 
 Refer to the following [link](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments) to check the assignments.  
 
 ## <a name="Projects"></a>Projects:
