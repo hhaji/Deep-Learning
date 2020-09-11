@@ -100,7 +100,7 @@
 
 * Install Anaconda and Create an Environment.    
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.   
-* Install Machine Leanring Libraries (PyTorch an TensorFlow).
+* Install Machine Leanring Libraries (PyTorch and TensorFlow).
 * Create a GitHub account.   
 * Read the [Submission Instruction](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#submission-instruction) and Register.
 * Use Markdown to Prepare a Readme file for your Repositories. 
