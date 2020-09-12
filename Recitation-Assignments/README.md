@@ -141,7 +141,7 @@
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
 * Projects should be located at the another repository named "Deep_Learning_F20_Projects".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
-* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or PDF. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
