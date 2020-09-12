@@ -114,14 +114,14 @@
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)  
+   - At least one other dataset (up to your choice)  
    
 * Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets, then compare them with models in previous assignments:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)
+   - At least one other dataset (up to your choice)
    
-* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Tensorflow (and Keras) and Pytorch for the following data:
+* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
    
    - A High-Degree Perturbed Polynomial
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
