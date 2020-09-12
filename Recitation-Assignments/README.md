@@ -108,6 +108,29 @@
 
 -> **Deadline: Saturday, Shahrivar 29, 23:59**
 
+## Assignment Set 2
+
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Tensorflow or Pytorch to perform classification on the following datasets, then compare them with models in previous assignments:
+  
+   - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
+   - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)  
+   
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets, then compare them with models in previous assignments:
+
+   - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
+   - At least one other dataset (up to your choice, but should be different from those employed in previous assignments)
+   
+* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Tensorflow (and Keras) and Pytorch for the following data:
+   
+   - A High-Degree Perturbed Polynomial
+   - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
+
+**Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
+-> Deadline: Friday, Tir 6, 23:59 (Advantage ~ 10 Points) - Friday, Tir 20, 23:59 (Announced at Khordad 31)
+
+
 # Projects
 
 * Will be announced!
