@@ -128,7 +128,7 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
--> Deadline: Saturday, Mehr 12, 23:59 (Advantage ~ 10 Points) - Saturday, Mehr 19, 23:59
+-> Deadline: Saturday, Mehr 12, 23:59 <!--(Advantage ~ 10 Points) - Saturday, Mehr 19, 23:59-->
 
 # Projects
 
