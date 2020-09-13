@@ -235,7 +235,7 @@ Suggested Reading:
   * Blog: [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9) by Sagar Sharma  
   * Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
-  * Note: [SVM (Section 5: Lagrange Duality)](http://cs229.stanford.edu/notes/cs229-notes3.pdf) by Andrew Ng   
+  * PDF: [SVM (Section 5: Lagrange Duality)](http://cs229.stanford.edu/notes/cs229-notes3.pdf) by Andrew Ng   
   
 ```
 Additional Resources:
