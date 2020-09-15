@@ -130,9 +130,25 @@
 
 -> Deadline: Saturday, Mehr 12, 23:59 <!--(Advantage ~ 10 Points) - Saturday, Mehr 19, 23:59-->
 
-# Projects
+# Final Project
 
-* Will be announced!
+* The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. Two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, but may be challenging. On the other side, applications are highly recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
+
+    - Selecting a Mentor and Deciding on a Topic
+    - Writing a Brief Proposal (at least two paragraphs) of the Project
+    - Proposal Approval by the Mentor
+    - The Main Phase of the Project
+    - Writing and Submitting the Final Report (at least three pages) as well as Codes and Data
+  
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. Projects will be examined by the Professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
+
+**Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
+
+**Seminar Presentation**: Monday, Tir 6, 14:15 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
+
+     Deep Learning Projects' Seminar:
+     
+     - Will be announced!
 
 # Submission Instruction 
 
