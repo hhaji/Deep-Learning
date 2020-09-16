@@ -135,12 +135,12 @@
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
 
     - Contacting a mentor and deciding on a topic - Deadline: Mehr 30
-    - Submitting a brief proposal (at least three paragraphs) of the project - Deadline: Aban 30 
-    - Proposal approval by the mentor (Please manage it to be done in Aban)
+    - Submitting a brief proposal of the project - Deadline: Aban 30 
+    - Proposal approval by the mentor (Please manage it to be done in Aban!)
     - **The main phase of the project**
     - Submitting a poster or a brief report of the project's progress - Deadline: Dey 1 
     - Poster/Progress presentation - Dey 3 
-    - Submitting the final report (at least four pages) as well as codes and data - Deadline: Bahman 10
+    - Submitting the final report as well as codes and data - Deadline: Bahman 10
     - Seminar presentation - Bahman 12
   
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. Projects will be examined by the Professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
