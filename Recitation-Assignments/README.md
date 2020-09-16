@@ -33,7 +33,7 @@
    - Notebook: Will be posted here!
  
  * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 9 at 16:00
-   - Introduction to Data Handeling in Deep Learning
+   - Introduction to Data Handling in Deep Learning
    - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
    - Notebook: Will be posted here!
  
