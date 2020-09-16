@@ -151,9 +151,9 @@
 
 **Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. Proposal should be at least three paragraphs; Poster should be in a conventional academic form or  a progress report of at least two pages can be submitted; Final report should also be at least four pages. They should be in the academic/publication format. In addition, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You canuse available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
-**Seminar Presentations**: TBC withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
-
-     Deep Learning Projects' Seminar will be at Sunday, Bahman 12! (TBC)
+**Seminar Presentations**: Bahman 12 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please preapre 5 to 10 slides slides for the presentation. Each student will have 10 minutes for talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
+    
+    Deep Learning Projects' Seminar will be at Sunday, Bahman 12! (TBC)
 
 # Submission Instruction 
 
