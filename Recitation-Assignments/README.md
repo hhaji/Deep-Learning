@@ -151,7 +151,7 @@
 
 **The Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. The proposal should be at least three paragraphs; The poster should be in a conventional academic form or  a progress report of at least two pages can be submitted; The final report should also be at least four pages. They should be in the academic/publication format. In addition, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You can use available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
-**Seminar Presentations**: Bahman 12 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please preapre 5 to 10 slides slides for the presentation. Each student will have 10 minutes for talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
+**Seminar Presentations**: Bahman 12 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please prepare 5 to 10 slides for the presentation. Each student will have 10 minutes to talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
     
     Deep Learning Projects' Seminar will be on Sunday, Bahman 12! (TBC)
     
@@ -164,7 +164,7 @@
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Deep_Learning_F20_Assignments".
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Projects should be located at the another repository named "Deep_Learning_F20_Project".
+* Projects should be located at another repository named "Deep_Learning_F20_Project".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
 * Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
