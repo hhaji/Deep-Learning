@@ -133,7 +133,7 @@
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
-
+<span style="color:red">**This is Red Bold.** </span>
     - Contacting a mentor and deciding on a topic - <span style="color:SaddleBrown">Deadline: Mehr 30</span>
     - Submitting a brief proposal of the project - <span style="color:SaddleBrown">Deadline: Aban 30</span> 
     - Proposal approval by the mentor <span style="color:SaddleBrown">(Please manage it to be done in Aban!)</span>
