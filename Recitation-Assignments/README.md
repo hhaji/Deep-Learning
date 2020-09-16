@@ -155,7 +155,9 @@
     
     Deep Learning Projects' Seminar will be at Sunday, Bahman 12! (TBC)
     
-**Please consult with your mentor for more information!
+**Please consult with your mentor for more information!**
+
+-> Final Project Announced at Shahrivar 26! Please follow the schedule!
 
 # Submission Instruction 
 
