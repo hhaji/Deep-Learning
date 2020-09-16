@@ -20,7 +20,7 @@
 
 # Recitation
 
-* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Shahrivar 25 at 16:00
+* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
    - Notebook: Will be posted here!
    
@@ -33,7 +33,7 @@
    - Notebook: Will be posted here!
  
  * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 9 at 16:00
-   - Introduction to Data Handeling in Deep Learning
+   - Introduction to Data Handling in Deep Learning
    - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
    - Notebook: Will be posted here!
  
@@ -100,13 +100,13 @@
 
 * Install Anaconda and Create an Environment.    
 * Install Python Packages (Pandas, Scikit-Learn, Matplotlib) and Jupyter Lab in your new Environment.   
-* Install Machine Leanring Libraries (PyTorch and TensorFlow).
+* Install Machine Learning Libraries (PyTorch and TensorFlow).
 * Create a GitHub account.   
 * Read the [Submission Instruction](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#submission-instruction) and Register.
 * Use Markdown to Prepare a Readme file for your Repositories. 
 * Modify (at least enter your name) and Run the [Sample Notebook](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/Assignment_Set_1_Sample.ipynb) in your Environment, then Upload it in your Assignments' Repository.
 
--> **Deadline: Saturday, Shahrivar 29, 23:59**
+<-> Deadline: Saturday, Shahrivar 29, 23:59 (Announced at Shahrivar 22)
 
 ## Assignment Set 2
 
@@ -128,20 +128,45 @@
 
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
--> Deadline: Saturday, Mehr 12, 23:59 (Advantage ~ 10 Points) - Saturday, Mehr 19, 23:59
+<-> Deadline: Saturday, Mehr 12, 23:59 (Announced at Shahrivar 22)
 
-# Projects
+# Final Project
 
-* Will be announced!
+* The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
+
+    - Contacting a mentor and deciding on a topic - *Deadline: Mehr 30*
+    - Submitting a brief proposal of the project - *Deadline: Aban 30*
+    - Proposal approval by the mentor - *Please manage it to be done in Aban!*
+    - **The main phase of the project**
+    - Submitting a poster or a brief report of the progress - *Deadline: Dey 1*
+    - Poster/Progress presentation - *Dey 3 at 16:00*
+    - Submitting the final report as well as codes and data - *Deadline: Bahman 10*
+    - Seminar presentation -*Bahman 12 (TBC)*
+  
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity, innovations as well as a novelty are (expected and) highly appreciated and will be rewarded accordingly. Projects will be evaluated by the professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
+
+**Poster or Progress Report**: We strongly recommend students to prepare a poster (concerning the progress) of their projects. However, a brief report can also be submitted. Furthermore, students should also present them in a meeting at Wednesday, Dey 3 at 16:00 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). This meeting is expected to provide an opportunity for students to be familiar with each other's progress on projects as well as sharing ideas. Consequently, students are asked to manage the meeting themselves and the course staff may not attend (However, the meeting will be recorded!). Those who don't prepare a poster should prepare several slides as well!    
+
+    Poster/Progress Presentation will be on Wednesday, Dey 3 on 16:00! (TBC)
+
+**The Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. The proposal should be at least three paragraphs; The poster should be in a conventional academic form or  a progress report of at least two pages can be submitted; The final report should also be at least four pages. They should be in the academic/publication format. In addition, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You can use available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
+
+**Seminar Presentations**: Bahman 12 withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please prepare 5 to 10 slides for the presentation. Each student will have 10 minutes to talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
+    
+    Deep Learning Projects' Seminar will be on Sunday, Bahman 12! (TBC)
+    
+**Please consult with your mentor for more information!**
+
+<-> Final project announced at Shahrivar 26! Please follow the schedule!
 
 # Submission Instruction 
 
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Deep_Learning_F20_Assignments".
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Projects should be located at the another repository named "Deep_Learning_F20_Projects".
+* Projects should be located at another repository named "Deep_Learning_F20_Project".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
-* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (Advantage ~ 10 Points), either in Jupyter notebook or PDF. MS Office or any other software (Advantage ~ 5 Points) could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
