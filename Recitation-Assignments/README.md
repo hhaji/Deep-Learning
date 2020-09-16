@@ -132,17 +132,20 @@
 
 # Final Project
 
-* The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are highly recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps are expected: 
+* The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
 
-    - Selecting a Mentor and Deciding on a Topic
-    - Writing a Brief Proposal (at least two paragraphs) of the Project
-    - Proposal Approval by the Mentor
-    - The Main Phase of the Project
-    - Writing and Submitting the Final Report (at least three pages) as well as Codes and Data
+    - Contacting a mentor and deciding on a topic - Deadline: Mehr 30
+    - Submitting a brief proposal (at least three paragraphs) of the project - Deadline: Aban 30 
+    - Proposal approval by the mentor (Please manage it to be done in Aban)
+    - **The main phase of the project**
+    - Submitting a poster or a brief report of the project's progress - Deadline: Dey 1 
+    - Poster/Progress presentation - Dey 3 
+    - Submitting the final report (at least four pages) as well as codes and data - Deadline: Bahman 10
+    - Seminar presentation - Bahman 12
   
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity and innovations are highly appreciated and will be rewarded accordingly. Projects will be examined by the Professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
 
-**Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Applied_Machine_Learning_S20_Final_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1n4WDjIZMKNghwnWzMhJKfUPSfHzUeyb4eholMpyMILY/edit?usp=sharing)  
+**Proposal/Report Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
 **Seminar Presentations**: TBC withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
 
@@ -155,7 +158,7 @@
 * Please register through the link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)
 * Create a repository inside your Github account with the exact name "Deep_Learning_F20_Assignments".
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
-* Projects should be located at the another repository named "Deep_Learning_F20_Projects".
+* Projects should be located at the another repository named "Deep_Learning_F20_Project".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
 * Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
