@@ -139,13 +139,13 @@
     - Proposal approval by the mentor - *Please manage it to be done in Aban!*
     - **The main phase of the project**
     - Submitting a poster or a brief report of the project's progress - *Deadline: Dey 1*
-    - Poster/Progress presentation - *Dey 3*
+    - Poster/Progress presentation - *Dey 3 at 16:00*
     - Submitting the final report as well as codes and data - *Deadline: Bahman 10*
-    - Seminar presentation -*Bahman 12*
+    - Seminar presentation -*Bahman 12 (TBC)*
   
-**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity, innovations as well as novelty are highly appreciated (and expected) and will be rewarded accordingly. Projects will be evaluated by the professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
+**Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity, innovations as well as novelty are (expected and) highly appreciated and will be rewarded accordingly. Projects will be evaluated by the professor and teaching assistants. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
 
-**Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the two documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either with LaTeX (Advantage ~ 5 Points) or MS Office, preferably in English. You can also use available templates. You should enter documents as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
+**Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. They should be in the academic/publication format. Additionally, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You can also use available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
 **Seminar Presentations**: TBC withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
 
