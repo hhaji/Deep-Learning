@@ -149,9 +149,7 @@
 
 **Seminar Presentations**: TBC withing the [Skype Group](https://join.skype.com/kJ6WepEDrsnt) (It is recommended to prepare at least 10 slides for the presentation!) 
 
-     Deep Learning Projects' Seminar:
-     
-     - Will be announced!
+     Deep Learning Projects' Seminar Will be at Sunday, Bahman 12!
 
 # Submission Instruction 
 
