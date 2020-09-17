@@ -20,7 +20,7 @@
 
 # Recitation
 
-* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26 at 16:00
+* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
    - Notebook: Will be posted here!
    
@@ -129,6 +129,16 @@
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
 <-> Deadline: Saturday, Mehr 12, 23:59 (Announced at Shahrivar 22)
+
+## Assignment Set 3
+
+* Create three random tensors, including a 3 * 3 tensor as float, a 4 * 4 tensor as double, and a 5 * 3 * 4 tensor as short type
+* Change their elements in the GPU
+* Display the order of its elements and its transpose in the memory then use storage offset and contiguous
+* Save and load one among the elements of tensors using the torch and the h5py file
+* Show the different true and false requires_grad values in Autograd by the forward method
+
+<-> Deadline: Saturday, Mehr 8, 23:59 (Announced at Shahrivar 28)
 
 # Final Project
 
