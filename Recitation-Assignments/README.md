@@ -138,7 +138,7 @@
 * Save and load one among the elements of tensors using the torch and the h5py file
 * Show the different true and false requires_grad values in Autograd by the forward method
 
-<-> Deadline: Saturday, Mehr 8, 23:59 (Announced at Shahrivar 27)
+<-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
 
 # Final Project
 
