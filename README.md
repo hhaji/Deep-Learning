@@ -236,6 +236,7 @@ Suggested Reading:
   * Blog: [The Gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient) by Khanacademy <br>
   * Blog: [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) by Christopher Olah 
   * PDF: [SVM (Section 5: Lagrange Duality)](http://cs229.stanford.edu/notes/cs229-notes3.pdf) by Andrew Ng   
+  * Blog: [Killer Combo: Softmax and Cross Entropy](https://levelup.gitconnected.com/killer-combo-softmax-and-cross-entropy-5907442f60ba) by Paolo Perrotta  
   
 ```
 Additional Resources:

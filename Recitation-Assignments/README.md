@@ -2,7 +2,7 @@
 
 * [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) (Email: hoseyni.sb@gmail.com)  
 
-* (Coordinator) [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) (Email: yavaryeganeh@gmail.com)  
+* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) (Email: yavaryeganeh@gmail.com)  
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)  
@@ -20,7 +20,7 @@
 
 # Recitation
 
-* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Shahrivar 26 at 16:00
+* **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
    - Notebook: Will be posted here!
    
@@ -110,13 +110,13 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Tensorflow or Pytorch to perform classification on the following datasets, then compare them with models in previous assignments:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Pytorch or Tensorflow to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - At least one other dataset (up to your choice)  
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets, then compare them with models in previous assignments:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Pytorch or Tensorflow to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice)
@@ -129,6 +129,16 @@
 **Please Note**: Datasets must be downloaded and injected manually (i.e., not loading them by libraries). Moreover, you can find many datasets, for instance, on Kaggle. Besides, Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
 <-> Deadline: Saturday, Mehr 12, 23:59 (Announced at Shahrivar 22)
+
+## Assignment Set 3
+
+* Create three random tensors, including a 3 * 3 tensor as float, a 4 * 4 tensor as double, and a 5 * 3 * 4 tensor as short type
+* Change their elements in the GPU
+* Display the order of its elements and its transpose in the memory then use storage offset and contiguous
+* Save and load one among the elements of tensors using the torch and the h5py file
+* Show the different true and false requires_grad values in Autograd by the forward method
+
+<-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
 
 # Final Project
 
