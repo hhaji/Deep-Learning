@@ -136,7 +136,7 @@
 * Change their elements in the GPU
 * Display the order of its elements and its transpose in the memory then use storage offset and contiguous
 * Save and load one among the elements of tensors using the torch and the h5py file
-* Show the different true and false requires_grad values in Autograd by the forward method
+* Show the different true and false requires_grad values in Autograd by the backward method
 
 <-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
 
