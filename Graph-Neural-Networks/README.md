@@ -80,6 +80,7 @@ William L. Hamilton and Jian Tang
 ### <a name="Courses"></a>Courses       
 - Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
 - Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+- Blog: [Graph Neural Networks](https://gnn.seas.upenn.edu) by Alejandro Ribeiro   
 
 ## <a name="GNNL"></a>Graph Neural Networks Libraries       
 ### <a name="DGL"></a>Deep Graph Library (DGL)   
