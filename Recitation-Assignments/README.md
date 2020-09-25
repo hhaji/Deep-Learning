@@ -167,7 +167,7 @@
     
 **Please consult with your mentor for more information!**
 
-<-> The final project announced at Shahrivar 26! Please follow the schedule!
+<-> The final project was announced at Shahrivar 26! Please follow the schedule!
 
 # Submission Instruction 
 
