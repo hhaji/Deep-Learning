@@ -15,18 +15,17 @@
 **Please Note**: 
 
 * A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
-
 * Response to emails may take a few days. Please be patient!
 
 # Recitation
 
 * **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1qOAGNcdXuLOuJc9Hq9vQP6Cmlq-PJnEN?usp=sharing)
    
  * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Mehr 1 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
    
  * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
