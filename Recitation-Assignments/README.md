@@ -142,8 +142,8 @@
 
 * Download the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) by Torchvision and split the data into two parts (training and test with a ratio of 70/30)
 * Perform tensor conversion, resizing, and normalization of the dataset, then use Dataloader
-* Use two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions
-* Finally switch to GPU then Train models on the training data and evaluate the final model on the test data.
+* Use the two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions
+* Train (in GPU) and evaluate the models
 
 <-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
 
