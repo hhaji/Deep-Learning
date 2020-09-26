@@ -27,7 +27,7 @@
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
    
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 16:00
+ * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 18:30
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: Will be posted here!
  
