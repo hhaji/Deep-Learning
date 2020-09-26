@@ -138,6 +138,15 @@
 
 <-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
 
+## Assignment Set 4
+
+* Download the Fashion-MNIST dataset by Torchvision and split the data into two parts (training and test with a ratio of 70/30)
+* Perform tensor conversion, resizing, and normalization of the dataset, then use Dataloader.
+* Use two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions.
+* Train (in GPU) and compare models
+
+<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
