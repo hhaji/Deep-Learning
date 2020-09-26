@@ -2,7 +2,7 @@
 
 * [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) (Email: hoseyni.sb@gmail.com)  
 
-* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) (Email: yavaryeganeh@gmail.com)  
+* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) (Email: y.taheriyeganeh@mail.sbu.ac.ir)  
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) (Email: r.a.erfan@gmail.com)  
@@ -15,25 +15,23 @@
 **Please Note**: 
 
 * A carbon copy (Cc) of your email communications with TAs must be sent to the following email address (hhhaji@yahoo.com).
-
 * Response to emails may take a few days. Please be patient!
 
 # Recitation
 
 * **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1qOAGNcdXuLOuJc9Hq9vQP6Cmlq-PJnEN?usp=sharing)
    
- * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Mehr 1 at 16:00
+ * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Mehr 1 at 16:00
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
    
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 16:00
+ * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 18:30
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: Will be posted here!
  
- * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Wednesday, Mehr 9 at 16:00
-   - Introduction to Data Handling in Deep Learning
+ * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) and [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Mehr 9 at 16:00
    - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
    - Notebook: Will be posted here!
  
@@ -110,13 +108,13 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Pytorch or Tensorflow to perform classification on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - At least one other dataset (up to your choice)  
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Pytorch or Tensorflow to perform regression on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice)
@@ -136,9 +134,18 @@
 * Change their elements in the GPU
 * Display the order of its elements and its transpose in the memory then use storage offset and contiguous
 * Save and load one among the elements of tensors using the torch and the h5py file
-* Show the different true and false requires_grad values in Autograd by the forward method
+* Show the different true and false requires_grad values in Autograd by the backward method
 
 <-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
+
+## Assignment Set 4
+
+* Download the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) by Torchvision and split the data into two parts (training and test with a ratio of 70/30)
+* Perform tensor conversion, resizing, and normalization of the dataset, then use Dataloader
+* Use the two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions
+* Train (in GPU) and evaluate the models
+
+<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
 
 # Final Project
 
@@ -167,7 +174,7 @@
     
 **Please consult with your mentor for more information!**
 
-<-> Final project announced at Shahrivar 26! Please follow the schedule!
+<-> The final project was announced at Shahrivar 26! Please follow the schedule!
 
 # Submission Instruction 
 
