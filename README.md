@@ -305,7 +305,7 @@ Required Reading:
     - Part 11: [Bagging](https://cedar.buffalo.edu/~srihari/CSE676/7.11%20Bagging.pdf)
     - Part 12: [Dropout](https://cedar.buffalo.edu/~srihari/CSE676/7.12%20Dropout.pdf)
     - Part 13: [Adversarial Training](https://cedar.buffalo.edu/~srihari/CSE676/7.13%20AdversarialTraining.pdf)
-    - Part 14: [Tangent Distance, Tangent Prop, and Manifold Tangent Classifier]()
+    - Part 14: Tangent Distance, Tangent Prop, and Manifold Tangent Classifier
   * Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
   * Slide: [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) (Read the Part of Dropout) by Hung-yi Lee   
  
