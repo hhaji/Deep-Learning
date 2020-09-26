@@ -289,13 +289,30 @@ Required Reading:
 ```
 
   * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-  * Slide: [Regularization For Deep Models (Lecture 3)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_3.pdf) by Ali Harakeh  
+  Regularization  
+  * Slides: [Regularization](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
+    - Part 0: [Regularization: Overview](https://cedar.buffalo.edu/~srihari/CSE676/7.0%20Regularization.pdf)
+    - Part 1: [Parameter Penalties](https://cedar.buffalo.edu/~srihari/CSE676/7.1%20ParameterPenalties.pdf)
+    - Part 2: [Norm Penalties as Constrained Optimization](https://cedar.buffalo.edu/~srihari/CSE676/7.2%20NormOptimization.pdf)
+    - Part 3: [Regularization and Underconstrained Problems](https://cedar.buffalo.edu/~srihari/CSE676/7.3%20Underconstrained.pdf)
+    - Part 4: [Data Augmentation](https://cedar.buffalo.edu/~srihari/CSE676/7.4%20DataAugmentation.pdf)
+    - Part 5: [Noise Robustness](https://cedar.buffalo.edu/~srihari/CSE676/7.5%20Noise%20Robustness.pdf)
+    - Part 6: [Semi-Supervised Learning](https://cedar.buffalo.edu/~srihari/CSE676/7.6%20Semi-Supervised.pdf)
+    - Part 7: [Multi-Task Learning](https://cedar.buffalo.edu/~srihari/CSE676/7.7%20MultiTask.pdf)
+    - Part 8: [Early Stopping](https://cedar.buffalo.edu/~srihari/CSE676/7.8%20EarlyStopping.pdf)
+    - Part 9: [Parameter Tying and Parameter Sharing](https://cedar.buffalo.edu/~srihari/CSE676/7.9%20ParameterSharing.pdf)
+    - Part 10: [Sparse Representations](https://cedar.buffalo.edu/~srihari/CSE676/7.10%20SparseReps.pdf)
+    - Part 11: [Bagging](https://cedar.buffalo.edu/~srihari/CSE676/7.11%20Bagging.pdf)
+    - Part 12: [Dropout](https://cedar.buffalo.edu/~srihari/CSE676/7.12%20Dropout.pdf)
+    - Part 13: [Adversarial Training](https://cedar.buffalo.edu/~srihari/CSE676/7.13%20AdversarialTraining.pdf)
+    - Part 14: [Tangent Distance, Tangent Prop, and Manifold Tangent Classifier]()
   * Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
   * Slide: [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) (Read the Part of Dropout) by Hung-yi Lee   
  
 ```
 Suggested Reading:
 ```
+
  * Blog: [Train Neural Networks With Noise to Reduce Overfitting](https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/) by Jason Brownlee  
  * Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich <br>
  * Paper: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov  
@@ -305,7 +322,8 @@ Additional Reading:
 ```
     
   * Blog: [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/) by Paolo Galeone  
-  * **Extra Slides:**
+  * **Extra Slides:** 
+    - Slide: [Regularization For Deep Models (Lecture 3)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_3.pdf) by Ali Harakeh  
     - Slide: [Regularization for Deep Learning](https://www.deeplearningbook.org/slides/07_regularization.pdf)  by Ian Goodfellow
     - Slides: Regularization for Deep Learning [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L13-regularization.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L14-regularization-2.pdf) by U Kang 
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
