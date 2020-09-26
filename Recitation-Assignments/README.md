@@ -108,13 +108,13 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Pytorch or Tensorflow to perform classification on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, regularization, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - At least one other dataset (up to your choice)  
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Pytorch or Tensorflow to perform regression on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, regularization ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice)
