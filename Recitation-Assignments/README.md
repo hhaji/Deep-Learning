@@ -27,14 +27,14 @@
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
    
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 8 at 18:30
+ * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: Will be posted here!
- 
+<!-- 
  * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) and [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Mehr 9 at 16:00
    - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
    - Notebook: Will be posted here!
- 
+ -->
  * **Session Five** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: Will be posted here!  
