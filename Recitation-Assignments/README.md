@@ -137,7 +137,7 @@
 * Save and load one among the elements of tensors using the torch and the h5py file
 * Show the different true and false requires_grad values in Autograd by the backward method
 
-<-> Deadline: Tuesday, Mehr 8, 23:59 (Announced at Shahrivar 27)
+<-> Deadline: Thursday, Mehr 10, 23:59 (Announced at Shahrivar 27)
 
 ## Assignment Set 4
 
@@ -146,14 +146,14 @@
 * Use the two methods, "nn.Sequential" and "nn.Module", to create a 6-layer fully connected model with hidden layers having Sigmoid, Softmax, and Relu activation functions
 * Train (in GPU) and evaluate the models
 
-<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
+<-> Deadline: Saturday, Mehr 19, 23:59 (Announced at Mehr 5)
 
 ## Assignment Set 5
 
 * Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate them in one tensor
 * Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
 
-<-> Deadline: Friday, Mehr 18, 23:59 (Announced at Mehr 8)
+<-> Deadline: Tuesday, Mehr 22, 23:59 (Announced at Mehr 8)
 
 # Final Project
 
