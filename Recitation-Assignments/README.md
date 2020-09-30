@@ -153,7 +153,7 @@
 * Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate them in one tensor
 * Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
 
-<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 8)
+<-> Deadline: Friday, Mehr 18, 23:59 (Announced at Mehr 8)
 
 # Final Project
 
