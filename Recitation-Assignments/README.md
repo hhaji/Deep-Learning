@@ -120,7 +120,7 @@
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - At least one other dataset (up to your choice)
    
-* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, optimizer, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
+* Build and implement a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, loss function, and regularization). Object-oriented (class/objects) programming should also be employed. Then train and compare your models with the same architecture at Pytorch and Tensorflow (and Keras) for the following data:
    
    - A High-Degree Perturbed Polynomial
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
