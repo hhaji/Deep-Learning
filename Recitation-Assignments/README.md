@@ -36,11 +36,11 @@
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: Will be posted here!  
    
- * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 16 at 16:00
+ * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
    - Notebook: Will be posted here!  
  
- * **Session Six** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
+ * **Session Six** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
