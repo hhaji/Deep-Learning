@@ -29,8 +29,8 @@
    
  * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
-   - Notebook: [Colab] (https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
-   - Video: Posted in the skype group (Will be available for a month!)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
+   - Video: Posted in the skype group (Will be available for one month!)
 <!-- 
  * **Session Four** by [Mostafa Khodayari](https://github.com/MSTF4) and [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Mehr 9 at 16:00
    - [Introduction to Deep Learning with TensorFlow](https://github.com/hhaji/Deep-Learning/blob/master/Deep-Learning-TensorFlow.md) 
@@ -150,7 +150,7 @@
 
 ## Assignment Set 5
 
-* Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate in one tensor
+* Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate them in one tensor
 * Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
 
 <-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 8)
