@@ -148,6 +148,13 @@
 
 <-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 5)
 
+## Assignment Set 5
+
+* Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate in one tensor
+* Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
+
+<-> Deadline: Tuesday, Mehr 15, 23:59 (Announced at Mehr 8)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
