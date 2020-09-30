@@ -40,11 +40,11 @@
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: Will be posted here!  
    
- * **Session Five** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
+ * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
    - Notebook: Will be posted here!  
  
- * **Session Six** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
+ * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
@@ -60,11 +60,11 @@
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
  
- * **Session Ten** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 16:00
+ * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
- * **Session Eleven** by [Yavar Taheri Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
