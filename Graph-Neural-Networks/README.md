@@ -10,7 +10,8 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Graph Auto-Encoders](#GAE)
     - [Deep Belief Nets](#DBN)
 - [Graph Represetation Learning](#GRL)
-    - [Courses](#Courses) 
+- [Courses](#Courses) 
+- [Books](#Books)
 - [Graph Neural Networks Libraries](#GNNL) 
     - [Deep Graph Library (DGL)](#DGL) 
     - [Node Classification](#NC) 
@@ -77,10 +78,13 @@ William L. Hamilton and Jian Tang
 - Thesis: [Graph Representation Learning and Graph Classification](https://www.cs.uoregon.edu/Reports/AREA-201706-Riazi.pdf) by Sara Riazi   
 - NeurIPS 2019 Workshop ([Graph Represetation Learning](https://grlearning.github.io)): [Open Problems and Challenges](https://grlearning.github.io/papers/)   
 
-### <a name="Courses"></a>Courses       
+## <a name="Courses"></a>Courses       
 - Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
 - Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
 - Blog: [Graph Neural Networks](https://gnn.seas.upenn.edu) by Alejandro Ribeiro   
+
+## <a name="Books"></a>Books       
+- Blog: [Introduction to Graph Neural Networks](https://www.amazon.com/Introduction-Networks-Synthesis-Artificial-Intelligence-ebook/dp/B087LJJNJK) by Zhiyuan Liu and Jie Zhou   
 
 ## <a name="GNNL"></a>Graph Neural Networks Libraries       
 ### <a name="DGL"></a>Deep Graph Library (DGL)   
