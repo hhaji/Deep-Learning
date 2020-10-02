@@ -86,7 +86,7 @@ William L. Hamilton and Jian Tang
 ## <a name="Books"></a>Books       
 - Blog: [Introduction to Graph Neural Networks](https://www.amazon.com/Introduction-Networks-Synthesis-Artificial-Intelligence-ebook/dp/B087LJJNJK) by Zhiyuan Liu and Jie Zhou   
 - Blog: [Graph Representation Learning](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1576) by William L. Hamilton   
-        - [The Pre-Publication](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+    - [The Pre-Publication](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 ## <a name="GNNL"></a>Graph Neural Networks Libraries       
 ### <a name="DGL"></a>Deep Graph Library (DGL)   
