@@ -30,12 +30,12 @@
  * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
-   - Video: Posted in the skype group (Will be available for one month)
+   - Video: Posted in the skype group (for one month)
    
  * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
-   - Video: Posted in the skype group (Will be available for one month)
+   - Video: Posted in the skype group (for one month)
    
  * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 22 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
