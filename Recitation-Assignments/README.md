@@ -20,7 +20,7 @@
 # Recitation
 
 * **Session One** by [Mostafa Khodayari](https://github.com/MSTF4) was on Wednesday, Shahrivar 26 at 16:00
-   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part One) 
+   - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part one) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1qOAGNcdXuLOuJc9Hq9vQP6Cmlq-PJnEN?usp=sharing)
    
  * **Session Two** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Mehr 1 at 16:00
