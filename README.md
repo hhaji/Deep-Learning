@@ -606,6 +606,7 @@ Suggested Reading:
    * Blog: [Autoencoders vs PCA: When to Use?](https://towardsdatascience.com/autoencoders-vs-pca-when-to-use-which-73de063f5d7) by Urwa Muaz  
    * Blog: [Intuitively Understanding Variational Autoencoder: 
 And Why They’re so Useful in Creating Your Own Generative Text, Art and Even Music](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf) by Irhum Shafkat  
+   * Blog: [Generative VS Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) by Prathap Manohar Joshi   
    * Blog: [Generative Modeling: What is a Variational Autoencoder (VAE)?](https://www.mlq.ai/what-is-a-variational-autoencoder/) by Peter Foy  
    * Slide: [Generative Models](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/team/Haojin/competitive_problem_solving_with_deep_learning/Class_Generative_Models.pptx.pdf) by Mina Rezaei  
    * Blog: [A High-Level Guide to Autoencoders](https://towardsdatascience.com/a-high-level-guide-to-autoencoders-b103ccd45924) by Shreya Chaudhary  
