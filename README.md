@@ -673,6 +673,7 @@ Additional Reading:
   * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) by Flood Sung <br>
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) by  Terry Taewoong Um <br>
  - Deep Learning Courses:  
+    * [The Deep Learning Lecture Series 2020](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020) by  DeepMind Research Scientists and Research Engineers    
     * [Deep Learning](https://fleuret.org/ee559/) by François Fleuret   
     * [Deep Learning](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/index.html) by Aykut Erdem <br>
     * [Mini Course in Deep Learning with PyTorch for AIMS](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) 
