@@ -106,7 +106,7 @@ Additional TextBooks:
 ## <a name="Slides-and-Papers"></a>Slides and Papers:  
   Recommended Slides & Papers:
   
-1. ### <a name="Introduction"></a>Introduction  
+1. ### <a name="Introduction"></a>Introduction (1 Session)  
 
 ```
 Required Reading:
@@ -135,7 +135,7 @@ Applied Mathematics and Machine Learning Basics:
 * Slide: [Mathematics for Machine Learning](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/2018_maths4ml_vfinal.pdf) by Avishkar Bhoopchand, Cynthia Mulenga, Daniela Massiceti, Kathleen Siminyu, and Kendi Muchungi 
 * Blog: [A Gentle Introduction to Maximum Likelihood Estimation and Maximum A Posteriori Estimation (Getting Intuition of MLE and MAP with a Football Example)](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d) by Shota Horii  
     
-2. ### <a name="Part-1"></a>Toolkit Lab 1: Google Colab and Anaconda  
+2. ### <a name="Part-1"></a>Toolkit Lab 1: Google Colab and Anaconda (1 Session)  
 
 ```
 Required Reading:
@@ -162,7 +162,7 @@ Additional Resources:
 * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha    
   
   
-3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch          
+3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch (1 Session)         
 ```
 Required Reading:
 ```
@@ -197,7 +197,7 @@ Building Dynamic Models Using the Subclassing API:
    * Blog: [Python Callable Class Method](https://medium.com/@nunenuh/python-callable-class-1df8e122b30c) by Lalu Erfandi Maula Yusnu  
     
 
-4. ### <a name="DFN"></a>Deep Feedforward Networks  
+4. ### <a name="DFN"></a>Deep Feedforward Networks (6 Sessions)  
 
 ```
 Required Reading:
