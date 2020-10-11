@@ -41,23 +41,23 @@
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
    - Notebook: Will be posted here!  
  
- * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
+ * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 29 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
- * **Session Seven** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Mehr 29 at 16:00
-   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
-   - Notebook: Will be posted here!  
- 
- * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
+ * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
    - Notebook: Will be posted here!  
  
- * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
+ * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
- 
- * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 16:00
+
+ * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Aban 20 at 16:00
+   - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
+   - Notebook: Will be posted here!   
+
+ * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 21 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
