@@ -38,9 +38,10 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
    - Video: Posted in the skype group (for one month)
    
- * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Mehr 23 at 16:00
+ * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Mehr 23 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/1kJsHpvaPYAS522Ay1DAnnejMY-dSNhxZ?usp=sharing)
+   - Video: Posted in the skype group (for one month)
  
  * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 29 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
