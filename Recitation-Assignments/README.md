@@ -110,12 +110,12 @@
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-   - One different dataset, up to your choice (Optional ~ Advantage 10 Points: Two different dataset, up to your choice ) 
+   - One different dataset, up to your choice (Optional ~ Advantage 10 Points: Two different datasets, up to your choice) 
    
 * Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
-   - One different dataset, up to your choice (Optional ~ Advantage 10 Points: Two different dataset, up to your choice ) 
+   - One different dataset, up to your choice (Optional ~ Advantage 10 Points: Two different datasets, up to your choice) 
    
 * Build and train a simple neural network in either Python or C++ (i.e., not utilizing machine learning libraries). It should be capable of having several layers and neurons as well as other hyperparameters (e.g., activations, loss function). Object-oriented (class/objects) programming should also be employed. Then compare your models with exactly the same settings at Pytorch and Tensorflow (and Keras) for the following data:
    
