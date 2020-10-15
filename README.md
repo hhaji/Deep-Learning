@@ -282,7 +282,7 @@ Additional Resources:
   * Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy   
   * Blog: [TORCHVISION.DATASETS](https://pytorch.org/docs/stable/torchvision/datasets.html)   
 
-6. ### <a name="RFDL"></a>Regularization for Deep Learning  
+6. ### <a name="RFDL"></a>Regularization for Deep Learning  (5 Sessions)  
 
 ```
 Required Reading:
