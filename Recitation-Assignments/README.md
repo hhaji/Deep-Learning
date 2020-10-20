@@ -43,7 +43,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1kJsHpvaPYAS522Ay1DAnnejMY-dSNhxZ?usp=sharing)
    - Video: Posted in the skype group (for one month)
  
- * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 29 at 16:00
+ * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 29 at 18:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
    - Notebook: Will be posted here!  
    
