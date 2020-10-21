@@ -60,6 +60,7 @@
    - Notebook: Will be posted here!   
 
  * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
