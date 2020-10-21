@@ -31,21 +31,28 @@
  * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
-   - Video: Posted in the skype group (for one month)
+   - Video: Posted in the Skype group (for one month)
    
  * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
-   - Video: Posted in the skype group (for one month)
+   - Video: Posted in the Skype group (for one month)
    
  * **Session Five** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Mehr 23 at 16:00
    - [Using a Neural Network to Fit the Data with PyTorch](https://github.com/hhaji/Deep-Learning#Part-4)
    - Notebook: [Colab](https://colab.research.google.com/drive/1kJsHpvaPYAS522Ay1DAnnejMY-dSNhxZ?usp=sharing)
-   - Video: Posted in the skype group (for one month)
+   - Video: Posted in the Skype group (for one month)
  
  * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Mehr 29 at 18:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part one)
    - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
+   - Video: Posted in the Skype group (for one month)
+   
+  * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+   - Introduction to Python (Object-oriented programming) Classes and Objects
+   - Building fully connected neural networks without using machine learning libraries in Python
+   <!--- Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) --> 
+   - Video: Posted in the Skype group (for one month)
    
  * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
