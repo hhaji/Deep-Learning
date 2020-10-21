@@ -59,11 +59,11 @@
    - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
    - Notebook: Will be posted here!   
 
- * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 21 at 16:00
+ * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 28 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
