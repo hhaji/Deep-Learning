@@ -43,9 +43,9 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1kJsHpvaPYAS522Ay1DAnnejMY-dSNhxZ?usp=sharing)
    - Video: Posted in the skype group (for one month)
  
- * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Mehr 29 at 18:00
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL)
-   - Notebook: Will be posted here!  
+ * **Session Six** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Mehr 29 at 18:00
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part one)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
    
  * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
