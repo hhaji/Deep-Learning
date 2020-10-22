@@ -391,7 +391,6 @@ Suggested Reading:
 
    * Blog: [Convolutional Neural Networks CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) by Afshine Amidi and Shervine Amidi  
    * Blog: [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) by Christopher Olah    
-   * Blog: [An Illustrated Explanation of Performing 2D Convolutions Using Matrix Multiplications](https://medium.com/@_init_/an-illustrated-explanation-of-performing-2d-convolutions-using-matrix-multiplications-1e8de8cd2544)   
    * Blog: [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 Way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) by Sumit Saha  
    * Blog: [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728) by Chi-Feng Wang  
    * Blog: [Depth wise Separable Convolutional Neural Networks](https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/) by Mayank Chaurasia  
@@ -499,12 +498,6 @@ Required Reading:
 
    * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.  
    * Slides: [Practical Methodology](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
-      - Part 0: [Practical Design Process](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.0%20PractMethOverview.pdf)
-      - Part 1: [Performance Metrics](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.1%20PerformMetrics.pdf)
-      - Part 2: [Default Baseline Models](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.2%20BaselineModels.pdf)
-      - Part 3: [Whether to Gather More Data](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.3%20MoreData.pdf)
-      - Part 4: [Selecting Hyperparameters](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.4%20Hyperparams.pdf)
-      - Part 5: [Debugging Strategies](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/11.5%20Debugging.pdf)
 
 ```
 Suggested Reading:
