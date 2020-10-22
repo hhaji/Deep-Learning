@@ -165,7 +165,7 @@
 ## Assignment Set 6
 
 * Apply regularization techniques, including L2 & L1 penalties and data augmentation, to the regression and classification models (the first two parts) that you have developed in [Assignment Set 2](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#assignment-set-2), then compare them. 
-* Write at least a pragraph regarding (the conclusion of) your experiments and regularization effects. 
+* Write at least a paragraph regarding (the conclusion of) your experiments and regularization effects. 
 
 **Please Note**: Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
