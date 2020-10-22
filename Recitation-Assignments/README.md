@@ -162,6 +162,15 @@
 
 <-> Deadline: Tuesday, Mehr 22, 23:59 (Announced at Mehr 8)
 
+## Assignment Set 6
+
+* Apply regularization techniques, including L2 & L1 parameter penalties and data augmentation, to the regression and classification models (the first two parts) that you have developed in [Assignment Set 2](https://github.com/hhaji/Deep-Learning/tree/master/Recitation-Assignments#assignment-set-2), then compare them. 
+* Write at least a pragraph regarding (the conclusion of) your experiments and regularization effects. 
+
+**Please Note**: Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
+<-> Deadline: Thursday, Aban 15, 23:59 (Announced at Aban 1)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
