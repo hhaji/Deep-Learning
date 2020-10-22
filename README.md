@@ -205,17 +205,6 @@ Required Reading:
 
 * [Chapter 6](https://www.deeplearningbook.org/contents/mlp.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.   
 * Slides: [Deep Feed-forward Networks](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
-    - Part 1: [Feed-forward Networks](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.1%20DeepFFNets.pdf)
-    - Part 2: [Gradient-Based Learning](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.2%20Gradient-basedLearning.pdf)
-    - Part 3: [Hidden Units](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.3%20HiddenUnits.pdf)
-    - Part 4: [Architecture Design](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.4%20ArchitectureDesign.pdf)
-    - Part 5: Backward Propagation and Differentiation     
-        - [Forward/Backward Propagation](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.0%20Forward%20Backward.pdf)   
-        - [Computational Graphs](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.1%20Computational%20Graphs.pdf)   
-        - [Chain Rule in Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.2%20Chain%20Rule.pdf)   
-        - [Symbol-Symbol Derivatives](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.3%20Symbol-Sym%20Derivative.pdf)   
-        - [General Backprop](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.4%20General%20Backprop.pdf)   
-        - [Other Differentiation Algorithms](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/6.5.5%20Differentiation.pdf)    
 * Chapter 20 of [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) <br>
 * Slide: [Neural Networks](https://www.cs.huji.ac.il/~shais/Lectures2014/lecture10.pdf) by Shai Shalev-Shwartz <br>
 * Slide: [Backpropagation and Neural Networks](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf) by Fei-Fei Li, Justin Johnson, and  Serena Yeung  
@@ -291,21 +280,6 @@ Required Reading:
   * [Chapter 7](http://www.deeplearningbook.org/contents/regularization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
   Regularization  
   * Slides: [Regularization](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
-    - Part 0: [Regularization: Overview](https://cedar.buffalo.edu/~srihari/CSE676/7.0%20Regularization.pdf)
-    - Part 1: [Parameter Penalties](https://cedar.buffalo.edu/~srihari/CSE676/7.1%20ParameterPenalties.pdf)
-    - Part 2: [Norm Penalties as Constrained Optimization](https://cedar.buffalo.edu/~srihari/CSE676/7.2%20NormOptimization.pdf)
-    - Part 3: [Regularization and Underconstrained Problems](https://cedar.buffalo.edu/~srihari/CSE676/7.3%20Underconstrained.pdf)
-    - Part 4: [Data Augmentation](https://cedar.buffalo.edu/~srihari/CSE676/7.4%20DataAugmentation.pdf)
-    - Part 5: [Noise Robustness](https://cedar.buffalo.edu/~srihari/CSE676/7.5%20Noise%20Robustness.pdf)
-    - Part 6: [Semi-Supervised Learning](https://cedar.buffalo.edu/~srihari/CSE676/7.6%20Semi-Supervised.pdf)
-    - Part 7: [Multi-Task Learning](https://cedar.buffalo.edu/~srihari/CSE676/7.7%20MultiTask.pdf)
-    - Part 8: [Early Stopping](https://cedar.buffalo.edu/~srihari/CSE676/7.8%20EarlyStopping.pdf)
-    - Part 9: [Parameter Tying and Parameter Sharing](https://cedar.buffalo.edu/~srihari/CSE676/7.9%20ParameterSharing.pdf)
-    - Part 10: [Sparse Representations](https://cedar.buffalo.edu/~srihari/CSE676/7.10%20SparseReps.pdf)
-    - Part 11: [Bagging](https://cedar.buffalo.edu/~srihari/CSE676/7.11%20Bagging.pdf)
-    - Part 12: [Dropout](https://cedar.buffalo.edu/~srihari/CSE676/7.12%20Dropout.pdf)
-    - Part 13: [Adversarial Training](https://cedar.buffalo.edu/~srihari/CSE676/7.13%20AdversarialTraining.pdf)
-    - Part 14: Tangent Distance, Tangent Prop, and Manifold Tangent Classifier
   * Slide: [Bagging and Random Forests](https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9a.bagging-random-forests.pdf) by David Rosenberg <br>
   * Slide: [Deep Learning Tutorial](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)) (Read the Part of Dropout) by Hung-yi Lee   
  
@@ -365,9 +339,8 @@ Additional Resources:
 Required Reading:
 ```  
 
-   * [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br> 
-   * Slide: [Optimization for Training Deep Models (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture-4-1.pdf) by Ali Harakeh  
-   * Slide: [Optimization for Training Deep Models - Algorithms (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_4_2-1.pdf) by Ali Harakeh  
+   * [Chapter 8](http://www.deeplearningbook.org/contents/optimization.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.    
+   * Slides: [Optimization for Training Deep Models](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
    * Blog: [Batch Normalization in Deep Networks](https://www.learnopencv.com/batch-normalization-in-deep-networks/) by Sunita Nayak  
    
 
@@ -395,9 +368,11 @@ Additional Reading:
    * Blog: [Restricted Boltzmann Machine, a Complete Analysis. Part 3: Contrastive Divergence Algorithm](https://medium.com/datatype/restricted-boltzmann-machine-a-complete-analysis-part-3-contrastive-divergence-algorithm-3d06bbebb10c) by Nguyễn Văn Lĩnh  
 
    * **Extra Slides:**  
-    - Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh  
-    - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
-    - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
+       - Slide: [Optimization for Training Deep Models (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture-4-1.pdf) by Ali Harakeh  
+       - Slide: [Optimization for Training Deep Models - Algorithms (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_4_2-1.pdf) by Ali Harakeh  
+       - Slide: [Conjugate Gradient Descent](http://www.cs.cmu.edu/~pradeepr/convexopt/Lecture_Slides/conjugate_direction_methods.pdf) by Aarti Singh  
+       - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem   
+       - Slides: Optimization for Training Deep Models [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L15-opt.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L16-opt-2.pdf) by U Kang    
 
 9. ### <a name="CNN"></a>Convolutional Networks  
 
