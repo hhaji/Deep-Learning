@@ -55,7 +55,7 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
     - Video: Posted in the Skype group (for one month)
    
- * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 6 at 16:00
+ * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 7 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
    - Notebook: Will be posted here!  
  
