@@ -18,6 +18,7 @@
 * Response to emails may take a few days. Please be patient!
 * You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
 * Recitation classes and seminars will take place in the [Skype Group](https://join.skype.com/kJ6WepEDrsnt).
+* Assignments and the project should be done by meanis of Pytorch, except there has been specific instraction for a task.
 
 # Recitation
 
@@ -117,13 +118,13 @@
 
 ## Assignment Set 2
 
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, ...) in either Tensorflow or Pytorch to perform classification on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activation, ...) in either Pytorch or Tensorflow to perform classification on the following datasets:
   
    - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   
    - [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html)
    - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
    
-* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Tensorflow or Pytorch to perform regression on the following datasets:
+* Train neural network models (at least two different networks for each dataset, i.e., no. layers, no. neurons, activations, ...) in either Pytorch or Tensorflow to perform regression on the following datasets:
 
    - [California Housing Values](https://github.com/ageron/handson-ml/tree/master/datasets/housing)
    - One different dataset, up to your choice (Optional ~ advantage 10 points: Two different datasets, up to your choice) 
