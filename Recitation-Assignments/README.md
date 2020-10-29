@@ -56,9 +56,10 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
     - Video: Posted in the Skype group (for one month)
    
- * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 7 at 16:00
+ * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 7 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
  
  * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
