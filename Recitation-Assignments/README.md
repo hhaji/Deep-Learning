@@ -61,7 +61,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
    - Video: Posted in the Skype group (for one month)
 
- * **Session Eight** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Aban 20 at 16:00
+ * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 16:00 
    - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
    - Notebook: Will be posted here!   
   
