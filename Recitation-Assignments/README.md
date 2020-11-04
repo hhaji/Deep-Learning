@@ -50,55 +50,59 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
    - Video: Posted in the Skype group (for one month)
    
-  * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
-    - Introduction to Python Classes and Objects
-    - Building fully connected neural networks without using machine learning libraries in Python
-    - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
-    - Video: Posted in the Skype group (for one month)
+ * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+   - Introduction to Python Classes and Objects
+   - Building fully connected neural networks without using machine learning libraries in Python
+   - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
+   - Video: Posted in the Skype group (for one month)
    
  * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 7 at 16:00
    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
    - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
    - Video: Posted in the Skype group (for one month)
  
- * **Session Eight** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 14 at 16:00
-   - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
+ * **Session Eight** by [Yavar Yeganeh] will be on Thursday, Aban 15 at 16:00
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - Notebook: Will be posted here!  
 
  * **Session Nine** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Aban 20 at 16:00
    - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
    - Notebook: Will be posted here!   
-
- * **Session Ten** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 27 at 16:00
+  
+ * **Session Ten** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 27 at 16:00
+   - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
+   - Notebook: Will be posted here!  
+   
+  * **Session Eleven** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
+   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
+   - Notebook: Will be posted here!  
+   
+ * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 11 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Aban 28 at 16:00
+ * **Session Thirteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 12 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Twelve** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 4 at 16:00
+ * **Session Fourteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
- * **Session Thirteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 11 at 16:00
-   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
-   - Notebook: Will be posted here!  
-   
- * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00
+ * **Session Fifteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 25 at 16:00
+* **Session Sixteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 2 at 16:00
+* **Session Seventeen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Seventeen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 9 at 16:00
+* **Session Eighteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 16 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
