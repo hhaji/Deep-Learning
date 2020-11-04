@@ -57,11 +57,11 @@
    - Video: Posted in the Skype group (for one month)
    
  * **Session Seven** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 7 at 16:00
-    - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
-    - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
-    - Video: Posted in the Skype group (for one month)
+   - [Convolutional Networks](https://github.com/hhaji/Deep-Learning#CNN)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
  
- * **Session Eight** by [Yavar Yeganeh] will be on Thursday, Aban 15 at 16:00
+ * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Thursday, Aban 15 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - Notebook: Will be posted here!  
 
@@ -74,8 +74,8 @@
    - Notebook: Will be posted here!  
    
   * **Session Eleven** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
-   - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
-   - Notebook: Will be posted here!  
+    - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
+    - Notebook: Will be posted here!  
    
  * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 11 at 16:00
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
