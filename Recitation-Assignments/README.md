@@ -172,7 +172,7 @@
 
 **Please Note**: Try to develop very good classifiers and regressors based on each model. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
-<-> Deadline: Thursday, Aban 22, 23:59 (Announced at Aban 1)
+<-> Deadline: Wednesday, Aban 21, 23:59 (Announced at Aban 1)
 
 ## Assignment Set 7
 
