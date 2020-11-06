@@ -352,9 +352,9 @@ Suggested Reading:
    * Blog: [Initializing Neural Networks](https://www.deeplearning.ai/ai-notes/initialization/) by Katanforoosh & Kunin, [deeplearning.ai](https://www.deeplearning.ai), 2019   
    * Blog: [How to Initialize Deep Neural Networks? Xavier and Kaiming Initialization](https://pouannes.github.io/blog/initialization/) by Pierre Ouannes  
    * Blog: [What Is Covariate Shift?](https://medium.com/@izadi/what-is-covariate-shift-d7a7af541e6) by Saeed Izadi  
-   * Book: [Dataset Shift in Machine Learning](https://www.amazon.com/Dataset-Machine-Learning-Information-Processing/dp/0262170051) by by Joaquin Quinonero-Candela, Masashi Sugiyama, Anton Schwaighofer, Neil D. Lawrence  
+   * Book: [Dataset Shift in Machine Learning](https://www.amazon.com/Dataset-Machine-Learning-Information-Processing/dp/0262170051) by by Joaquin Quinonero-Candela, Masashi Sugiyama, Anton Schwaighofer, and Neil D. Lawrence  
    * Blog: [Stay Hungry, Stay Foolish:](https://www.adityaagrawal.net/blog/) This interesting blog contains the computation of back propagation of different layers of deep learning prepared by Aditya Agrawal    
-   * Paper: [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio   
+   * Paper: [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, and Yoshua Bengio   
    
 ```
 Additional Reading:
