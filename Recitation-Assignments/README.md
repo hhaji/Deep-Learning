@@ -186,7 +186,7 @@
 * Apply different optimization algorithms as well as dropout (and/or other regularization methods such as bagging) on the following models:
 
   - The regression and classification models developed in [Assignment Set 6](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/README.md#assignment-set-6) or [2](https://github.com/hhaji/Deep-Learning/blob/master/Recitation-Assignments/README.md#assignment-set-2)
-  - At least two different models for a classificaltion or regression dataset (up to your choice, but different from previous ones)
+  - At least two different models for a classification or regression dataset (up to your choice, but different from previous ones)
 
 * Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments and modifications.  
 
