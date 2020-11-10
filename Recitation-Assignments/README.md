@@ -183,16 +183,16 @@
 
 ## Assignment Set 8
 
-* Apply different optimization algorithms as well as dropout (and other regularization methods such as bagging) on the following models:
+* Apply different optimization algorithms as well as dropout (and/or other regularization methods such as bagging) on the following models:
 
-  - The regression and classification models developed in Assignment Set 6 or 2. Then, compare them.
-  - At least two different models for classificaltion/regression dataset (up to your choice, but different from previous ones)
+  - The regression and classification models developed in Assignment Set 6 or 2
+  - At least two different models for a classificaltion or regression dataset (up to your choice, but different from previous ones)
 
-* Write at least a paragraph regarding (the conclusion of) your experiments and modifications.  
-
-<-> Deadline: Thursday, Azar 4, 23:59 (Announced at Aban 20)
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison) your experiments and modifications.  
 
 **Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, Try to develop better classifiers and regressors. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
+<-> Deadline: Thursday, Azar 4, 23:59 (Announced at Aban 20)
 
 # Final Project
 
