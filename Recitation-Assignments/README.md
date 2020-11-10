@@ -192,7 +192,7 @@
 
 **Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, <ins>Try to develop better classifiers and regressors</ins>. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
-<-> Deadline: Thursday, Azar 4, 23:59 (Announced at Aban 20)
+<-> Deadline: Tuesday, Azar 4, 23:59 (Announced at Aban 20)
 
 # Final Project
 
