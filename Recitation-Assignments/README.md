@@ -190,7 +190,7 @@
 
 * Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments and modifications.  
 
-**Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, <u>Try to develop better classifiers and regressors</u>. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+**Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, <ins>Try to develop better classifiers and regressors</ins>. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
 
 <-> Deadline: Thursday, Azar 4, 23:59 (Announced at Aban 20)
 
