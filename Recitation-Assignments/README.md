@@ -181,6 +181,19 @@
 
 <-> Deadline: Thursday, Aban 22, 23:59 (Announced at Aban 8)
 
+## Assignment Set 8
+
+* Apply different optimization algorithms as well as dropout (and other regularization methods such as bagging) on the following models:
+
+  - The regression and classification models developed in Assignment Set 6 or 2. Then, compare them.
+  - At least two different models for classificaltion/regression dataset (up to your choice, but different from previous ones)
+
+* Write at least a paragraph regarding (the conclusion of) your experiments and modifications.  
+
+<-> Deadline: Thursday, Azar 4, 23:59 (Announced at Aban 20)
+
+**Please Note**: You can find many datasets, for instance, on Kaggle. Moreover, Try to develop better classifiers and regressors. Careless model architectures and hyperparameter selections, which result in poor performance, will not be appreciated and may be scored very low! 
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
