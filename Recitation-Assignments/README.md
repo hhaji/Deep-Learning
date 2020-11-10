@@ -61,9 +61,11 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1H7L_ni6fupxMpntLToASEi3FWjjWzfA_?usp=sharing)
    - Video: Posted in the Skype group (for one month)
 
- * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 20 at 18:00 
+ * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Aban 20 at 18:00 
+   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
-   - Notebook: Will be posted here!   
+   - Notebook: [Colab](https://colab.research.google.com/drive/1cass1LqzpmTs1dnasSzgHnvuSnHdODZQ?usp=sharing)
+   - Video: Posted in the Skype group (for one month)
   
  * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 27 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
@@ -74,7 +76,6 @@
     - Notebook: Will be posted here!  
    
  * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Aban 11 at 16:00
-   - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
    
