@@ -271,7 +271,7 @@ Additional Resources:
   * Blog: [Writing Custum Datasets, Dataloaders and Transforms](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html) by Sasank Chilamkurthy   
   * Blog: [TORCHVISION.DATASETS](https://pytorch.org/docs/stable/torchvision/datasets.html)   
 
-6. ### <a name="RFDL"></a>Regularization for Deep Learning  (5 Sessions)  
+6. ### <a name="RFDL"></a>Regularization for Deep Learning (5 Sessions)     
 
 ```
 Required Reading:
@@ -333,7 +333,7 @@ Additional Resources:
     - [PyTorch 101, Part 2: Building Your First Neural Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)  
     - [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)   
  
-8. ### <a name="OFTDM"></a>Optimization for Training Deep Models  
+8. ### <a name="OFTDM"></a>Optimization for Training Deep Models (5 Sessions)  
 
 ```
 Required Reading:
