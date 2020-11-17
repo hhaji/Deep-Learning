@@ -67,7 +67,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1cass1LqzpmTs1dnasSzgHnvuSnHdODZQ?usp=sharing)
    - Video: Posted in the Skype group (for one month)
   
- * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Aban 27 at 16:00
+ * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) will be on Wednesday, Aban 28 at 16:00
    - [Using Convolutions to Generalize](https://github.com/hhaji/Deep-Learning#Part-5)
    - Notebook: Will be posted here!  
    
