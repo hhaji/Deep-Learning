@@ -31,12 +31,12 @@
    - [Toolkit Lab: Getting Started with PyTorch](https://github.com/hhaji/Deep-Learning#Part-2) (Part two) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1d7gKanEvRhb-6RD6jtkhyIMfAySEz1Yt?usp=sharing)
 
- * **Session Three** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
+ * **Session Three** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Wednesday, Mehr 9 at 16:00
    - [Preprocessing Datasets by PyTorch](https://github.com/hhaji/Deep-Learning#Part-3) 
    - Notebook: [Colab](https://colab.research.google.com/drive/1WDbyiac97XQvk246OzHE22J8veD0WsUQ?usp=sharing)
    - Video: Posted in the Skype group (for one month)
    
- * **Session Four** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
+ * **Session Four** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Mehr 15 at 16:00
    - [Deep Feedforward Networks](https://github.com/hhaji/Deep-Learning#DFN) 
    - Notebook: [Colab](https://colab.research.google.com/drive/15aMn8jQ2RYoad_GSIFdCBxkW4qsVAC72?usp=sharing)
    - Video: Posted in the Skype group (for one month)
@@ -73,7 +73,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1I6eNUR6whEct9aaI62zmPeda8A2ttEsb?usp=sharing%22)
    - Video: Posted in the Skype group (for one month)  
    
-  * **Session Ten** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
+  * **Session Ten** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
     - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
     - Notebook: Will be posted here!  
    
@@ -85,7 +85,7 @@
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Thirteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
+ * **Session Thirteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
@@ -93,15 +93,15 @@
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
+* **Session Fifteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Haji Molla Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
+* **Session Sixteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Seventeen** by [Erfaan Rostami Amraei](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 16 at 16:00
+* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 16 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
