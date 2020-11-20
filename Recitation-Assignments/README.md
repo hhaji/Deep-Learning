@@ -195,6 +195,14 @@
 
 <-> Deadline: Tuesday, Azar 4, 23:59 (Announced at Aban 20)
 
+## Assignment Set 9
+
+* Design and train (at least two) convolutional models on an image dataset (up to your choice, but different from previous ones).
+
+* Exercise one of chapter eight, [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+
+<-> Deadline: Friday, Azar 14, 23:59 (Announced at Aban 30)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
