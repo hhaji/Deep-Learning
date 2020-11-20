@@ -5,9 +5,9 @@
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Behnaz Hoseyni](https://github.com/behnazhoseyni) | [Email](mailto:hoseyni.sb@gmail.com)
-
+<!--
 * [Erfaan Rostami](https://github.com/Erfaan-Rostami) | [Email](mailto:r.a.erfan@gmail.com)
-
+-->
 * [Mostafa Khodayari](https://github.com/MSTF4) | [Email](mailto:mo.khodayari@mail.sbu.ac.ir)
 
 * [Esmail Mafakheri](https://github.com/E008001) | [Email](mailto:e.mafakheri@mail.sbu.ac.ir)   
