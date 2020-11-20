@@ -85,7 +85,7 @@
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Thirteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00
+ * **Session Thirteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00 (TBC)
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
