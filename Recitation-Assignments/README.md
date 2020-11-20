@@ -93,7 +93,7 @@
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Dey 2 at 16:00
+* **Session Fifteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 2 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
