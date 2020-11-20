@@ -15,7 +15,7 @@
 
 **Please Note**: 
 
-* A carbon copy (Cc) of your email communications with TAs must be sent to the this [email address](mailto:hhhaji@yahoo.com)
+* A carbon copy (Cc) of your email communications with TAs must be sent to the this [email address](mailto:hhhaji@yahoo.com).
 * Response to emails may take a few days. Please be patient!
 * You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
 * Recitation classes and seminars will take place in the [Skype Group](https://join.skype.com/kJ6WepEDrsnt).
