@@ -64,7 +64,7 @@
  * **Session Eight** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Aban 20 at 18:00 
    - [Regularization for Deep Learning](https://github.com/hhaji/Deep-Learning#RFDL) (Part two)
    - [Optimization for Training Deep Models](https://github.com/hhaji/Deep-Learning#OFTDM)
-   - Notebook: [Colab](https://colab.research.google.com/drive/1cass1LqzpmTs1dnasSzgHnvuSnHdODZQ?usp=sharing)
+   - Notebook: [Colab](https://colab.research.google.com/drive/1I6eNUR6whEct9aaI62zmPeda8A2ttEsb?usp=sharing%22)
    - Video: Posted in the Skype group (for one month)
   
  * **Session Nine** by [Esmail Mafakheri](https://github.com/E008001) was on Wednesday, Aban 28 at 16:00
