@@ -199,7 +199,6 @@
 ## Assignment Set 9
 
 * Develop (at least two) convolutional models for an image dataset (up to your choice, but different from previous ones).
-
 * Exercise one of chapter eight, [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
 <-> Deadline: Friday, Azar 14, 23:59 (Announced at Aban 30)
