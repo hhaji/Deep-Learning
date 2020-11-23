@@ -81,7 +81,7 @@
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
 
- * **Session Twelve** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00 (TBC)
+ * **Session Twelve** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
     
