@@ -80,28 +80,28 @@
  * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Azar, Aban 11 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
-   
- * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 12 at 16:00
+
+ * **Session Twelve** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00 (TBC)
+   - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
+   - Notebook: Will be posted here!  
+    
+ * **Session Thirteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Azar 25 at 16:00
    - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: Will be posted here!
  
- * **Session Thirteen** by [Erfaan Rostami](https://github.com/Erfaan-Rostami) will be on Tuesday, Azar 18 at 16:00 (TBC)
-   - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
-   - Notebook: Will be posted here!  
- 
- * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
+ * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Dey 2 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
-* **Session Fifteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 2 at 16:00
+* **Session Fifteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 9 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 16:00
+* **Session Sixteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 16 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
-* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 16 at 16:00
+* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 23 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
    - Notebook: Will be posted here!  
    
