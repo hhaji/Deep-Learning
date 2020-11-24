@@ -210,7 +210,7 @@
    - 50 Trials | 30, 50, or 70 Epochs | 16, 32, or 64 Batch sizes | At least another hyperparameter, up to your choice
    - Pruning the model if accuracy does not change in 5 epochs
 
-**Please Note**: you may find the following blogs helpful: [Pruning — Early Stopping of Poor Trials
+**Please Note**: You may find the following blogs helpful: [Pruning — Early Stopping of Poor Trials
 ](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) and
 [Pruning Unpromising Trials](https://optuna.readthedocs.io/en/latest/tutorial/007_pruning.html#)
 
