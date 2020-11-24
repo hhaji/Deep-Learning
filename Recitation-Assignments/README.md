@@ -73,9 +73,10 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1I6eNUR6whEct9aaI62zmPeda8A2ttEsb?usp=sharing%22)
    - Video: Posted in the Skype group (for one month)  
    
-  * **Session Ten** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Azar 4 at 16:00
+  * **Session Ten** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was on Tuesday, Azar 4 at 16:00
     - [Optuna: Automatic Hyperparameter Optimization Software](https://github.com/hhaji/Deep-Learning#Part-7) 
-    - Notebook: Will be posted here!  
+    - Notebook: [Colab](https://colab.research.google.com/drive/1Fn3iLMOTMhPz8R3g17wAS-iDVhTk7kGC?usp=sharing)
+    - Video: Posted in the Skype group (for one month) 
    
  * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Azar, Aban 11 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
