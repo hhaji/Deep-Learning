@@ -205,11 +205,16 @@
 
 ## Assignment Set 10
 
-*
+* Run a hyperparameter optimization study (on a model) with the following settings, then find the best hyperparameters (which lead to the best accuracy).
+
+   - 50 Trials | 30, 50, or 70 Epochs | 16, 32, or 64 Batch sizes | At least another hyperparameter, up to your choice
+   - Pruning the model if accuracy does not change in 5 epochs
+
+**Please Note**: you may find the following blogs helpful: [Pruning — Early Stopping of Poor Trials
+](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) and
+[Pruning Unpromising Trials](https://optuna.readthedocs.io/en/latest/tutorial/007_pruning.html#)
 
 <-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Azar 4)
-
-**Please Note**:
 
 # Final Project
 
