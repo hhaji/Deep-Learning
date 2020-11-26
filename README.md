@@ -88,7 +88,7 @@ Main TextBooks:
 * [Deep Learning](http://www.deeplearningbook.org) (available in online) by Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville   
 * [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga  
     - GitHub: [Codes](https://github.com/deep-learning-with-pytorch/dlwpt-code)    
-* [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) by Ian Pointer   
+* [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/) by Ian Pointer    
     - GitHub: [Codes](https://github.com/falloutdurham/beginners-pytorch-deep-learning)      
 
 
@@ -427,9 +427,7 @@ Required Reading:
 ```
   
    * NoteBook: [Chapter 8: Using Convolutions to Generalize](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch8) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
-   * NoteBook: [Chapter 3:  Convolutional Neural Networks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/tree/master/chapter3](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)  by Ian Pointer         
-
-
+   * NoteBook: [Chapter 3:  Convolutional Neural Networks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/tree/master/chapter3]  by Ian Pointer          
 
 ```
 Suggested Reading:
