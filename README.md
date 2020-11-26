@@ -427,7 +427,7 @@ Required Reading:
 ```
   
    * NoteBook: [Chapter 8: Using Convolutions to Generalize](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master/p1ch8) from [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) by Eli Stevens and Luca Antiga       
-   * NoteBook: [Chapter 3:  Convolutional Neural Networks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/tree/master/chapter3]  by Ian Pointer          
+   * NoteBook: [Chapter 3:  Convolutional Neural Networks](https://github.com/falloutdurham/beginners-pytorch-deep-learning/tree/master/chapter3)  by Ian Pointer          
 
 ```
 Suggested Reading:
