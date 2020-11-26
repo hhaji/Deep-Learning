@@ -15,14 +15,12 @@
   <tr>
     <td><a href="https://github.com/behnazhoseyni">Behnaz H.M. Hoseyni</a></td>
     <td><a href="https://github.com/YavarYeganeh">Yavar T. Yeganeh</a></td>
-    <td><a href="https://github.com/Erfaan-Rostami">Erfaan Rostami Amraei</a></td>
     <td><a href="https://github.com/MSTF4">Mostafa Khodayari</a></td>
     <td><a href="https://github.com/E008001">Esmail Mafakheri</a></td>
   </tr>
   <tr>
     <td><img src=".\Images\BH.jpeg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\Y.jpg" alt="" border='3' height='140' width='120' /></td>
-    <td><img src=".\Images\R.jpg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\K.jpg" alt="" border='3' height='140' width='120' /></td>
     <td><img src=".\Images\Mafakheri.jpg" alt="" border='3' height='140' width='120' /></td>   
   </tr>
@@ -401,6 +399,7 @@ Suggested Reading:
    * Blog: [Type of convolutions: Deformable and Transformable Convolution](https://towardsdatascience.com/type-of-convolutions-deformable-and-transformable-convolution-1f660571eb91) by Ali Raza  
    * Blog: [Review: DilatedNet — Dilated Convolution (Semantic Segmentation)](https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5) by Sik-Ho Tsang  
    * Blog: [Region of Interest Pooling Explained](https://deepsense.ai/region-of-interest-pooling-explained/) by Tomasz Grel     
+   * Blog: [Understanding the Receptive Field of Deep Convolutional Networks](https://theaisummer.com/receptive-field/) by Nikolas Adaloglou     
 
 ```
 Additional Reading:  
@@ -444,16 +443,14 @@ Additional Resources:
    
    * Blog: [PyTorch Image Recognition with Convolutional Networks](https://nestedsoftware.com/2019/09/09/pytorch-image-recognition-with-convolutional-networks-4k17.159805.html)   
 
-11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  
+11. ### <a name="SMRARN"></a>Sequence Modeling: Recurrent and Recursive Networks  (4 Sessions)
 
 ```
 Required Reading:
 ```
   
-   * [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
-   * Slide: [Sequence Modeling: Recurrent and Recursive Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L12-rnn.pdf) by U Kang <br> 
-   * Slide: [Training Recurrent Nets](http://web.eecs.utk.edu/~hqi/deeplearning/lecture14-rnn-training.pdf) by Arvind Ramanathan  
-   * Slide: [Long-Short Term Memory and Other Gated RNNs](https://cedar.buffalo.edu/~srihari/CSE676/10.10%20LSTM.pdf) by Sargur Srihari  
+   * [Chapter 10](http://www.deeplearningbook.org/contents/rnn.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.    
+   * Slides: [Sequence Modeling: Recurrent and Recursive Nets](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
 ```
 Suggested Reading:
@@ -470,8 +467,10 @@ Additional Reading:
    * Blog: [Gentle introduction to Echo State Networks](https://towardsdatascience.com/gentle-introduction-to-echo-state-networks-af99e5373c68) by Madalina Ciortan   
    * Blog: [Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) by Simeon Kostadinov    
    * Blog: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45) by Raimi Karim   
-   * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
-   
+   * **Extra Slides:**  
+       * Slide: [Sequence Modeling: Recurrent and Recursive Networks](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L12-rnn.pdf) by U Kang    
+       * Slide: [Training Recurrent Nets](http://web.eecs.utk.edu/~hqi/deeplearning/lecture14-rnn-training.pdf) by Arvind Ramanathan  
+       * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
    
 12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks 
 
