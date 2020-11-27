@@ -78,7 +78,7 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/1Fn3iLMOTMhPz8R3g17wAS-iDVhTk7kGC?usp=sharing)
     - Video: Posted in the Skype group (for one month) 
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Azar, Aban 11 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azara 12 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
 
