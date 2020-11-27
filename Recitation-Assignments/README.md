@@ -1,7 +1,7 @@
 # Teaching Assistants
 
 
-* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) | [Email](mailto:y.taheriyeganeh@mail.sbu.ac.ir)
+* (Coordinator) [Yavar Yeganeh](https://github.com/YavarYeganeh) | [Email](mailto:yavaryeganeh@gmail.com)
   - Office Hours: Sundays and Wednesdays, 12 am to 1 pm, Professor's Office (TBC)  
 
 * [Behnaz Hoseyni](https://github.com/behnazhoseyni) | [Email](mailto:hoseyni.sb@gmail.com)
