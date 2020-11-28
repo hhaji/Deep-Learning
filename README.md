@@ -160,7 +160,7 @@ Additional Resources:
 * Blog: [Colab Tricks](https://rohitmidha23.github.io/Colab-Tricks/) by  Rohit Midha    
   
   
-3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch (1 Session)         
+3. ### <a name="Part-2"></a>Toolkit Lab 2:  Getting Started with PyTorch (2 Sessions)         
 ```
 Required Reading:
 ```
@@ -241,7 +241,7 @@ Additional Resources:
     - Slide: [Feedforward Neural Networks (Lecture 2)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture_2.pdf) by Ali Harakeh   
     - Slides: Deep Feedforward Networks [1](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L8-deep_feedforward_networks.pdf)  and [2](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L9-deep_feedforward_networks-2.pdf) by U Kang   
     
-5. ### <a name="Part-3"></a>Toolkit Lab 3: Preprocessing Datasets by PyTorch 
+5. ### <a name="Part-3"></a>Toolkit Lab 3: Preprocessing Datasets by PyTorch (1 Session)
 
 ```
 Required Reading:
@@ -303,7 +303,7 @@ Additional Reading:
     - Slide: [Training Deep Neural Networks](https://web.cs.hacettepe.edu.tr/~aykut/classes/spring2018/cmp784/slides/lec4-training-deep-nets.pdf) by Aykut Erdem 
     
     
-7. ### <a name="Part-4"></a>Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch     
+7. ### <a name="Part-4"></a>Toolkit Lab 4: Using a Neural Network to Fit the Data with PyTorch (2 Sessions)   
 ```
 Required Reading:
 ```
@@ -420,7 +420,7 @@ Fourier Transformation:
    * Blog: [Purrier Series (Meow) and Making Images Speak](http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/) by Bilim Ne Güzel Lan   
    * Blog: [Follow up to Fourier Series](http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/) by Bilim Ne Güzel Lan  
    
-10. ### <a name="Part-5"></a>Toolkit Lab 5: Using Convolutions to Generalize 
+10. ### <a name="Part-5"></a>Toolkit Lab 5: Using Convolutions to Generalize (2 Sessions)
 
 ```
 Required Reading:    
@@ -470,7 +470,7 @@ Additional Reading:
        * Slide: [Training Recurrent Nets](http://web.eecs.utk.edu/~hqi/deeplearning/lecture14-rnn-training.pdf) by Arvind Ramanathan  
        * Slide: [An Introduction to: Reservoir Computing and Echo State Networks](http://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/aa2/rnn4-esn.pdf) by Claudio Gallicchio   
    
-12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks 
+12. ### <a name="Part-6"></a>Toolkit Lab 6: Transfer Learning and Other Tricks (1 Session)
 
 ```
 Required Reading:    
@@ -493,7 +493,7 @@ Additional Resources:
       - [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)  
       - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 
-13. ### <a name="Practical-Methodology"></a>Practical Methodology  
+13. ### <a name="Practical-Methodology"></a>Practical Methodology  (2 Sessions)
 
 ```
 Required Reading:
@@ -525,7 +525,7 @@ Additional Reading:
    * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
    * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
 
-14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/)   
+14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/) (1 Session)   
 Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
 
 ```
@@ -546,7 +546,7 @@ Additional Resources:
 
   * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
     
-15. ### <a name="Applications"></a>Applications 
+15. ### <a name="Applications"></a>Applications (1 Session)
 
 ```
 Required Reading:
@@ -567,7 +567,7 @@ Additional Reading:
    * Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
     
-16. ### <a name="Autoencoders"></a>Autoencoders
+16. ### <a name="Autoencoders"></a>Autoencoders (2 Sessions)
 
 ```
 Required Reading:
@@ -598,7 +598,7 @@ Additional Reading:
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
    * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
     
-17. ### <a name="GAN"></a>Generative Adversarial Networks  
+17. ### <a name="GAN"></a>Generative Adversarial Networks (1 Session)
 
 ```
 Required Reading:
@@ -624,7 +624,7 @@ Additional Reading:
 * Blog: [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) by Avinash Hindupur  
 * [Generative Adversarial Networks (GANs), Some Open Questions](https://www.offconvex.org/2017/03/15/GANs/) by Sanjeev Arora  
 
-18. ### <a name="GNN"></a>Graph Neural Networks:     
+18. ### <a name="GNN"></a>Graph Neural Networks (1 Session)
 
 ```
 Required Reading:
