@@ -78,17 +78,17 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/1Fn3iLMOTMhPz8R3g17wAS-iDVhTk7kGC?usp=sharing)
     - Video: Posted in the Skype group (for one month) 
    
- * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 12 at 16:00
+ * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Azar 18 at 16:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)
    - Notebook: Will be posted here!  
 
- * **Session Twelve** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 18 at 16:00
+ * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 19 at 16:00
+   - [Toolkit Lab 6: Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
+   - Notebook: Will be posted here!
+ 
+ * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
-    
- * **Session Thirteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Azar 25 at 16:00
-   - [Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
-   - Notebook: Will be posted here!
  
  * **Session Fourteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Dey 2 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
@@ -98,7 +98,7 @@
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-* **Session Sixteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 16 at 16:00
+* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 16 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
    - Notebook: Will be posted here!  
       
