@@ -26,6 +26,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Libraries & Packages](#Libraries) 
     - [Notations](#Notations) 
     - [Online Softwares](#Online-Softwares) 
+    - [An Introduction to Chemistry](#Chemistry) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -202,6 +203,11 @@ Molecular structures have graph structures. By using machine learning and in par
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
 - Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
 - Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
+
+### <a name="Chemistry"></a>An Introduction to Chemistry
+- Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
+    - [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)  
+    - [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html) 
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
