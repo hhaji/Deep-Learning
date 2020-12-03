@@ -208,6 +208,10 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
     - [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)  
     - [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html) 
+    - [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics)
+    - [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes)
+    - [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass)  
+    - [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
