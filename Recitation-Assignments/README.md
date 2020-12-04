@@ -202,7 +202,7 @@
 * Develop (at least two) convolutional models for an image dataset (up to your choice, but different from previous ones).
 * Exercise one of chapter eight, [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
-<-> Deadline: Friday, Azar 14, 23:59 (Announced at Aban 30)
+<-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Aban 30)
 
 ## Assignment Set 10
 
@@ -215,7 +215,7 @@
 ](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) and
 [Pruning Unpromising Trials](https://optuna.readthedocs.io/en/latest/tutorial/007_pruning.html#).
 
-<-> Deadline: Tuesday, Azar 18, 23:59 (Announced at Azar 4)
+<-> Deadline: Friday, Azar 21, 23:59 (Announced at Azar 4)
 
 # Final Project
 
