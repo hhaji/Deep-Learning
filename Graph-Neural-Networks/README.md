@@ -69,7 +69,7 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 - Slide: [Deep Belief Nets](https://www.cs.toronto.edu/~hinton/nipstutorial/nipstut3.pdf) by Geoffrey Hinton 
 
 ## <a name="GRL"></a>Graph Represetation Learning         
-- Coure: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
+- Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
 - Papers: [Papers with Code](https://paperswithcode.com/task/graph-representation-learning)
 - Blog: [Graph Represetation Learning](https://towardsdatascience.com/graph-representation-learning-dd64106c9763) by Marco Brambilla   
 - Slide: [Graph Represetation Learning](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) by 
