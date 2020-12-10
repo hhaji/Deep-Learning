@@ -90,7 +90,6 @@
    
   * **Video Tutorial Two** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Thursday, Azar 20
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part two)
-   - A quick introduction to natural language processing
    - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
    - Video: Posted in the Skype group (for one month)
  
