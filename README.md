@@ -58,7 +58,7 @@
   - [Fascinating Guides For Machine Learning](#Fascinating-Guides-For-Machine-Learning)
   - [Latex](#Latex)
 - [Grading](#Grading)
-  - [Two Exams](#Two-Exams)
+  - [Three Exams](#Three-Exams)
 - [Prerequisites](#Prerequisites)
   - [Linear Algebra](#Linear-Algebra)
   - [Probability and Statistics](#Probability-and-Statistics)
@@ -641,6 +641,7 @@ Suggested Reading:
 ```
 
 - Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
+- Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
 - Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
 
 ```
@@ -696,9 +697,10 @@ The students can include mathematical notation within markdown cells using LaTeX
 * Projects and Midterm – 50%
 * Endterm – 50%
 
-### <a name="Two-Exams"></a>Two Exams:
+### <a name="Three-Exams"></a>ُThree Exams:
 
 * Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
+* Midterm Examination: Saturday 1399/10/06, 10:30-12:00 
 * Final Examination: Wednesday 1399/10/24, 14:00-16:00 
 
 ## <a name="Prerequisites"></a>Prerequisites:
