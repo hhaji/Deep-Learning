@@ -80,11 +80,18 @@
    
  * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Azar 18 at 17:00
    - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part one)
-   - Notebook: Will be posted here!  
+   - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
+   - Video: Posted in the Skype group (for one month)
 
  * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Azar 19 at 17:00
    - [Toolkit Lab 6: Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
    - Notebook: [Colab](https://colab.research.google.com/drive/1xm90WDOSxWzAu5F6m9Cf1IYg-xxI2S54?usp=sharing%22)
+   - Video: Posted in the Skype group (for one month)
+   
+  * **Video Tutorial Two** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Thursday, Azar 20
+   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part two)
+   - A quick introduction to natural language processing
+   - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
    - Video: Posted in the Skype group (for one month)
  
  * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
