@@ -224,13 +224,6 @@
 
 <-> Deadline: Friday, Azar 21, 23:59 (Announced at Azar 4)
 
-Develop at least two recurrent models for (each of) two sequential datasets (up to your choice, but different than previous ones and at least one on natural language).
-Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments.
-
-Train at least two classification models for [Linnaeus 5](http://chaladze.com/l5/) dataset utilizing pre-trained [Torchvision.models](https://pytorch.org/docs/stable/torchvision/models.html).
-Develop at least two deep learning models on a task (up to your choice) utilizing transfer learning.
-Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments.
-
 ## Assignment Set 11
 
 * Develop at least two recurrent models for (each of) two sequential datasets (up to your choice, but different than previous ones and at least one on natural language).
