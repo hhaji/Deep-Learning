@@ -51,7 +51,7 @@
    - Notebook: [Colab](https://colab.research.google.com/drive/1jzfsfwkAVsnd0-wO_Xtfx28O3oUhWyLk?usp=sharing%22)  
    - Video: Posted in the Skype group (for one month)
    
- * **First Video Tutorial** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
+ * **Video Tutorial One** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was posted on Wednesday, Mehr 30
    - Introduction to Python Classes and Objects
    - Building fully connected neural networks without using machine learning libraries in Python
    - Notebook: [Colab](https://colab.research.google.com/drive/1MswS0QON4atGHxm85oXqCCKR2fypo7Su?usp=sharing) 
@@ -79,13 +79,13 @@
     - Video: Posted in the Skype group (for one month) 
    
  * **Session Eleven** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Tuesday, Azar 18 at 17:00
-   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)(Part one)
+   - [Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN) (Part one)
    - Notebook: Will be posted here!  
 
- * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Wednesday, Azar 19 at 17:00
-   <!-- --[Sequence Modeling: Recurrent and Recursive Networks](https://github.com/hhaji/Deep-Learning#SMRARN)(Part two)-->
+ * **Session Twelve** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was on Wednesday, Azar 19 at 17:00
    - [Toolkit Lab 6: Transfer Learning and Other Tricks](https://github.com/hhaji/Deep-Learning#Part-6)
-   - Notebook: Will be posted here!
+   - Notebook: [Colab](https://colab.research.google.com/drive/1xm90WDOSxWzAu5F6m9Cf1IYg-xxI2S54?usp=sharing%22)
+   - Video: Posted in the Skype group (for one month)
  
  * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
