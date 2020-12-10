@@ -699,8 +699,8 @@ The students can include mathematical notation within markdown cells using LaTeX
 
 ### <a name="Three-Exams"></a>ُThree Exams:
 
-* Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
-* Midterm Examination: Saturday 1399/10/06, 10:30-12:00 
+* First Midterm Examination: Saturday 1399/09/01, 10:30-12:00 
+* Second Midterm Examination: Saturday 1399/10/06, 10:30-12:00 
 * Final Examination: Wednesday 1399/10/24, 14:00-16:00 
 
 ## <a name="Prerequisites"></a>Prerequisites:
