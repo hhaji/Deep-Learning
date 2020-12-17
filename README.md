@@ -502,31 +502,31 @@ Additional Resources:
 Required Reading:
 ```
 
-   * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.  
-   * Slides: [Practical Methodology](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
+  * [Chapter 11](http://www.deeplearningbook.org/contents/guidelines.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook.  
+  * Slides: [Practical Methodology](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari
 
 ```
 Suggested Reading:
 ```
 
   * Metrics:
-       - Blog: [Demystifying KL Divergence](https://medium.com/activating-robotic-minds/demystifying-kl-divergence-7ebe4317ee68) by Naoki Shibuya  
-       - Blog: [Demystifying Cross-Entropy](https://medium.com/activating-robotic-minds/demystifying-cross-entropy-e80e3ad54a8) by Naoki Shibuya  
-       - Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
-       - Blog: [An Illustrated Guide to the Poisson Regression Model](https://towardsdatascience.com/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) by Sachin Date   
-       - Blog: [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d) by Semih Akbayrak  
-       - Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
-       - Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
-       - Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran  
-       - Blog: [Precision-Recall Curves](https://www.andybeger.com/2015/03/16/precision-recall-curves/) by Andreas Beger  
+      - Blog: [Demystifying KL Divergence](https://medium.com/activating-robotic-minds/demystifying-kl-divergence-7ebe4317ee68) by Naoki Shibuya  
+      - Blog: [Demystifying Cross-Entropy](https://medium.com/activating-robotic-minds/demystifying-cross-entropy-e80e3ad54a8) by Naoki Shibuya  
+      - Blog: [Deep Quantile Regression](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a) by Sachin Abeywardana  
+      - Blog: [An Illustrated Guide to the Poisson Regression Model](https://towardsdatascience.com/an-illustrated-guide-to-the-poisson-regression-model-50cccba15958) by Sachin Date   
+      - Blog: [Generalized Linear Models](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d) by Semih Akbayrak  
+      - Blog: [ROC curves and Area Under the Curve Explained (Video)](https://www.dataschool.io/roc-curves-and-auc-explained/) by Data School
+      - Blog: [Introduction to the ROC (Receiver Operating Characteristics) Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/) 
+      - Slide: [ROC Curves](https://web.uvic.ca/~maryam/DMSpring94/Slides/9_roc.pdf) by Maryam Shoaran  
+      - Blog: [Precision-Recall Curves](https://www.andybeger.com/2015/03/16/precision-recall-curves/) by Andreas Beger  
 
 ```
 Additional Reading:
 ```
- 
-   * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
-   * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
-   * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
+  * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
+  * **Extra Slides:**  
+      * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
+      * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
 14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/) (1 Session)   
 Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
@@ -567,7 +567,8 @@ Suggested Reading:
 Additional Reading:
 ```
    * Blog: [30 Amazing Applications of Deep Learning](http://www.yaronhadad.com/deep-learning-most-amazing-applications/) by Yaron Hadad  
-   * Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
+   * **Extra Slides:**  
+       - Slides: [Applications](https://cedar.buffalo.edu/~srihari/CSE676/) by Sargur Srihari  
 
     
 16. ### <a name="Autoencoders"></a>Autoencoders (2 Sessions)
@@ -598,8 +599,9 @@ And Why They’re so Useful in Creating Your Own Generative Text, Art and Even M
 Additional Reading:
 ```
     
-   * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar <br>
-   * Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang <br> 
+   * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar   
+   * **Extra Slides:**  
+       - Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang    
     
 17. ### <a name="GAN"></a>Generative Adversarial Networks (1 Session)
 
@@ -633,22 +635,25 @@ Additional Reading:
 Required Reading:
 ```
 
-- Slide: [Graph Neural Networks](http://ir.hit.edu.cn/~xiachongfeng/slides/Graph%20Neural%20Networks.pdf) by Xiachong Feng  
-- Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
+* Slide: [Graph Neural Networks](http://ir.hit.edu.cn/~xiachongfeng/slides/Graph%20Neural%20Networks.pdf) by Xiachong Feng  
+* Paper: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) by Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
 
 ```
 Suggested Reading:
 ```
 
-- Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
-- Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
-- Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
+* Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
+* Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
+* Blog: [Deep Graph Library (DGL)](https://www.dgl.ai): A Python package that interfaces between existing tensor libraries and data being expressed as graphs.   
 
 ```
 Additional Reading:
 ```  
 
-- GitHub: [Graph Neural Networks](https://github.com/hhaji/Deep-Learning/tree/master/Graph-Neural-Networks)   
+* GitHub: [Graph Neural Networks](https://github.com/hhaji/Deep-Learning/tree/master/Graph-Neural-Networks)   
+* **Extra Slides:**  
+    - Slide: [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu and Tengfei Ma. This is a perfect slide about graph neural networks. 
+
     
 ### <a name="ANAS"></a>Additional Resources:    
 - Papers:  
