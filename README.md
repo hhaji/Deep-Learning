@@ -578,19 +578,19 @@ Required Reading:
 ```
    * [Chapter 14](http://www.deeplearningbook.org/contents/autoencoders.html) of the [Deep Learning](http://www.deeplearningbook.org) textbook. <br>
    * Slide: [Autoencoders](http://www.cedar.buffalo.edu/%7Esrihari/CSE676/14%20Autoencoders.pdf) by Sargur Srihari  
-   * Blog: [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73) by Joseph Rocca  
-   * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar 
+   * Blog: [Variational Autoencoders](https://www.jeremyjordan.me/variational-autoencoders/) by Jermey Jordan
   
 ```
 Suggested Reading:
 ```
-
-   * Slide: [Variational Autoencoders](http://slazebni.cs.illinois.edu/spring17/lec12_vae.pdf) by Raymond Yeh, Junting Lou, and Teck-Yian Lim  
+   
+   * Blog: [Introduction to Autoencoders](https://www.jeremyjordan.me/autoencoders/) by Jermey Jordan
+   * Blog: [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73) by Joseph Rocca  
+   * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar 
    * Blog: [Autoencoders vs PCA: When to Use?](https://towardsdatascience.com/autoencoders-vs-pca-when-to-use-which-73de063f5d7) by Urwa Muaz  
    * Blog: [Intuitively Understanding Variational Autoencoder: 
 And Why They’re so Useful in Creating Your Own Generative Text, Art and Even Music](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf) by Irhum Shafkat  
    * Blog: [Generative Modeling: What is a Variational Autoencoder (VAE)?](https://www.mlq.ai/what-is-a-variational-autoencoder/) by Peter Foy  
-   * Slide: [Generative Models](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/team/Haojin/competitive_problem_solving_with_deep_learning/Class_Generative_Models.pptx.pdf) by Mina Rezaei  
    * Blog: [A High-Level Guide to Autoencoders](https://towardsdatascience.com/a-high-level-guide-to-autoencoders-b103ccd45924) by Shreya Chaudhary  
    * Blog: [Variational Autoencoder: Intuition and Implementation](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/) by Agustinus Kristiadi     
    * Blog: [Conditional Variational Autoencoder: Intuition and Implementation](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/) by Agustinus Kristiadi    
@@ -601,7 +601,11 @@ Additional Reading:
     
    * Blog: [Tutorial - What is a Variational Autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) by Jaan Altosaar   
    * **Extra Slides:**  
-       - Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang    
+       - Slide: [Variational Autoencoders](http://slazebni.cs.illinois.edu/spring17/lec12_vae.pdf) by Raymond Yeh, Junting Lou, and Teck-Yian Lim  
+       - Slide: [Autoencoders](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L19-autoencoder.pdf) by U Kang 
+       - Slide: [Generative Models](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/team/Haojin/competitive_problem_solving_with_deep_learning/Class_Generative_Models.pptx.pdf) by Mina Rezaei  
+
+
     
 17. ### <a name="GAN"></a>Generative Adversarial Networks (1 Session)
 
