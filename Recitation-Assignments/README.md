@@ -248,9 +248,9 @@
     - Proposal approval by the mentor - *Please manage it to be done in Aban!*
     - **The main phase of the project**
     - Submitting a poster or a brief report of the progress - *Deadline: ~~Dey 1~~ Extended to Dey 10*
-    - Poster/Progress presentation - * ~~Dey 3~~ Dey 11 at 16:00*
+    - Poster/Progress presentation - *~~Dey 3~~ Dey 11 at 16:00*
     - Submitting the final report as well as codes and data - *Deadline: ~~Bahman 10~~ Extended to Bahman 17*
-    - Seminar presentation -* ~~Bahman 12~~ Bahman 19*
+    - Seminar presentation -*~~Bahman 12~~ Bahman 19*
   
 **Please Note**: You can find many sample projects as well as datasets on [Kaggle](https://www.kaggle.com/). Moreover, take a look at final projects at Stanford's [CS229](http://cs229.stanford.edu/projects.html). The project will have a notable share in the final score of the course. Creativity, innovations as well as a novelty are (expected and) highly appreciated and will be rewarded accordingly. You should also have an appropriate literature review. Besides, projects will be evaluated by the professor and teaching assistants at the same level. In addition to them, contacts with mentors/assistants are possible through email communications. However, in some cases, skype sessions may be arranged. 
 
