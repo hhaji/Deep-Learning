@@ -101,7 +101,7 @@
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
    - Notebook: Will be posted here!  
    
-  * **Session Fifteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Dey 10 at 16:00
+* **Session Fifteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Dey 10 at 16:00
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
    
