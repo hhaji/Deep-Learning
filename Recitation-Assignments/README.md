@@ -97,7 +97,7 @@
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
    - Notebook: Will be posted here!  
  
- * **Session Fourteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 2 at 16:00
+ * **Session Fourteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Tuesday, Dey 9 at 10:30
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Notebook: Will be posted here!  
 
