@@ -229,7 +229,7 @@
 * Develop at least two recurrent models for (each of) two sequential datasets (up to your choice, but different than previous ones and at least one on the natural language).
 * Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments.
 
-<-> Deadline: Thursday, Dey 4, 23:59 (Announced at Azar 20)
+<-> Deadline: Tuesday, Dey 9, 23:59 (Announced at Azar 20)
  
 ## Assignment Set 12
 
