@@ -99,11 +99,11 @@
 
 * **Session Fourteen** by [Esmail Mafakheri](https://github.com/E008001) was on Tuesday, Dey 9 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
-   - Video: [Link](https://drive.google.com/drive/folders/113GY9ux5wMSVfPHYpos_qP92DOkNePnZ?usp=sharing)
+   - Video: Posted in the Skype group (for one month)  
    
 * **Video Tutorial Three** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was posted on Wednesday, Dey 10
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
-   **Video Tutorial Two**
+   - Video: [Link](https://drive.google.com/drive/folders/113GY9ux5wMSVfPHYpos_qP92DOkNePnZ?usp=sharing)
    
 * **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 16 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN)  
