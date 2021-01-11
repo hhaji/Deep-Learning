@@ -93,25 +93,23 @@
     - Notebook: [Colab](https://colab.research.google.com/drive/10UJlzZ6A0bcziqeVeC6BZKEF6e23W7BI?usp=sharing) 
     - Video: Posted in the Skype group (for one month)
  
- * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) will be on Tuesday, Azar 25 at 16:00
+ * **Session Thirteen** by [Mostafa Khodayari](https://github.com/MSTF4) was on Tuesday, Azar 25 at 16:00
    - [Practical Methodology](https://github.com/hhaji/Deep-Learning#Practical-Methodology)
-   - Notebook: Will be posted here!  
+   - Video: Posted in the Skype group (for one month)  
 
-* **Session Fourteen** by [Esmail Mafakheri](https://github.com/E008001) will be on Tuesday, Dey 9 at 16:00
+* **Session Fourteen** by [Esmail Mafakheri](https://github.com/E008001) was on Tuesday, Dey 9 at 16:00
    - [Autoencoders](https://github.com/hhaji/Deep-Learning#Autoencoders) 
-   - Notebook: Will be posted here!  
+   - Video: [Link](https://drive.google.com/drive/folders/113GY9ux5wMSVfPHYpos_qP92DOkNePnZ?usp=sharing)
    
-* **Session Fifteen** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) will be on Wednesday, Dey 10 at 16:00
+* **Video Tutorial Three** by [Behnaz Hoseyni](https://github.com/behnazhoseyni) was posted on Wednesday, Dey 10
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
-   - Notebook: Will be posted here!  
+   **Video Tutorial Two**
    
-* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 16 at 16:00
-   - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN) 
-   - Notebook: Will be posted here!  
+* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 16 at 16:00
+   - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN)  
       
-* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) will be on Tuesday, Dey 23 at 16:00
-   - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)
-   - Notebook: Will be posted here!  
+* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 23 at 16:00
+   - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)  
    
 
 # Assignments 
