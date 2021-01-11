@@ -105,10 +105,10 @@
    - [Applications](https://github.com/hhaji/Deep-Learning#Applications) 
    - Video: [Link](https://drive.google.com/drive/folders/113GY9ux5wMSVfPHYpos_qP92DOkNePnZ?usp=sharing)
    
-* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 16 at 16:00
+* **Session Fifteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 16 at 16:00
    - [Generative Adversarial Networks](https://github.com/hhaji/Deep-Learning#GAN)  
       
-* **Session Seventeen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 23 at 16:00
+* **Session Sixteen** by [Yavar Yeganeh](https://github.com/YavarYeganeh) was planned for Tuesday, Dey 23 at 16:00
    - [Graph Neural Networks](https://github.com/hhaji/Deep-Learning#GNN)  
    
 
