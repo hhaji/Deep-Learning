@@ -237,6 +237,26 @@
 
 <-> Deadline: Thursday, Dey 11, 23:59 (Announced at Azar 20)
 
+## Assignment Set 13
+
+* Build and Implement a denoising autoencoder.
+* Use autoencoders for feature extraction/dimensionality reduction and then in a classification task (up to your choice, but different from previous ones) in addition to comparison with only-classifier settings.
+* Develop a variational autoencoder for generating images (e.g., Fashion-MNIST or CIFAR-10 datasets). 
+* Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments. 
+
+**Please Note**: For the third part you may find [these implementations](https://github.com/AntixK/PyTorch-VAE) helpful. Additionally, the tasks must be delivered as your authentic work.
+
+<-> Deadline: Friday, Bahman 10, 23:59 (Announced at Dey 23)
+
+## Assignment Set 13
+
+* Develop two deep learning tasks utilizing topics discussed in the course or other advanced topics within the field (up to your choice, but different from previous ones).
+* Write at least a paragraph for each of the tasks regarding (the conclusion of, e.g., comparison of) your experiments.
+
+**Please Note**: Please note: It will be rewarded up to 20 percent of the total assignments' score. Additionally, the tasks must be delivered as your authentic work.
+
+<-> Deadline: Tuesday, Bahman 14, 23:59 (Announced at Dey 23)
+
 # Final Project
 
 * The final project will be considered as the outcome of the course, which is understanding and effective implementation of deep learning to provide practical solutions to realistic tasks. At least two scenarios for the project can be imagined, applications, and development of deep learning. Developing algorithms and methods is a valuable target, however, it may be challenging. On the other side, applications are recommended for this project. Students should decide on a topic for the project based on their interests as well as discussion with their mentor, who is one of the teaching assistants up to their choice. Mentors could provide advice and assistance during the topic selection and main progress. The following steps and schedule are expected: 
