@@ -248,12 +248,12 @@
 
 <-> Deadline: Friday, Bahman 10, 23:59 (Announced at Dey 23)
 
-## Assignment Set 13
+## Assignment Set 14 (Optional)
 
 * Develop two deep learning tasks utilizing topics discussed in the course or other advanced topics within the field (up to your choice, but different from previous ones).
 * Write at least a paragraph for each of the tasks regarding (the conclusion of, e.g., comparison of) your experiments.
 
-**Please Note**: Please note: It will be rewarded up to 20 percent of the total assignments' score. Additionally, the tasks must be delivered as your authentic work.
+**Please Note**: It will be rewarded up to 20 percent of the total assignments' score. Additionally, the tasks must be delivered as your authentic work.
 
 <-> Deadline: Tuesday, Bahman 14, 23:59 (Announced at Dey 23)
 
