@@ -244,7 +244,7 @@
 * Develop a variational autoencoder for generating images (e.g., Fashion-MNIST or CIFAR-10 datasets). 
 * Write at least a paragraph regarding (the conclusion of, e.g., comparison of) your experiments. 
 
-**Please Note**: For the third part you may find [these implementations](https://github.com/AntixK/PyTorch-VAE) helpful. Additionally, the tasks must be delivered as your authentic work.
+**Please Note**: For the third part, you may find [these implementations](https://github.com/AntixK/PyTorch-VAE) helpful. Additionally, the tasks must be delivered as your authentic work.
 
 <-> Deadline: Friday, Bahman 10, 23:59 (Announced at Dey 23)
 
@@ -253,7 +253,7 @@
 * Develop two deep learning tasks utilizing topics discussed in the course or other advanced topics within the field (up to your choice, but different from previous ones).
 * Write at least a paragraph for each of the tasks regarding (the conclusion of, e.g., comparison of) your experiments.
 
-**Please Note**: It will be rewarded up to 20 percent of the total assignments' score. Additionally, the tasks must be delivered as your authentic work.
+**Please Note**: It will be rewarded up to 20 percent of the assignments' score. Additionally, the tasks must be delivered as your authentic work.
 
 <-> Deadline: Tuesday, Bahman 14, 23:59 (Announced at Dey 23)
 
