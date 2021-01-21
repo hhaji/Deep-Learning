@@ -199,7 +199,6 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
 
 ### <a name="Online-Softwares"></a>Online Softwares   
-- Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
 - Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
@@ -211,7 +210,9 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
 
-- Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
+- Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)   
+    - Blog: [MolView](https://molview.org/)  is an intuitive, Open-Source web-application to make science and education more awesome! MolView is mainly intended as web-based data visualization platform.
+    - Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
     - [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)  
     - [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html) 
     - [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics)
