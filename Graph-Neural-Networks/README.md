@@ -215,6 +215,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
     - [Ionic Bonding](https://simbucket.com/chemthinkserver/chemthink/index.html?ib)  
     - [Ionic Formulas](https://simbucket.com/chemthinkserver/chemthink/index.html?if)  
     - [Molecular Shapes](https://simbucket.com/chemthinkserver/chemthink/index.html?ms)
+    - [Isotopes](https://www.simbucket.com/chemthinkserver/chemthink/index.html?is)
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
 
