@@ -26,7 +26,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Libraries & Packages](#Libraries) 
     - [Notations](#Notations) 
     - [Online Softwares](#Online-Softwares) 
-    - [An Introduction to Chemistry and Drugs](#Chemistry) 
+    - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
 
 ## <a name="Blogs"></a>Graph Neural Networks    
@@ -205,7 +205,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
 - Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
 
-### <a name="Chemistry"></a>An Introduction to Chemistry and Drugs  
+### <a name="Chemistry"></a>An Introduction to Basic Chemistry and Drugs  
 - Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.  
 - Simulations  by ChemThink  
     - [The Particulate Nature of Matter](https://simbucket.com/chemthinkserver/chemthink/index.html?pn)
