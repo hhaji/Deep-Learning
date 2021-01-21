@@ -207,6 +207,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
 
 ### <a name="Chemistry"></a>An Introduction to Chemistry and Drugs  
+- Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.   
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
 
