@@ -199,7 +199,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
 
 ### <a name="Online-Softwares"></a>Online Softwares   
-- Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) 
+- Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
 - Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
@@ -207,7 +207,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
 
 ### <a name="Chemistry"></a>An Introduction to Chemistry and Drugs  
-- Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by PubChem
+- Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
 
 - Softwares: [Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
@@ -220,7 +220,8 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
-- Blog: [PubChem Dataset](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1) PubChem data is an open chemistry database at the National Institutes of Health (NIH). “Open” means that you can put your scientific data in PubChem and that others may use it.  
+- Blog: [PubChem Dataset](https://pubchemdocs.ncbi.nlm.nih.gov/downloads) is an open chemistry database at the National Institutes of Health (NIH). “Open” means that you can put your scientific data in PubChem and that others may use it.  
+    - Blog: (https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1) Browse PubChem data using a classification of interest, or search for PubChem records annotated with the desired classification/term
 - Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
 - Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 - Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
