@@ -213,13 +213,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Softwares:    
     - Blog: [MolView](https://molview.org/)  is an intuitive, Open-Source web-application to make science and education more awesome! MolView is mainly intended as web-based data visualization platform.
     - Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
-    - [Simulations:](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid)
-          - [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html)  
-          - [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html) 
-          - [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics)
-          - [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes)
-          - [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass)  
-          - [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
+    - [Simulations:](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid) [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html), [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html), [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics), [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes), [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass), [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
