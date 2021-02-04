@@ -196,7 +196,8 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
     - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
 - Blog: [OpenSMILES](http://opensmiles.org/) is a community sponsored open-standards version of the SMILES language for chemistry. OpenSMILES is part of the [Blue Obelisk](https://blueobelisk.github.io/) community. 
-- Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html) 
+- Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)   
+- Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)
 
 ### <a name="Online-Softwares"></a>Online Softwares   
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
@@ -219,7 +220,8 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
 
-- Softwares:    
+- Softwares (Draw a Molecule): 
+    - Blog: [Marvin JS](https://marvinjs-demo.chemaxon.com/latest/demo.html) provides quick and convenient ways to draw and modify standard and advanced chemical structures. It's seamlessly integrated into third-party web-based applications, and runs smoothly on all major browsers. 
     - Blog: [MolView](https://molview.org/)  is an intuitive, Open-Source web-application to make science and education more awesome! MolView is mainly intended as web-based data visualization platform.
     - Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
     - [Simulations:](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid) [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html), [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html), [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics), [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes), [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass), [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
