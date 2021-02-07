@@ -275,13 +275,13 @@
 **Poster or Progress Report**: We strongly recommend students to prepare a poster (concerning the progress) of their projects. However, a brief report can also be submitted. Furthermore, students should also present them in a meeting on Wednesday, Dey 3 at 16:00 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). This meeting is expected to provide an opportunity for students to be familiar with each other's progress on projects as well as sharing ideas. Consequently, students are asked to manage the meeting themselves and the course staff may not attend (However, the meeting will be recorded!). Those who don't prepare a poster should prepare several slides as well!    
 
     Poster/Progress Presentation was held on Thursday, Dey 11 at 16:00! 
-     - Speakers' order will be the same as the registration.
 
 **The Proposal, Poster/Progress, and Final Report's Format and Submission**: The writing and structure of the three documents are important and will be evaluated. The proposal should be at least three paragraphs; The poster should be in a conventional academic form or  a progress report of at least two pages can be submitted; The final report should also be at least four pages. They should be in the academic/publication format. In addition, documents must be in PDF format, which is written either (preferably) with LaTeX in English. You can use available templates; We recommend you to use [NeurIPS Style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). You should upload documents (each document in a folder) as well as codes and data into a repository named exactly "Deep_Learning_F20_Project" (you can rename it once the course ended!). Please enter the title of your project as well as the link to its repository in the following link: [Registration](https://docs.google.com/document/d/1wMK93A3ikwGmQKNKvCK1CXL2c3hgMQ2cr-DzDUU5u14/edit?usp=sharing)  
 
 **Seminar Presentations**: Bahman 12 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please prepare 5 to 10 slides for the presentation. Each student will have 10 minutes to talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
     
-    Deep Learning Projects' Seminar will be held on Tuesday, Bahman 21 at 15:00! 
+    Deep Learning Projects' Seminar will be held on Tuesday, Bahman 21 at 15:00!
+        <-> Speakers' order will be the same as the registration. <->
     
 **Please consult with your mentor for more information!**
 
