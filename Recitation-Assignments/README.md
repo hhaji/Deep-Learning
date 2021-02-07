@@ -281,7 +281,7 @@
 **Seminar Presentations**: Bahman 12 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please prepare 5 to 10 slides for the presentation. Each student will have 10 minutes to talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
     
     Deep Learning Projects' Seminar will be held on Tuesday, Bahman 21 at 15:00!
-        <-> Speakers' order will be the same as the registration. <->
+    * Speakers' order will be the same as the registration.
     
 **Please consult with your mentor for more information!**
 
