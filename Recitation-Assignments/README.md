@@ -15,7 +15,7 @@
 
 **Please Note**: 
 
-* A carbon copy (Cc) of your email communications with TAs must be sent to the this [email address](mailto:hhhaji@yahoo.com).
+* A carbon copy (Cc) of your email communications with TAs must be sent to this [email address](mailto:hhhaji@yahoo.com).
 * Response to emails may take a few days. Please be patient!
 * You can use [Piazza](https://piazza.com/sbu.ac.ir/fall2020/dl_dsc_f20) for questions and discussions on the related topics.
 * Recitation classes and seminars will take place in the [Skype Group](https://join.skype.com/kJ6WepEDrsnt).
@@ -170,7 +170,7 @@
 ## Assignment Set 5
 
 * Read these [images](https://drive.google.com/drive/folders/1N7vFHFJVmmQadbyPUVW1LsOVgsQUNAdA?usp=sharing) and collate them in one tensor
-* Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with dataloader for neural networks
+* Prepare this [data](https://drive.google.com/drive/folders/1N3LD66ysr-msvhoEduVAw5E4emJh20za?usp=sharing) with a dataloader for neural networks
 
 <-> Deadline: Tuesday, Mehr 22, 23:59 (Announced at Mehr 8)
 
@@ -293,11 +293,11 @@
 * After completing all tasks of every assignment set, add related Jupyter notebooks (and/or other files) in a folder in the repository, for instance, assignments-1.ipynb inside Assingment_Set_1 folder, for the first set.
 * Projects should be located at another repository named "Deep_Learning_F20_Project".
 * Please review the [Projects](https://github.com/hhaji/Deep-Learning/tree/master/Projects) for further instructions.
-* Solutions of the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
+* Solutions to the exercises, as well as mathematical notations, could be written in [LaTeX](https://github.com/hhaji/Deep-Learning#latex) (which is recommended), either in Jupyter notebook or PDF. MS Office or any other software could also be used, otherwise, images of your handwriting should be included, which is not recommended! Please acknowledge which one is used.
 
 # Scores
 
-* Please follow the [link](https://docs.google.com/spreadsheets/d/1SW1yOld30DYG7Wl6Ex2Oa6cgBpmGU5KhLrQMFaTG5kg/edit#gid=0) for scores (announded at Bahman 22).
+* Please follow the [link](https://docs.google.com/spreadsheets/d/1SW1yOld30DYG7Wl6Ex2Oa6cgBpmGU5KhLrQMFaTG5kg/edit#gid=0) for scores (announced at Bahman 22).
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, it can be more than 100.
 * **Submission after the deadline will not be accepted!** 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Deep-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
