@@ -280,8 +280,7 @@
 
 **Seminar Presentations**: Bahman 12 within the [Skype Group](https://join.skype.com/kJ6WepEDrsnt). Please prepare 5 to 10 slides for the presentation. Each student will have 10 minutes to talk and 5 minutes to answer questions. Professor, course staff, and possibly other researchers will attend. Therefore, practice to perfectly present your project. Presentations are also considered in the score of the project. The program of the seminar will be announced prior to the event.
     
-    Deep Learning Projects' Seminar will be held on Tuesday, Bahman 21 at 15:00!
-    - Speakers' order will be the same as the registration.
+    Deep Learning Projects' Seminar was held on Tuesday, Bahman 21 at 15:00!
     
 **Please consult with your mentor for more information!**
 
@@ -298,7 +297,7 @@
 
 # Scores
 
-* Scores will be announced at the end of the course. 
+* Please follow the [link](https://docs.google.com/spreadsheets/d/1SW1yOld30DYG7Wl6Ex2Oa6cgBpmGU5KhLrQMFaTG5kg/edit#gid=0) for scores (announded at Bahman 22).
 * Each assignment set is scored from 100 points as well as extra rewards. Therefore, it can be more than 100.
 * **Submission after the deadline will not be accepted!** 
 * Failure to comply with the [Academic Honor Code](https://github.com/hhaji/Deep-Learning#academic-honor-code) will result in the ZERO score in each set and may have additional consequences!
