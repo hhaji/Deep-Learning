@@ -24,7 +24,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - [Molecular Structure Analysis](#MSA) 
     - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
     - [Libraries & Packages](#Libraries) 
-    - [Notations](#Notations) 
+    - [Chemical Notations](#Notations) 
     - [Online Softwares](#Online-Softwares) 
     - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
     - [Datasets of Molecules and Their Properties](#DMTP)   
@@ -157,7 +157,8 @@ Molecular structures have graph structures. By using machine learning and in par
 
 
 - Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
-    - [Codes](https://github.com/deepchem/DeepLearningLifeSciences) 
+    - [Codes](https://github.com/deepchem/DeepLearningLifeSciences)   
+Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gitconnected.com/graph-neural-networks-for-binding-affinity-prediction-f057c495ad15) by Alex Gurbych   
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
 - Blog: [How to Use Machine Learning for Drug Discovery](https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad) by Chanin Nantasenamat   
 - Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
@@ -191,10 +192,11 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator
 
 
-### <a name="Notations"></a>Notations     
+### <a name="Notations"></a>Chemical Notations     
 - Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
 - Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
-    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)  
+    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)    
+- Blog: [Smiles](https://docs.chemaxon.com/display/docs/smiles.md)
 - Blog: [OpenSMILES](http://opensmiles.org/) is a community sponsored open-standards version of the SMILES language for chemistry. OpenSMILES is part of the [Blue Obelisk](https://blueobelisk.github.io/) community. 
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)   
 - Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)
@@ -219,6 +221,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
     - [Isotopes](https://www.simbucket.com/chemthinkserver/chemthink/index.html?is)
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
+- [Ionic Bond Examples](https://examples.yourdictionary.com/ionic-bond-examples.html)   
 
 - Softwares (Draw a Molecule): 
     - Blog: [Marvin JS](https://marvinjs-demo.chemaxon.com/latest/demo.html) provides quick and convenient ways to draw and modify standard and advanced chemical structures. It's seamlessly integrated into third-party web-based applications, and runs smoothly on all major browsers. 
