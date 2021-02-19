@@ -41,6 +41,7 @@ PyTorch-lightning is a recently released library which is a Kera-like ML library
 - Blog: [PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857) by Justus Schock   
 - Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
 - Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash  
+- Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
 
 ## Books
 
