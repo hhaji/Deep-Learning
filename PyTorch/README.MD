@@ -39,7 +39,8 @@ PyTorch-lightning is a recently released library which is a Kera-like ML library
 - Blog: [A Guide to Ignite: An Introduction to Ignite Training Loops](https://svenbecker.github.io/programming/deep%20learning/python/ignite/) by Sven Becker  
 - Blog: [Debugging](https://pytorch-lightning.readthedocs.io/en/latest/debugging.html) via Pytorch Lightning  
 - Blog: [PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857) by Justus Schock   
-- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash
+- Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
+- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash  
 
 ## Books
 
