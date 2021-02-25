@@ -1,8 +1,13 @@
 # PyTorch  
 
-- Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
+## Learn Pytorch Basics
+ 
+ - Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
 matrix containing elements of a single data type. Torch defines nine CPU tensor types and nine GPU tensor types. 
 - Blog: [Autograd: Automatic Differntiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) 
+- Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
+- Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
+- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash 
 - Blog: [Learning PyTorch with Exampls](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) by Justin Johnson. 
 This tutorial introduces the fundamental concepts of PyTorch through self-contained examples.  
 - Blog: [Why PyTorch is the Deep Learning Framework of the Future](https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/) by Dhiraj Kumar  
@@ -12,11 +17,6 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
 - Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
 - Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
 
-## Learn Pytorch Basics
- 
-- Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
-- Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
-- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash 
 
 ## Neural Network
 
@@ -35,6 +35,7 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
  - Blog: [Saving and Loading Your Model to Resume Training in PyTorch](https://medium.com/analytics-vidhya/saving-and-loading-your-model-to-resume-training-in-pytorch-cb687352fa61) by Rachit Jain   
  
 ## Pytorch Lightning & PyTorch Ignite  
+
 PyTorch-lightning is a recently released library which is a Kera-like ML library for PyTorch. Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
 
 - Blog: [Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) by William Falcon  
