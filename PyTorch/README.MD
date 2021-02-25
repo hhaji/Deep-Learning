@@ -12,6 +12,12 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
 - Blog: [How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd) by David MacLeod   
 - Blog: [Building Efficient Custom Datasets in PyTorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f) by Syafiq Kamarul Azman    
 
+## Learn Pytorch Basics
+ 
+- Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
+- Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
+- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash 
+
 ## Neural Network
 
 - Deep Learning via Pytorch by Ayoosh Kathuria  
@@ -39,9 +45,12 @@ PyTorch-lightning is a recently released library which is a Kera-like ML library
 - Blog: [A Guide to Ignite: An Introduction to Ignite Training Loops](https://svenbecker.github.io/programming/deep%20learning/python/ignite/) by Sven Becker  
 - Blog: [Debugging](https://pytorch-lightning.readthedocs.io/en/latest/debugging.html) via Pytorch Lightning  
 - Blog: [PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857) by Justus Schock   
-- Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
-- Blog: [What is PyTorch .detach() method?](https://dev.to/theroyakash/what-is-pytorch-detach-method-15oo) by Theroyakash  
-- Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
+
+
+## Videos
+
+- Blog: [Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
+
 
 ## Books
 
