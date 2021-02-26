@@ -39,6 +39,7 @@ This tutorial introduces the fundamental concepts of PyTorch through self-contai
 PyTorch-lightning is a recently released library which is a Kera-like ML library for PyTorch. Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
 
 - Blog: [Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a) by William Falcon  
+- Blog: [Pytorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/en/latest/)   
 - Blog: [Lightning Blog](https://www.pytorchlightning.ai/blog)
 - Blog: [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](http://taylorliu.com/2019-08-17-pytorch-tips/#pytorch-lightning) by William Falcon   
 - Blog: [From PyTorch to PyTorch Lightning — A Gentle Introduction](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)  by William Falcon   
