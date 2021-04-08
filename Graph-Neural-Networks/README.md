@@ -32,6 +32,12 @@ Graph Neural Networks have received increasing attentions due to their superior 
 ## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
 - Blog: [Deep Learning on Graphs: Successes, Challenges, and Next Steps](https://towardsdatascience.com/deep-learning-on-graphs-successes-challenges-and-next-steps-7d9ec220ba8) by Michael Bronstein   
+- Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
+- Blog: [Graph Convolutional Networks I](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/) by  Xavier Bresson  
+- Blog: [Graph Convolutional Networks II](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-2/) by Xavier Bresson   
+- Blog: [Graph Convolutional Networks III](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-3/) by  Alfredo Canziani  
+- Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
+- Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
 - Blog: [Deep Learning on Graphs (a Tutorial)](https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/) by Gannon  
 - Blog: [Graph Neural Networks and its Variants](https://docs.dgl.ai/en/0.4.x/tutorials/models/)   
 - Blog: [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks) by Yazdotai
@@ -55,14 +61,6 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - Paper: [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf) by 
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 - Paper: [Attention Models in Graphs: A Survey](https://dl.acm.org/doi/10.1145/3363574) by John Boaz Lee, Ryan A Rossi, Sungchul Kim, Nesreen K Ahmed, and Eunyee Koh   
-
-### <a name="GCN"></a>Graph Convolutionl Networks     
-- Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
-- Blog: [Graph Convolutional Networks I](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/) by  Xavier Bresson  
-- Blog: [Graph Convolutional Networks II](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-2/) by Xavier Bresson   
-- Blog: [Graph Convolutional Networks III](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-3/) by  Alfredo Canziani  
-- Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
-- Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
 
 ### <a name="GAE"></a>Graph Auto-Encoders        
 - Blog: [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129) by Fanghao Han  
@@ -216,6 +214,7 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 
 ### <a name="Chemistry"></a>An Introduction to Basic Chemistry and Drugs  
 - Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.  
+- Blog: [Functional Group Names, Properties, and Reactions](https://courses.lumenlearning.com/boundless-chemistry/chapter/functional-group-names-properties-and-reactions/)
 - Simulations  by ChemThink  
     - [The Particulate Nature of Matter](https://simbucket.com/chemthinkserver/chemthink/index.html?pn)
     - [Atomic Structure](https://simbucket.com/chemthinkserver/chemthink/index.html?as)   
@@ -237,10 +236,15 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
     
 ## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
 
+### Chemical Datasets
 - Blog: [PubChem Dataset](https://pubchemdocs.ncbi.nlm.nih.gov/downloads) is an open chemistry database at the National Institutes of Health (NIH). “Open” means that you can put your scientific data in PubChem and that others may use it.  
     - Blog: [Browse PubChem Data](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1) using a classification of interest, or search for PubChem records annotated with the desired classification/term
 - Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
 - Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 - Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
-- Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.   
+- Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.
+
+### Biological Datasets
 - Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
+- Blog: [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
+- Blog: [Drug Repositioning Database (repoDB)](http://apps.chiragjpgroup.org/repoDB/) contains a standard set of drug repositioning successes and failures that can be used to fairly and reproducibly benchmark computational repositioning methods. repoDB data was extracted from DrugCentral and ClinicalTrials.gov.  
