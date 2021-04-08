@@ -209,7 +209,8 @@ Molecular structures have graph structures. By using machine learning and in par
     - [Molecular Shapes](https://simbucket.com/chemthinkserver/chemthink/index.html?ms)
     - [Isotopes](https://www.simbucket.com/chemthinkserver/chemthink/index.html?is)
 - Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)  
-- Blog: [Ionic Bond Examples](https://examples.yourdictionary.com/ionic-bond-examples.html)  
+- Blog: [Ionic Bond Examples](https://examples.yourdictionary.com/ionic-bond-examples.html)   
+- Blog: [A Comprehensive Treatment of Aromaticity in the SMILES Language](https://depth-first.com/articles/2020/02/10/a-comprehensive-treatment-of-aromaticity-in-the-smiles-language/)   
 
 #### Drug
 - Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
