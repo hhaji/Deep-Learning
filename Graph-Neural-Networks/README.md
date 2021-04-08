@@ -22,17 +22,17 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - [Datasets of Graphs](#DG) 
 - [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
-  - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
-  - [Chemical Notations](#Notations) 
-  - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
-        - Chemistry
-        - Drug
-  - [Datasets of Molecules and Their Properties](#DMTP)  
-        - Chemical Datasets
-        - Biological Datasets 
-  - [Libraries & Packages](#Libraries) 
-  - [Online Softwares](#Online-Softwares) 
-  - [Softwares (Draw a Molecule)](#Draw-Molecule) 
+- [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
+- [Chemical Notations](#Notations) 
+- [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
+   - Chemistry
+   - Drug
+- [Datasets of Molecules and Their Properties](#DMTP)  
+   - Chemical Datasets
+   - Biological Datasets 
+- [Libraries & Packages](#Libraries) 
+- [Online Softwares](#Online-Softwares) 
+- [Softwares (Draw a Molecule)](#Draw-Molecule) 
 
 ## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
