@@ -1,9 +1,5 @@
 # Data Handling
-Here we introduce several blogs related to data and data handling and also some resources of datasets. 
-
-## Blogs  
-* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing) by Jeff Leek <br>
-* [ 10 Statistics Tips (and Why You Should Use Them!)](https://docs.google.com/presentation/d/1VZ_TnmyvC98lwTx5ukZm88y2dcg0S1uOIz5V8kwWSYI/edit?usp=sharing) by Jeff Leek <br>
+Here we introduce several blogs related to data and data handling and also some resources of datasets.   
 * [Improve Your Data Literacy Skills and Make the Most of Data](https://www.geckoboard.com/learn/data-literacy/) by Geckoboard Company <br>
   - [Tips for Effective Data Visualization](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) <br>
   - [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/) <br>
@@ -17,6 +13,27 @@ Here we introduce several blogs related to data and data handling and also some 
   [Gerrymandering](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gerrymandering/) | [Sampling Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/sampling-bias/) | [Gambler's Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/gamblers-fallacy/) | [Hawthorne Effect](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/hawthorne-effect/) | [Regression Toward the Mean](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/regression-toward-the-mean/)  
   [Simpson's Paradox](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/simpsons-paradox/) | [McNamara Fallacy](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/mcnamara-fallacy/) | [Overfitting](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/overfitting/) | [Publication Bias](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/publication-bias/) | [Danger of Summary Metrics](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/danger-of-summary-metrics/)
   
+## Dealing with Data 
+* Slide: [Data Preparation](https://web.fe.up.pt/~ec/files_1112/week_03_Data_Preparation.pdf) by João Mendes Moreira and José Luís Borges    
+* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang   
+* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar  
+* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son    
+* Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) 
+by Usman Malik  
+* Blog: [Basics of Feature Selection with Python](https://www.kaggle.com/ar2017/basics-of-feature-selection-with-python) by Andika Rachman  
+* Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka    
+* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html) by Zdravko Markov   
+* Blog: [How to Handle Correlated Features?](https://www.kaggle.com/reisel/how-to-handle-correlated-features) by Reinhard Sellmair  
+* Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
+* Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
+* Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* Blog: [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
+* Blog: [Application of Synthetic Minority Over-sampling Technique (SMOTe) for Imbalanced Datasets](https://medium.com/towards-artificial-intelligence/application-of-synthetic-minority-over-sampling-technique-smote-for-imbalanced-data-sets-509ab55cfdaf) by Navoneel Chakrabarty  
+* Paper: [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) by Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, and W. Philip Kegelmeyer   
+* Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
+* Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
+* [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
+
 
 ## Datasets  
 The following resources may be helpful for those still undecided about their course projects.
@@ -49,9 +66,8 @@ To know more datasets, refer to the following webpage of [KDnuggets](https://www
 - Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 - Blog: [Tox21](https://tripod.nih.gov/tox21/challenge/): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The Tox21 Program (Toxicology in the 21st Century) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
 
-## Datasets of Graphs       
+## Datasets of Graphs
 
-- Blog: [Open Graph Benchmark](https://ogb.stanford.edu/) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs.  
 - Blog: [Network Repository. An Interactive Scientific Network Data Repository:](http://networkrepository.com) The first interactive data and network data repository with real-time visual analytics. Network repository is not only the first interactive repository, but also the largest network repository with thousands of donations in 30+ domains (from biological to social network data). This repository was made by Ryan A. Rossi and Nesreen K. Ahmed.  
 - Blog: [Graph Classification:](https://paperswithcode.com/task/graph-classification/latest) The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.  
 - Blog: [Graph Challenge Data Sets:](https://graphchallenge.mit.edu/data-sets) Amazon is making the Graph Challenge data sets available to the community free of charge as part of the AWS Public Data Sets program. The data is being presented in several file formats, and there are a variety of ways to access it.    
@@ -69,8 +85,8 @@ Shiruipan
   - [Benchmark Dataset for Graph Classification:](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification) This repository contains datasets to quickly test graph classification algorithms, such as Graph Kernels and Graph Neural Networks by Filippo Bianchi.     
   - [GAM:](https://github.com/benedekrozemberczki/GAM) A PyTorch implementation of "Graph Classification Using Structural Attention" (KDD 2018) by Benedek Rozemberczki.
   - [CapsGNN:](https://github.com/benedekrozemberczki/CapsGNN) A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019) by Benedek Rozemberczki.   
-
-### Tools for Creating Graphs  
+  
+ ### Tools for Creating Graphs
 
 - Package: [Networkx:](https://networkx.github.io) a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  
   - [Graph Generators](https://networkx.github.io/documentation/stable/reference/generators.html)  
@@ -79,22 +95,8 @@ Shiruipan
   
 - Package: [Sage:](https://www.sagemath.org) a viable free open source alternative to Magma, Maple, Mathematica and Matlab.
   - [CoCalc:](https://www.sagemath.org/notebook-vs-cloud.html) an [online service](https://cocalc.com/) for running SageMath computations online to avoid your own installation of Sage. CoCalc will allow you to work with multiple persistent worksheets in Sage, IPython, LaTeX, and much, much more!
-  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html)  
-  
-## Dealing with Data  
-* Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html)
-* Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
-* Blog: [Handling Missing Data](http://www.emgo.nl/kc/handling-missing-data/)
-* Blog: [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
-* Blog: [7 Techniques to Handle Imbalanced Data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
-* Blog: [Application of Synthetic Minority Over-sampling Technique (SMOTe) for Imbalanced Datasets](https://medium.com/towards-artificial-intelligence/application-of-synthetic-minority-over-sampling-technique-smote-for-imbalanced-data-sets-509ab55cfdaf) by Navoneel Chakrabarty  
-* Paper: [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) by Nitesh V. Chawla, Kevin W. Bowyer, Lawrence O. Hall, and W. Philip Kegelmeyer   
-* Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
-* Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
-* [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
-* Slide: [Learning with Missing Labels](https://svivek.com/teaching/machine-learning/fall2018/slides/em/missing-labels.pdf) by Vivek Srikumar
-* Slide: [Data Cleaning and Data Preprocessing](https://www.mimuw.edu.pl/~son/datamining/DM/4-preprocess.pdf) by Nguyen Hung Son
-* Slide: [Data Preprocessing](http://www.csun.edu/~twang/595DM/Slides/Week2.pdf) by Taehyung Wang  
+  - [Graph Theory in Sage](http://doc.sagemath.org/html/en/reference/graphs/index.html) 
+
 
 ## Data Science Competition Platforms  
 * [Kaggle](https://www.kaggle.com/datasets)
