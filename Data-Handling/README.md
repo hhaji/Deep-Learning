@@ -21,7 +21,8 @@ Here we introduce several blogs related to data and data handling and also some 
 * Blog: [Applying Wrapper Methods in Python for Feature Selection](https://stackabuse.com/applying-wrapper-methods-in-python-for-feature-selection/) 
 by Usman Malik  
 * Blog: [Basics of Feature Selection with Python](https://www.kaggle.com/ar2017/basics-of-feature-selection-with-python) by Andika Rachman  
-* Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka    
+* Blog: [Exhaustive Feature Selector](http://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) by Sebastian Raschka   
+* Blog: [Need for Feature Engineering in Machine Learning](https://towardsdatascience.com/need-for-feature-engineering-in-machine-learning-897df2ed00e6) by Ashish Bansal    
 * Blog: [Data Preprocessing](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-3.html) by Zdravko Markov   
 * Blog: [How to Handle Correlated Features?](https://www.kaggle.com/reisel/how-to-handle-correlated-features) by Reinhard Sellmair  
 * Blog: [5 Ways To Handle Missing Values In Machine Learning Datasets](https://www.analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/)
@@ -33,7 +34,6 @@ by Usman Malik
 * Blog: [How to Handle Imbalanced Data: An Overview](https://www.datascience.com/blog/imbalanced-data)
 * Blog: [Visualize Missing Data with VIM Package](https://www.datacamp.com/community/tutorials/visualize-data-vim-package)
 * [Ultimate Guide to Handle Big Datasets for Machine Learning Using Dask (in Python)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
-
 
 ## Datasets  
 The following resources may be helpful for those still undecided about their course projects.
