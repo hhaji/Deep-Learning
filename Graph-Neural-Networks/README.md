@@ -58,6 +58,9 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 
 ### <a name="GCN"></a>Graph Convolutionl Networks     
 - Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
+- Blog: [Graph Convolutional Networks I](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/) by  Xavier Bresson  
+- Blog: [Graph Convolutional Networks II](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-2/) by Xavier Bresson   
+- Blog: [Graph Convolutional Networks III](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-3/) by  Alfredo Canziani  
 - Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
 - Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
 
@@ -157,8 +160,9 @@ Molecular structures have graph structures. By using machine learning and in par
 
 
 - Book: [Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837) by Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande  
-    - [Codes](https://github.com/deepchem/DeepLearningLifeSciences)   
-Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gitconnected.com/graph-neural-networks-for-binding-affinity-prediction-f057c495ad15) by Alex Gurbych   
+    - [Codes](https://github.com/deepchem/DeepLearningLifeSciences)  
+- Blog: [Machine Learning for Drug Development (Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI))](https://zitniklab.hms.harvard.edu/drugml/) 
+- Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gitconnected.com/graph-neural-networks-for-binding-affinity-prediction-f057c495ad15) by Alex Gurbych   
 - Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
 - Blog: [How to Use Machine Learning for Drug Discovery](https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad) by Chanin Nantasenamat   
 - Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
@@ -189,7 +193,8 @@ Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gi
 - Package: [Chemprop](https://github.com/chemprop/chemprop)
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
     - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)  
-- Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator
+- Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator  
+- Knowledge Graph: [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG/)   
 
 
 ### <a name="Notations"></a>Chemical Notations     
@@ -199,7 +204,8 @@ Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gi
 - Blog: [Smiles](https://docs.chemaxon.com/display/docs/smiles.md)
 - Blog: [OpenSMILES](http://opensmiles.org/) is a community sponsored open-standards version of the SMILES language for chemistry. OpenSMILES is part of the [Blue Obelisk](https://blueobelisk.github.io/) community. 
 - Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)   
-- Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)
+- Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)  
+- Slide: [Rolling Smarts: You don’t Always Find What You Want, But if You Try Sometimes, You Find What You Need](https://www.nextmovesoftware.com/talks/Sayle_RollingSMARTS_RDKitUGM_202010.pdf) by Roger Sayle and John Mayfield    
 
 ### <a name="Online-Softwares"></a>Online Softwares   
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
@@ -237,3 +243,4 @@ Here are some softwares to calculate molecular descriptors and fingerprints onli
 - Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 - Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
 - Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.   
+- Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
