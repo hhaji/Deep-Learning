@@ -25,11 +25,11 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
     - [Chemical Notations](#Notations) 
     - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
-          * Chemistry
-          * Drug
+     * Chemistry
+     * Drug
     - [Datasets of Molecules and Their Properties](#DMTP)  
-          * Chemical Datasets
-          * Biological Datasets 
+     * Chemical Datasets
+     * Biological Datasets 
     - [Libraries & Packages](#Libraries) 
     - [Online Softwares](#Online-Softwares) 
     - [Softwares (Draw a Molecule)](#Draw-Molecule) 
