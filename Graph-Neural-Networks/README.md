@@ -3,36 +3,36 @@ Graph Neural Networks have received increasing attentions due to their superior 
 
 ### **Index:**
 - [Graph Neural Networks](#Blogs)
-    - [Applications and Limitations of Graph Neural Networks](#ALGNN)
-    - [Video](#Video)
-    - [Survey](#Survey)
-    - [Graph Convolutionl Networks](#GCN)
-    - [Graph Auto-Encoders](#GAE)
-    - [Deep Belief Nets](#DBN)
+  - [Applications and Limitations of Graph Neural Networks](#ALGNN)
+  - [Video](#Video)
+  - [Survey](#Survey)
+  - [Graph Convolutionl Networks](#GCN)
+  - [Graph Auto-Encoders](#GAE)
+  - [Deep Belief Nets](#DBN)
 - [Graph Represetation Learning](#GRL)
 - [Courses](#Courses) 
 - [Books](#Books)
 - [Graph Neural Networks Libraries](#GNNL) 
-    - [Deep Graph Library (DGL)](#DGL) 
-    - [Node Classification](#NC) 
-    - [Graph Classification](#GC) 
-    - [Graph Nets Library](#GNL) 
-    - [More Libraries](#ML) 
-    - [Save & Load Graphs](#SLG) 
+  - [Deep Graph Library (DGL)](#DGL) 
+  - [Node Classification](#NC) 
+  - [Graph Classification](#GC) 
+  - [Graph Nets Library](#GNL) 
+  - [More Libraries](#ML) 
+  - [Save & Load Graphs](#SLG) 
 - [Datasets of Graphs](#DG) 
-    - [Tools for Creating Graphs](#TCG) 
+- [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
-    - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
-    - [Chemical Notations](#Notations) 
-    - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
-     * Chemistry
-     * Drug
-    - [Datasets of Molecules and Their Properties](#DMTP)  
-     * Chemical Datasets
-     * Biological Datasets 
-    - [Libraries & Packages](#Libraries) 
-    - [Online Softwares](#Online-Softwares) 
-    - [Softwares (Draw a Molecule)](#Draw-Molecule) 
+  - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
+  - [Chemical Notations](#Notations) 
+  - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
+        - Chemistry
+        - Drug
+  - [Datasets of Molecules and Their Properties](#DMTP)  
+        - Chemical Datasets
+        - Biological Datasets 
+  - [Libraries & Packages](#Libraries) 
+  - [Online Softwares](#Online-Softwares) 
+  - [Softwares (Draw a Molecule)](#Draw-Molecule) 
 
 ## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
