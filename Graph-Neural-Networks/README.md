@@ -23,11 +23,16 @@ Graph Neural Networks have received increasing attentions due to their superior 
     - [Tools for Creating Graphs](#TCG) 
 - [Molecular Structure Analysis](#MSA) 
     - [Graph Machine Learning and its Application on Molecular Science](#ML-MS)
-    - [Libraries & Packages](#Libraries) 
     - [Chemical Notations](#Notations) 
-    - [Online Softwares](#Online-Softwares) 
     - [An Introduction to Basic Chemistry and Drugs](#Chemistry) 
-    - [Datasets of Molecules and Their Properties](#DMTP)   
+          * Chemistry
+          * Drug
+    - [Datasets of Molecules and Their Properties](#DMTP)  
+          * Chemical Datasets
+          * Biological Datasets 
+    - [Libraries & Packages](#Libraries) 
+    - [Online Softwares](#Online-Softwares) 
+    - [Softwares (Draw a Molecule)](#Draw-Molecule) 
 
 ## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
@@ -178,6 +183,53 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [How to Fight COVID-19 with Machine Learning](https://towardsdatascience.com/fight-covid-19-with-machine-learning-1d1106192d84) by Markus Schmitt  
 - Paper: [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/pdf/1703.00564.pdf) by Zhenqin Wu, Bharath Ramsundar, Evan N. Feinberg, Joseph Gomes, Caleb Geniesse, Aneesh S. Pappu, Karl Leswing, Vijay Pande  
 
+
+### <a name="Notations"></a>Chemical Notations     
+- Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
+- Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
+    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)    
+- Blog: [Smiles](https://docs.chemaxon.com/display/docs/smiles.md)
+- Blog: [OpenSMILES](http://opensmiles.org/) is a community sponsored open-standards version of the SMILES language for chemistry. OpenSMILES is part of the [Blue Obelisk](https://blueobelisk.github.io/) community. 
+- Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)   
+- Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)  
+- Slide: [Rolling Smarts: You don’t Always Find What You Want, But if You Try Sometimes, You Find What You Need](https://www.nextmovesoftware.com/talks/Sayle_RollingSMARTS_RDKitUGM_202010.pdf) by Roger Sayle and John Mayfield    
+
+### <a name="Chemistry"></a>An Introduction to Basic Chemistry and Drugs  
+
+#### Chemistry
+- Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.  
+- Blog: [Functional Group Names, Properties, and Reactions](https://courses.lumenlearning.com/boundless-chemistry/chapter/functional-group-names-properties-and-reactions/)
+- Simulations  by ChemThink  
+    - [The Particulate Nature of Matter](https://simbucket.com/chemthinkserver/chemthink/index.html?pn)
+    - [Atomic Structure](https://simbucket.com/chemthinkserver/chemthink/index.html?as)   
+    - [Covalent Bonding Tutorial](https://pbslm-contrib.s3.amazonaws.com/WGBH/arct15/SimBucket/Simulations/chemthink-covalentbonding/content/index.html)   
+    - [Ions](https://simbucket.com/chemthinkserver/chemthink/index.html?io)  
+    - [Ionic Bonding](https://simbucket.com/chemthinkserver/chemthink/index.html?ib)  
+    - [Ionic Formulas](https://simbucket.com/chemthinkserver/chemthink/index.html?if)  
+    - [Molecular Shapes](https://simbucket.com/chemthinkserver/chemthink/index.html?ms)
+    - [Isotopes](https://www.simbucket.com/chemthinkserver/chemthink/index.html?is)
+- Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)  
+- Blog: [Ionic Bond Examples](https://examples.yourdictionary.com/ionic-bond-examples.html)  
+
+#### Drug
+- Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
+- Blog: [Drug Lipophilicity and Absorption: The Continuous Challenge in Drug Discovery](https://emerypharma.com/blog/drug-lipophilicity-and-absorption-a-continuous-challenge-toward-the-goal-of-drug-discovery/) by Emery Pharma     
+    
+## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
+
+### Chemical Datasets
+- Blog: [PubChem Dataset](https://pubchemdocs.ncbi.nlm.nih.gov/downloads) is an open chemistry database at the National Institutes of Health (NIH). “Open” means that you can put your scientific data in PubChem and that others may use it.  
+    - Blog: [Browse PubChem Data](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1) using a classification of interest, or search for PubChem records annotated with the desired classification/term
+- Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
+- Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
+- Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
+- Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.
+
+### Biological Datasets
+- Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
+- Blog: [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
+- Blog: [Drug Repositioning Database (repoDB)](http://apps.chiragjpgroup.org/repoDB/) contains a standard set of drug repositioning successes and failures that can be used to fairly and reproducibly benchmark computational repositioning methods. repoDB data was extracted from DrugCentral and ClinicalTrials.gov.
+
 ### <a name="Libraries"></a>Libraries & Packages  
 - Package: RDKit is an open source toolkit for cheminformatics    
     - PDF: [RDKit Documentation](https://buildmedia.readthedocs.org/media/pdf/rdkit/latest/rdkit.pdf)   
@@ -194,57 +246,15 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator  
 - Knowledge Graph: [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG/)   
 
-
-### <a name="Notations"></a>Chemical Notations     
-- Blog: [SMILES Tutorial](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html) Simplified Molecular Input Line Entry System (SMILES) is a chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer. SMILES is an easily learned and flexible notation. The SMILES notation requires that you learn a handful of rules.
-- Blog: [SMILES - A Simplified Chemical Language](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)  
-    - [Try the JSME](https://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html)    
-- Blog: [Smiles](https://docs.chemaxon.com/display/docs/smiles.md)
-- Blog: [OpenSMILES](http://opensmiles.org/) is a community sponsored open-standards version of the SMILES language for chemistry. OpenSMILES is part of the [Blue Obelisk](https://blueobelisk.github.io/) community. 
-- Blog: [SMARTS - A Language for Describing Molecular Patterns](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)   
-- Blog: [SMIRKS - A Reaction Transform Language](https://www.daylight.com/dayhtml/doc/theory/theory.smirks.html)  
-- Slide: [Rolling Smarts: You don’t Always Find What You Want, But if You Try Sometimes, You Find What You Need](https://www.nextmovesoftware.com/talks/Sayle_RollingSMARTS_RDKitUGM_202010.pdf) by Roger Sayle and John Mayfield    
-
 ### <a name="Online-Softwares"></a>Online Softwares   
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
 - Blog: [JSME Molecule Editor:](https://peter-ertl.com/jsme/) JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. JSME supports drawing and editing of molecules. JSME was created  by Peter Ertl and Bruno Bienfait.  
 Here are some softwares to calculate molecular descriptors and fingerprints online:   
 - Blog: [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) 
-- Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto  
+- Blog: [RDkit Descriptors Generator](http://www.pirika.com/Program/2019/RDKit18.html) by Hiroshi Yamamoto   
 
-### <a name="Chemistry"></a>An Introduction to Basic Chemistry and Drugs  
-- Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.  
-- Blog: [Functional Group Names, Properties, and Reactions](https://courses.lumenlearning.com/boundless-chemistry/chapter/functional-group-names-properties-and-reactions/)
-- Simulations  by ChemThink  
-    - [The Particulate Nature of Matter](https://simbucket.com/chemthinkserver/chemthink/index.html?pn)
-    - [Atomic Structure](https://simbucket.com/chemthinkserver/chemthink/index.html?as)   
-    - [Covalent Bonding Tutorial](https://pbslm-contrib.s3.amazonaws.com/WGBH/arct15/SimBucket/Simulations/chemthink-covalentbonding/content/index.html)   
-    - [Ions](https://simbucket.com/chemthinkserver/chemthink/index.html?io)  
-    - [Ionic Bonding](https://simbucket.com/chemthinkserver/chemthink/index.html?ib)  
-    - [Ionic Formulas](https://simbucket.com/chemthinkserver/chemthink/index.html?if)  
-    - [Molecular Shapes](https://simbucket.com/chemthinkserver/chemthink/index.html?ms)
-    - [Isotopes](https://www.simbucket.com/chemthinkserver/chemthink/index.html?is)
-- Blog: [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
-- Blog: [Chiral Drugs](https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs)   
-- [Ionic Bond Examples](https://examples.yourdictionary.com/ionic-bond-examples.html)   
-
-- Softwares (Draw a Molecule): 
-    - Blog: [Marvin JS](https://marvinjs-demo.chemaxon.com/latest/demo.html) provides quick and convenient ways to draw and modify standard and advanced chemical structures. It's seamlessly integrated into third-party web-based applications, and runs smoothly on all major browsers. 
-    - Blog: [MolView](https://molview.org/)  is an intuitive, Open-Source web-application to make science and education more awesome! MolView is mainly intended as web-based data visualization platform.
-    - Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
-    - [Simulations:](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid) [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html), [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html), [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics), [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes), [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass), [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)   
-    
-## <a name="DMTP"></a>Datasets of Molecules and Their Properties  
-
-### Chemical Datasets
-- Blog: [PubChem Dataset](https://pubchemdocs.ncbi.nlm.nih.gov/downloads) is an open chemistry database at the National Institutes of Health (NIH). “Open” means that you can put your scientific data in PubChem and that others may use it.  
-    - Blog: [Browse PubChem Data](https://pubchem.ncbi.nlm.nih.gov/classification/#hid=1) using a classification of interest, or search for PubChem records annotated with the desired classification/term
-- Blog: [MoleculeNet](http://moleculenet.ai/) is a benchmark specially designed for testing machine learning methods of molecular properties. As we aim to facilitate the development of molecular machine learning method, this work curates a number of dataset collections, creates a suite of software that implements many known featurizations and previously proposed algorithms. All methods and datasets are integrated as parts of the open source **DeepChem** package(MIT license).  
-- Blog: [ChEMBL](https://www.ebi.ac.uk/chembl/) is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
-- Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
-- Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.
-
-### Biological Datasets
-- Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
-- Blog: [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
-- Blog: [Drug Repositioning Database (repoDB)](http://apps.chiragjpgroup.org/repoDB/) contains a standard set of drug repositioning successes and failures that can be used to fairly and reproducibly benchmark computational repositioning methods. repoDB data was extracted from DrugCentral and ClinicalTrials.gov.  
+### <a name="Draw-Molecule"></a>Softwares (Draw a Molecule)   
+ - Blog: [Marvin JS](https://marvinjs-demo.chemaxon.com/latest/demo.html) provides quick and convenient ways to draw and modify standard and advanced chemical structures. It's seamlessly integrated into third-party web-based applications, and runs smoothly on all major browsers. 
+ - Blog: [MolView](https://molview.org/)  is an intuitive, Open-Source web-application to make science and education more awesome! MolView is mainly intended as web-based data visualization platform.
+ - Blog: [Draw Structue](https://pubchem.ncbi.nlm.nih.gov/#draw=true) by [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+ - [Simulations:](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&sort=alpha&view=grid) [Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html), [Build a Molecule](https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_en.html), [Molecule Shapes: Basics](https://phet.colorado.edu/en/simulation/molecule-shapes-basics), [Molecule Shapes](https://phet.colorado.edu/en/simulation/molecule-shapes), [Isotopes and Atomic Mass](https://phet.colorado.edu/en/simulation/isotopes-and-atomic-mass), [Molecule Polarity](https://phet.colorado.edu/en/simulation/molecule-polarity)    
