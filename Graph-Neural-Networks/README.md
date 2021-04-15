@@ -232,6 +232,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
 - Blog: [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 - Blog: [Drug Repositioning Database (repoDB)](http://apps.chiragjpgroup.org/repoDB/) contains a standard set of drug repositioning successes and failures that can be used to fairly and reproducibly benchmark computational repositioning methods. repoDB data was extracted from DrugCentral and ClinicalTrials.gov.
+- Blog: [STRING (Protein-Protein Interaction Networks)](https://string-db.org/) In molecular biology, STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a biological database and web resource of known and predicted protein–protein interactions.
 
 ### <a name="Libraries"></a>Libraries & Packages  
 - Package: RDKit is an open source toolkit for cheminformatics    
@@ -247,7 +248,8 @@ Molecular structures have graph structures. By using machine learning and in par
 - Package: [DGL-LifeSci](https://lifesci.dgl.ai/index.html) is a python package for applying graph neural networks to various tasks in chemistry and biology, on top of PyTorch and DGL.  
     - Code: [Property Prediction](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/moleculenet)  
 - Package: [Mordred Descriptor:](https://github.com/mordred-descriptor/mordred) a molecular descriptor calculator  
-- Knowledge Graph: [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG/)   
+- Knowledge Graph: [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG/) 
+- Platform: [Cytoscape](https://cytoscape.org/)  is an open source bioinformatics software platform for visualizing molecular interaction networks and integrating with gene expression profiles and other state data.    
 
 ### <a name="Online-Softwares"></a>Online Softwares   
 - Blog: [Chemprop — Machine Learning for Molecular Property Prediction](http://chemprop.csail.mit.edu) This website can be used to predict molecular properties using a Message Passing Neural Network (MPNN).
