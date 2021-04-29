@@ -669,10 +669,13 @@ Required Reading:
 
 * Slide: [Attention Mechanisms](https://andre-martins.github.io/docs/dsl2020/attention-mechanisms.pdf) by Marcos V. Treviso   
 * Book: [Dive into Deep Learning (Chapter 10)](http://d2l.ai/chapter_attention-mechanisms/) by Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
-    - [Attention Cues](http://d2l.ai/chapter_attention-mechanisms/attention-cues.html#attention-cues-in-biology) 
-    - [Attention Scoring Functions](http://d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html) 
-    - [Multi-Head Attention](http://d2l.ai/chapter_attention-mechanisms/multihead-attention.html) 
-    - [Transformer](http://d2l.ai/chapter_attention-mechanisms/transformer.html)  
+    - [10.1. Attention Cues](http://d2l.ai/chapter_attention-mechanisms/attention-cues.html#attention-cues-in-biology) 
+    - [10.2. Attention Pooling: Nadaraya-Watson Kernel Regression](http://d2l.ai/chapter_attention-mechanisms/nadaraya-watson.html)  
+    - [10.3. Attention Scoring Functions](http://d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html) 
+    - [10.4. Bahdanau Attention](http://d2l.ai/chapter_attention-mechanisms/bahdanau-attention.html) 
+    - [10.5. Multi-Head Attention](http://d2l.ai/chapter_attention-mechanisms/multihead-attention.html) 
+    - [10.6. Self-Attention and Positional Encoding](http://d2l.ai/chapter_attention-mechanisms/self-attention-and-positional-encoding.html) 
+    - [10.7. Transformer](http://d2l.ai/chapter_attention-mechanisms/transformer.html)  
 
 ```
 Suggested Reading:
