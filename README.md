@@ -50,6 +50,7 @@
   16. Lecture 16: [Autoencoders](#Autoencoders)
   17. Lecture 17: [Generative Adversarial Networks](#GAN)  
   18. Lecture 18: [Graph Neural Networks](#GNN)
+  19. Lecture 19: [Transformers](#TRA)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
   - [Recitation and Assignments](#MTA)  
@@ -658,6 +659,25 @@ Additional Reading:
 * GitHub: [Graph Neural Networks](https://github.com/hhaji/Deep-Learning/tree/master/Graph-Neural-Networks)   
 * **Extra Slides:**  
     - Slide: [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu and Tengfei Ma. This is a perfect slide about graph neural networks. 
+
+
+19. ### <a name="GNN"></a> Attention Mechanisms and Transformers(1 Session)
+
+```
+Required Reading:
+```
+
+* Slide: [Attention Mechanisms](https://andre-martins.github.io/docs/dsl2020/attention-mechanisms.pdf) by Marcos V. Treviso   
+
+```
+Suggested Reading:
+```
+
+* Blog: [Transformers From Scratch](http://peterbloem.nl/blog/transformers) by Peter Bloem   
+    - [Video](https://www.youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
+* Blog: [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa) by Chaitanya K. Joshi    
+* Blog: [How Transformers work in deep learning and NLP: an Intuitive Introduction](https://theaisummer.com/transformer/) by Nikolas Adaloglou   
+* Blog: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar     
 
     
 ### <a name="ANAS"></a>Additional Resources:    
