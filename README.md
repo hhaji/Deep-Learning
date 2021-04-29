@@ -50,7 +50,7 @@
   16. Lecture 16: [Autoencoders](#Autoencoders)
   17. Lecture 17: [Generative Adversarial Networks](#GAN)  
   18. Lecture 18: [Graph Neural Networks](#GNN)
-  19. Lecture 19: [Transformers](#TRA)
+  19. Lecture 19: [Atention Mechanisms and Transformers](#TRA)
 - [Additional Resources](#ANAS)
 - [Class Time and Location](#Class-Time-and-Location)
   - [Recitation and Assignments](#MTA)  
@@ -668,6 +668,8 @@ Required Reading:
 ```
 
 * Slide: [Attention Mechanisms](https://andre-martins.github.io/docs/dsl2020/attention-mechanisms.pdf) by Marcos V. Treviso   
+* Blog: [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) by Raimi Karim  
+
 
 ```
 Suggested Reading:
