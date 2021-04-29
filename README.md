@@ -661,7 +661,7 @@ Additional Reading:
     - Slide: [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) by Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu and Tengfei Ma. This is a perfect slide about graph neural networks. 
 
 
-19. ### <a name="GNN"></a> Attention Mechanisms and Transformers(1 Session)
+19. ### <a name="TRA"></a> Attention Mechanisms and Transformers(1 Session)
 
 ```
 Required Reading:
