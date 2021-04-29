@@ -668,8 +668,11 @@ Required Reading:
 ```
 
 * Slide: [Attention Mechanisms](https://andre-martins.github.io/docs/dsl2020/attention-mechanisms.pdf) by Marcos V. Treviso   
-* Blog: [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) by Raimi Karim  
-
+* Book: [Dive into Deep Learning (Chapter 10)](http://d2l.ai/chapter_attention-mechanisms/) by Mag Gardner, Max Drummy, Joanne Quinn, Joanne McEachen, and Michael Fullan   
+    - [Attention Cues](http://d2l.ai/chapter_attention-mechanisms/attention-cues.html#attention-cues-in-biology) 
+    - [Attention Scoring Functions](http://d2l.ai/chapter_attention-mechanisms/attention-scoring-functions.html) 
+    - [Multi-Head Attention](http://d2l.ai/chapter_attention-mechanisms/multihead-attention.html) 
+    - [Transformer](http://d2l.ai/chapter_attention-mechanisms/transformer.html)  
 
 ```
 Suggested Reading:
@@ -680,6 +683,13 @@ Suggested Reading:
 * Blog: [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa) by Chaitanya K. Joshi    
 * Blog: [How Transformers work in deep learning and NLP: an Intuitive Introduction](https://theaisummer.com/transformer/) by Nikolas Adaloglou   
 * Blog: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar     
+
+
+```
+Additional Reading:
+```  
+
+* Blog: [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a) by Raimi Karim  
 
     
 ### <a name="ANAS"></a>Additional Resources:    
