@@ -681,6 +681,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+* Blog: [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/) by Amirhossein Kazemnejad   
 * Blog: [Transformers From Scratch](http://peterbloem.nl/blog/transformers) by Peter Bloem   
     - [Video](https://www.youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
 * Blog: [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa) by Chaitanya K. Joshi    
