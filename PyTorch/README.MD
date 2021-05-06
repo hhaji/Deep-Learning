@@ -4,6 +4,7 @@
  
  - Blog: [Torch Tensors & Types:](https://pytorch.org/docs/stable/tensors.html) A torch.Tensor is a multi-dimensional 
 matrix containing elements of a single data type. Torch defines nine CPU tensor types and nine GPU tensor types. 
+- Blog: [PyTorch - Basic Operations](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/) by Jonathan Hui   
 - Blog: [Autograd: Automatic Differntiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html) 
 - Blog: [Creating PyTorch Tensors - Best Options](https://deeplizard.com/learn/video/AglLTlms7HU)    
 - Blog: [Compare Tensor Copy Operations Such as clone, detach, and copy_](https://www.programmersought.com/article/78494973057/)   
