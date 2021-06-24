@@ -199,6 +199,7 @@ Molecular structures have graph structures. By using machine learning and in par
 #### Chemistry
 - Blog: [Chemistry Library](https://www.khanacademy.org/science/chemistry)  provides informations about the following subjects: Atoms, compounds, and ions, Molecular composition, Mass spectrometry, Chemical reactions and stoichiometry, Electronic structure of atoms, Periodic table, Chemical bonds, Gases and kinetic molecular theory, States of matter and intermolecular forces, Chemical equilibrium, Acids and bases, Buffers, titrations, and solubility equilibria, Thermodynamics, Redox reactions and electrochemistry, Kinetics, Alkanes, cycloalkanes, and functional groups.  
 - Blog: [Functional Group Names, Properties, and Reactions](https://courses.lumenlearning.com/boundless-chemistry/chapter/functional-group-names-properties-and-reactions/)
+- Talk: [Encyclopaedia of Functional Groups](https://cisrg.shef.ac.uk/shef2019/talks/Ertl.pdf) by Peter Ertl  
 - Simulations  by ChemThink  
     - [The Particulate Nature of Matter](https://simbucket.com/chemthinkserver/chemthink/index.html?pn)
     - [Atomic Structure](https://simbucket.com/chemthinkserver/chemthink/index.html?as)   
