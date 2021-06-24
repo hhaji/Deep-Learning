@@ -230,7 +230,12 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
 - Blog: [ZINC15:](http://zinc15.docking.org/) a free database of commercially-available compounds for virtual screening. ZINC contains over 230 million purchasable compounds in ready-to-dock, 3D formats. ZINC also contains over 750 million purchasable compounds you can search for analogs in under a minute.  
 
-### Biological Datasets
+### Biological Datasets  
+- Blog: [PhID](http://phid.ditad.org/)  contains six different types of entities: drugs(chemicals), target(proteins), diseases, genes, side-effects, and pathways, which integreted from 14 public resources.  
+- Blog: [NCATS Inxight: Drugs](https://drugs.ncats.io/) The National Center for Advancing Translational Sciences (NCATS) has developed Inxight: Drugs as a comprehensive portal for drug development information. NCATS Inxight: Drugs contains information on ingredients in medicinal products.    
+- Blog: [Therapeutic Target Database (TTD)](http://db.idrblab.net/ttd/) A database to provide information about the known and explpred therapeutic protein and nucleic acid targets,the targeted disease, pathway information.  
+- [Drug Target Commons (DTC)](https://drugtargetcommons.fimm.fi/) is a crowd-sourcing platform to improve the consensus and use of drug-target interactions. The end users can search, view and download bioactivity data using various compound, target and publications identifiers. Expert users may also submit suggestions to edit and upload new bioactivity data, as well as participate in the assay annotation and data curation processes.   
+- 
 - Blog: [Therapeutics Data Commons (Machine Learning Datasets and Tasks for Therapeutics)](https://tdcommons.ai/)   
 - Blog: [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 - Blog: [Drug Repositioning Database (repoDB)](http://apps.chiragjpgroup.org/repoDB/) contains a standard set of drug repositioning successes and failures that can be used to fairly and reproducibly benchmark computational repositioning methods. repoDB data was extracted from DrugCentral and ClinicalTrials.gov.
