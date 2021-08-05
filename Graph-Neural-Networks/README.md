@@ -166,7 +166,8 @@ Molecular structures have graph structures. By using machine learning and in par
     - [Codes](https://github.com/deepchem/DeepLearningLifeSciences)  
 - Blog: [Machine Learning for Drug Development (Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI))](https://zitniklab.hms.harvard.edu/drugml/) 
 - Blog: [Graph Neural Networks for Binding Affinity Prediction](https://levelup.gitconnected.com/graph-neural-networks-for-binding-affinity-prediction-f057c495ad15) by Alex Gurbych   
-- Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda    
+- Blog: [Generating Molecules with the Help of Recurrent Neural Networks](https://towardsdatascience.com/generating-molecules-with-the-help-of-recurrent-neural-networks-c3fe23bd0de2) by Seyone Chithrananda   
+- Blog: [Graph Convolutional Neural Networks to Analyze Complex Carbohydrates (Using PyTorch Geometric to Work With Biological Data)](https://towardsdatascience.com/graph-convolutional-neural-networks-to-analyze-complex-carbohydrates-91f6bae297de) by Daniel Bojar  
 - Blog: [How to Use Machine Learning for Drug Discovery](https://towardsdatascience.com/how-to-use-machine-learning-for-drug-discovery-1ccb5fdf81ad) by Chanin Nantasenamat   
 - Blog: [Tutorial ML In Chemistry Research. RDkit & mol2vec](https://www.kaggle.com/vladislavkisin/tutorial-ml-in-chemistry-research-rdkit-mol2vec/data) by Vlad Kisin  
 - Blog: [Papers in Drug Discovery](https://paperswithcode.com/task/drug-discovery)  
@@ -229,6 +230,7 @@ Molecular structures have graph structures. By using machine learning and in par
 - Blog: [Open Data Repositories by the Blue Obelisk](https://blueobelisk.github.io/opendata.html) Open Data allows access to large data bases. A good example in chemoinformatics is the NMRShiftDB: the spectra and structures in this database can be downloaded for free, and you have the right to redistribute them.  
 - Blog: [Tox21](http://bioinf.jku.at/research/DeepTox/tox21.html): The 2014 Tox21 data challenge was designed to help scientists understand the potential of the chemicals and compounds being tested through the Toxicology in the 21st Century initiative to disrupt biological pathways in ways that may result in toxic effects. The [Tox21 Program (Toxicology in the 21st Century)](https://tripod.nih.gov/tox21/challenge/data.jsp) is an ongoing collaboration among federal agencies to characterize the potential toxicity of chemicals using cells and isolated molecular targets instead of laboratory animals.  
 - Blog: [ZINC15:](http://zinc15.docking.org/) a free database of commercially-available compounds for virtual screening. ZINC contains over 230 million purchasable compounds in ready-to-dock, 3D formats. ZINC also contains over 750 million purchasable compounds you can search for analogs in under a minute.  
+- Blog: [Open Catalyst Project](https://opencatalystproject.org/index.html)  is a collaborative research effort between Facebook AI Research (FAIR) and Carnegie Mellon University’s (CMU) Department of Chemical Engineering. The aim is to use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.  
 
 ### Biological Datasets  
 - Blog: [PhID](http://phid.ditad.org/)  contains six different types of entities: drugs(chemicals), target(proteins), diseases, genes, side-effects, and pathways, which integreted from 14 public resources.  
