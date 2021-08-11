@@ -43,6 +43,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
 - Blog: [Graph Convolutional Networks III](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-3/) by  Alfredo Canziani  
 - Blog: [Emotion Recognition Using Graph Convolutional Networks](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e) by Kevin Shen    
 - Blog & NoteBook: [Graph Convolutional Network](https://docs.dgl.ai/en/0.4.x/tutorials/models/1_gnn/1_gcn.html) by Qi Huang, Minjie Wang, Yu Gai, Quan Gan, and Zheng Zhang  
+- Blog: [An Attempt at Demystifying Graph Deep Learning](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/) by Eric Ma   
 - Blog: [Deep Learning on Graphs (a Tutorial)](https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/) by Gannon  
 - Blog: [Graph Neural Networks and its Variants](https://docs.dgl.ai/en/0.4.x/tutorials/models/)   
 - Blog: [Graph Neural Networks and Recommendations](https://github.com/yazdotai/graph-networks) by Yazdotai
