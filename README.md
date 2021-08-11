@@ -354,6 +354,8 @@ Suggested Reading:
    * Book: [Dataset Shift in Machine Learning](https://www.amazon.com/Dataset-Machine-Learning-Information-Processing/dp/0262170051) by by Joaquin Quinonero-Candela, Masashi Sugiyama, Anton Schwaighofer, and Neil D. Lawrence  
    * Blog: [Stay Hungry, Stay Foolish:](https://www.adityaagrawal.net/blog/) This interesting blog contains the computation of back propagation of different layers of deep learning prepared by Aditya Agrawal    
    * Paper: [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) by Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, and Yoshua Bengio   
+  * Paper: [Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization](https://arxiv.org/pdf/1603.06560.pdf) by Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, and Ameet Talwalkar  
+
    
 ```
 Additional Reading:
@@ -367,6 +369,8 @@ Additional Reading:
    * Blog: [Neural Network Optimization](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0) by Matthew Stewart  
    * Paper: [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/pdf/1801.05134.pdf) by Xiang Li, Shuo Chen, Xiaolin Hu, and Jian Yang   
    * Blog: [Restricted Boltzmann Machine, a Complete Analysis. Part 3: Contrastive Divergence Algorithm](https://medium.com/datatype/restricted-boltzmann-machine-a-complete-analysis-part-3-contrastive-divergence-algorithm-3d06bbebb10c) by Nguyễn Văn Lĩnh  
+   * Blog: [A (Slightly) Better Budget Allocation for Hyperband](https://medium.com/data-from-the-trenches/a-slightly-better-budget-allocation-for-hyperband-bbd45af14481) by Alexandre Abraham   
+   * Blog: [Massively Parallel Hyperparameter Optimization](https://blog.ml.cmu.edu/2018/12/12/massively-parallel-hyperparameter-optimization/) by Liam Li  
 
    * **Extra Slides:**  
        - Slide: [Optimization for Training Deep Models (Lecture 4)](http://wavelab.uwaterloo.ca/wp-content/uploads/2017/04/Lecture-4-1.pdf) by Ali Harakeh  
@@ -543,6 +547,7 @@ Required Reading:
 Suggested Reading:
 ```
   * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+  * Blog: [Efficient Hyperparameter Optimization with Optuna Framework](https://broutonlab.com/blog/efficient-hyperparameter-optimization-with-optuna-framework) by Brotoun Lab   
   
 ```
 Additional Resources:
