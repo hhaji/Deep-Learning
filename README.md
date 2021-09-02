@@ -45,7 +45,7 @@
   11. Lecture 11: [Sequence Modeling: Recurrent and Recursive Networks](#SMRARN)
   12. Lecture 12: [Toolkit Lab 6: Transfer Learning and Other Tricks](#Part-6) 
   13. Lecture 13: [Practical Methodology](#Practical-Methodology)  
-  14. Lecture 14: [Toolkit Lab 7: Optuna: Automatic Hyperparameter Optimization Software](#Part-7) 
+  14. Lecture 14: [Toolkit Lab 7: Optimization Software (Ray Tune or Optuna)](#Part-7) 
   15. Lecture 15: [Applications](#Applications) 
   16. Lecture 16: [Autoencoders](#Autoencoders)
   17. Lecture 17: [Generative Adversarial Networks](#GAN)  
@@ -533,26 +533,35 @@ Additional Reading:
       * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
       * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
 
-14. ### <a name="Part-7"></a>Toolkit Lab 7: [Optuna: Automatic Hyperparameter Optimization Software](https://optuna.org/) (1 Session)   
-Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning.  
+14. ### <a name="Part-7"></a> Toolkit Lab 7: Optimization Software ([Ray Tune](https://docs.ray.io/en/latest/index.html) or [Optuna](https://optuna.org/)) (1 Session)   
 
 ```
 Required Reading:
 ```
-  
-  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
-  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+
+  **Ray** provides a simple, universal API for building distributed applications:  
+  * Blog: [Key Concepts](https://docs.ray.io/en/latest/tune/key-concepts.html)
+  * Code: [A Basic Tune Tutorial](https://docs.ray.io/en/latest/tune/tutorials/tune-tutorial.html)
 
 ```
 Suggested Reading:
 ```
-  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
-  * Blog: [Efficient Hyperparameter Optimization with Optuna Framework](https://broutonlab.com/blog/efficient-hyperparameter-optimization-with-optuna-framework) by Brotoun Lab   
-  
+
+  * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
+  * Blog: [Population Based Bandits: Provably Efficient Online Hyperparameter Optimization](https://www.anyscale.com/blog/population-based-bandits) by Jack Parker-Holder and Amog Kamsetty    
+  * Blog: [Population Based Training of Neural Networks](https://deepmind.com/blog/article/population-based-training-neural-networks) by  by Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando and  Koray Kavukcuoglu.  
+  * Code: [Guide to Population Based Training (PBT)](https://docs.ray.io/en/latest/tune/tutorials/tune-advanced-tutorial.html)
+
+
 ```
 Additional Resources:
 ```
 
+  **Optuna** is an automatic hyperparameter optimization software framework, particularly designed for machine learning:  
+  * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
+  * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
+  * Blog: [Tutorial](https://optuna.readthedocs.io/en/latest/tutorial/index.html)
+  * Blog: [Efficient Hyperparameter Optimization with Optuna Framework](https://broutonlab.com/blog/efficient-hyperparameter-optimization-with-optuna-framework) by Brotoun Lab   
   * Blog: [Announcing Optuna 2.0](https://medium.com/optuna/optuna-v2-3165e3f1fc2) by Hiroyuki Vincent Yamazaki   
     
 15. ### <a name="Applications"></a>Applications (1 Session)
