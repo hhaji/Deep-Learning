@@ -547,6 +547,8 @@ Required Reading:
 Suggested Reading:
 ```
 
+  * Blog: [Tips for first-time users](https://docs.ray.io/en/latest/auto_examples/tips-for-first-time.html)  
+  * Blog: [Simple Parallel Model Selection](https://docs.ray.io/en/latest/auto_examples/plot_hyperparameter.html)  
   * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
   * Blog: [Population Based Bandits: Provably Efficient Online Hyperparameter Optimization](https://www.anyscale.com/blog/population-based-bandits) by Jack Parker-Holder and Amog Kamsetty    
   * Blog: [Population Based Training of Neural Networks](https://deepmind.com/blog/article/population-based-training-neural-networks) by  by Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando and  Koray Kavukcuoglu.  
