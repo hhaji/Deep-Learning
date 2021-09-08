@@ -552,6 +552,7 @@ Suggested Reading:
   * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
   
   * **Algorithms:**
+  * Blog: [Tutorial #8: Bayesian optimization](https://www.borealisai.com/en/blog/tutorial-8-bayesian-optimization/) by M.O. Ahmed and S. Prince   
   * Blog: [Hyper-parameter Optimization Algorithms: a Short Review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel   
   * Blog: [Band and BOHB: Understanding State of the Art Hyperparameter Optimization Algorithms](https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms) by MJ Bahmani  
   * Blog: [A (Slightly) Better Budget Allocation for Hyperband](https://medium.com/data-from-the-trenches/a-slightly-better-budget-allocation-for-hyperband-bbd45af14481) by Alexandre Abraham   
