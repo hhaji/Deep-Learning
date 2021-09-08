@@ -552,7 +552,11 @@ Suggested Reading:
   * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
   
   * **Algorithms:**
+  * Blog: [Hyper-parameter Optimization Algorithms: a Short Review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903) by Aloïs Bissuel   
   * Blog: [Band and BOHB: Understanding State of the Art Hyperparameter Optimization Algorithms](https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms) by MJ Bahmani  
+  * Blog: [A (Slightly) Better Budget Allocation for Hyperband](https://medium.com/data-from-the-trenches/a-slightly-better-budget-allocation-for-hyperband-bbd45af14481) by Alexandre Abraham   
+  * Paper: [Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization](https://jmlr.org/papers/volume18/16-558/16-558.pdf)
+by Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar  
   * Blog: [Population Based Bandits: Provably Efficient Online Hyperparameter Optimization](https://www.anyscale.com/blog/population-based-bandits) by Jack Parker-Holder and Amog Kamsetty    
   * Blog: [Population Based Training of Neural Networks](https://deepmind.com/blog/article/population-based-training-neural-networks) by  by Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando and  Koray Kavukcuoglu.  
   * Code: [Guide to Population Based Training (PBT)](https://docs.ray.io/en/latest/tune/tutorials/tune-advanced-tutorial.html)
