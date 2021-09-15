@@ -547,8 +547,8 @@ Required Reading:
 Suggested Reading:
 ```
 
-  * Blog: [Tips for first-time users](https://docs.ray.io/en/latest/auto_examples/tips-for-first-time.html)  
   * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
+  * Blog: [Tips for First-Time Users](https://docs.ray.io/en/latest/auto_examples/tips-for-first-time.html)  
   
   * **Algorithms:**
   * Blog: [Tutorial #8: Bayesian Optimization](https://www.borealisai.com/en/blog/tutorial-8-bayesian-optimization/) by M.O. Ahmed and S. Prince   
