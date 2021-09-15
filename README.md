@@ -548,7 +548,6 @@ Suggested Reading:
 ```
 
   * Blog: [Tips for first-time users](https://docs.ray.io/en/latest/auto_examples/tips-for-first-time.html)  
-  * Blog: [Simple Parallel Model Selection](https://docs.ray.io/en/latest/auto_examples/plot_hyperparameter.html)  
   * Blog: [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/) by Brandon M. Wood   
   
   * **Algorithms:**
