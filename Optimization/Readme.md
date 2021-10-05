@@ -9,7 +9,7 @@ nodes and layers,input features, learning rate, activation function etc in neura
 
 In machine learning, the value of a hyperparameter is used to control the learning process. By contrast, the values of parameters (typically edge weights) 
 are derived via training.   
-In this note, we partition hyperparameters into two parts: structural (model) hyperparameters and algorithm hyperparameters. 
+In this note, we partition hyperparameters into two parts: **structural (model) hyperparameters** and **algorithm hyperparameters**. 
 
 Structural hyperparameters refer to the model selection task and they cannot be inferred while fitting the machine to the training 
 set. An example of a model hyperparameter is the topology and size of a neural network.  
