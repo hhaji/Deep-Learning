@@ -1,6 +1,6 @@
 # Optimization
 
-## [Hyperparameter (machine learning)](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))   
+## [Hyperparameter (Machine Learning)](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))   
 
 A model parameter is a variable whose value is estimated from the dataset. Parameters are the values learned during training from the historical data sets like weights and biases. A hyperparameter is a configuration variable that is external to the model. It is defined manually before the training of the model with the historical dataset. Its value cannot be evaluated from the datasets. For example, the number of hidden nodes and layers,input features, learning rate, activation function etc in neural network.  
 
@@ -22,7 +22,7 @@ small number of hyperparameters are needed to actually optimize the algorithm.
 
 - Evolutionary Optimization: Uses evolutionary algorithms (e.g. genetic functions) to search the space of possible hyperparameters.   
 
-## [A Novice’s Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/)  
+## [A Novice's Guide to Hyperparameter Optimization at Scale](https://wood-b.github.io/post/a-novices-guide-to-hyperparameter-optimization-at-scale/)  
 by Brandon M. Wood   
 
 There are two main types of hyperparameters in machine learning and they dictate what HPO strategies are possible.
