@@ -568,6 +568,8 @@ by Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalka
 Additional Resources:
 ```
 
+  * Blog: [Spark, Dask, and Ray: Choosing the Right Framework](http://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework) by Nikolay Manchev   
+  
   **Optuna** is an automatic hyperparameter optimization software framework, particularly designed for machine learning:  
   * Blog: [Using Optuna to Optimize PyTorch Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36) by Crissman Loomis  
   * Colab: [Optuna](https://colab.research.google.com/github/pfnet-research/optuna-hands-on/blob/master/en/01_Optuna_Quick_Start.ipynb#scrollTo=DjQFH-2x-WJa)  
