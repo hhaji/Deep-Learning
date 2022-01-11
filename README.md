@@ -290,7 +290,8 @@ Suggested Reading:
  * Blog: [Generative VS Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) by Prathap Manohar Joshi   
  * Paper: [Ensemble Methods in Machine Learnin](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) by Thomas G. Dietterich   
  * Blog: [Conventional guide to Supervised learning with scikit-learn — Orthogonal Matching Pursuit (OMP)- Generalized Linear Models (10)](https://medium.com/@venali/conventional-guide-to-supervised-learning-with-scikit-learn-orthogonal-matching-pursuit-omp-d3de1ffef841) by Venali Sonone  
- * Paper: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov  
+ * Paper: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf) by Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov   
+ * Blog: [A Gentle Introduction to Weight Constraints in Deep Learning](https://machinelearningmastery.com/introduction-to-weight-constraints-to-reduce-generalization-error-in-deep-learning/) by Jason Brownlee    
 
 ```
 Additional Reading:
