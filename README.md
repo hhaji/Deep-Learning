@@ -675,6 +675,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+* Blog: [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)    
 * Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
 * Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
 * Paper: [A Practical Guide to Graph Neural Networks](https://arxiv.org/pdf/2010.05234.pdf) by Isaac Ronald Ward, Jack Joyner, Casey Lickfold, Stash Rowe, Yulan Guo, and Mohammed Bennamoun      
