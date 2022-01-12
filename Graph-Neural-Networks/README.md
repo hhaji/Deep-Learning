@@ -37,6 +37,7 @@ Graph Neural Networks have received increasing attentions due to their superior 
 ## <a name="Blogs"></a>Graph Neural Networks    
 - Blog: [Awesome Resources on Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) by Zonghan Wu. This is a collection of resources related with graph neural networks.  
 - Blog: [Deep Learning on Graphs: Successes, Challenges, and Next Steps](https://towardsdatascience.com/deep-learning-on-graphs-successes-challenges-and-next-steps-7d9ec220ba8) by Michael Bronstein   
+- Blog: [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)    
 - Blog: [Graph Convolutionl Networks](http://tkipf.github.io/graph-convolutional-networks/) by Thomas Kipf  
 - Blog: [Graph Convolutional Networks I](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-1/) by  Xavier Bresson  
 - Blog: [Graph Convolutional Networks II](https://atcold.github.io/pytorch-Deep-Learning/en/week13/13-2/) by Xavier Bresson   
