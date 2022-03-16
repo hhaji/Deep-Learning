@@ -529,7 +529,8 @@ Suggested Reading:
 ```
 Additional Reading:
 ```
-  * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich     
+  * Paper: [The Relationship Between Precision-Recall and ROC Curves](https://www.biostat.wisc.edu/~page/rocpr.pdf) by Jesse Davis and Mark Goadrich
+  * Blog: [Making sense of the Kullback–Leibler (KL) Divergence](https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a) by Marko Cotra        
   * **Extra Slides:**  
       * Slide: [Practical Methodology](http://www.deeplearningbook.org/slides/11_practical.pdf)  by Ian Goodfellow  <br>
       * Slide: [Practical Methodology](https://datalab.snu.ac.kr/~ukang/courses/17S-DL/L17-practical-method.pdf) by U Kang <br> 
