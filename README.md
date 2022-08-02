@@ -676,6 +676,7 @@ Required Reading:
 Suggested Reading:
 ```
 
+* Course: [Basics of Graph Neural Networks](https://www.graphneuralnets.com/p/basics-of-gnns/) by Zak Jost  
 * Blog: [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)    
 * Book: [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton   
 * Tutorial: [Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/index.html) by Jure Leskovec      
