@@ -91,6 +91,8 @@ William L. Hamilton and Jian Tang
 - Blog: [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html#schedule) by Jure Leskovec  
 - Blog: [Graph Represetation Learning](https://cs.mcgill.ca/~wlh/comp766/index.html) by William L. Hamilton   
 - Blog: [Graph Neural Networks](https://gnn.seas.upenn.edu) by Alejandro Ribeiro   
+- Blog: [Basics of Graph Neural Networks](https://www.graphneuralnets.com/p/basics-of-gnns/) by Zak Jost  
+
 
 ## <a name="Books"></a>Books       
 - Blog: [Introduction to Graph Neural Networks](https://www.amazon.com/Introduction-Networks-Synthesis-Artificial-Intelligence-ebook/dp/B087LJJNJK) by Zhiyuan Liu and Jie Zhou   
